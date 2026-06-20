@@ -1,0 +1,20 @@
+command_id: 7E0.22100C|din=03
+test_cases:
+- expected_values:
+    AUDI_PQ35_FUEL_LVL_2: 0
+  response: 7E80762100C00000154
+- expected_values:
+    AUDI_PQ35_FUEL_LVL_2: 0
+  response: 7E80762100C00000168
+- expected_values:
+    AUDI_PQ35_FUEL_LVL_2: 0
+  response: 7E80762100C00000334
+- expected_values:
+    AUDI_PQ35_FUEL_LVL_2: 0
+  response: 7E80762100C00000F78
+- expected_values:
+    AUDI_PQ35_FUEL_LVL_2: 0
+  response: 7E80762100C000014C8
+- expected_values:
+    AUDI_PQ35_FUEL_LVL_2: 655.35
+  response: 7E80762100CFFFFFD58
