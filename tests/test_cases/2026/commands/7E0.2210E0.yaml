@@ -1,0 +1,10 @@
+command_id: 7E0.2210E0
+test_cases:
+- expected_values:
+    AUDI_ODO_2: 149
+    AUDI_ODO_V3: 149
+  response: 7E8076210E000000095
+- expected_values:
+    AUDI_ODO_2: 150
+    AUDI_ODO_V3: 150
+  response: 7E8076210E000000096
