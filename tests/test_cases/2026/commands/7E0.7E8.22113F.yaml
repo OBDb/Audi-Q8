@@ -4,8 +4,14 @@ test_cases:
     AUDI_FUEL_CONS: 0
   response: 7E80562113F0000
 - expected_values:
+    AUDI_FUEL_CONS: 1.69
+  response: 7E80562113F00A9
+- expected_values:
     AUDI_FUEL_CONS: 1.8
   response: 7E80562113F00B4
+- expected_values:
+    AUDI_FUEL_CONS: 1.85
+  response: 7E80562113F00B9
 - expected_values:
     AUDI_FUEL_CONS: 2.89
   response: 7E80562113F0121
