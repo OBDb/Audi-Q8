@@ -10,3 +10,7 @@ test_cases:
     AUDI_GEAR_SHFT: DRIVE
     AUDI_MQB_TCM_I_GEAR: 1
   response: 7E90462210F03
+- expected_values:
+    AUDI_GEAR: 4
+    AUDI_MQB_TCM_I_GEAR: 2
+  response: 7E90462210F04
