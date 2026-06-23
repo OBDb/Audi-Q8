@@ -8,25 +8,10 @@ test_cases:
   response: 7E80762121300004BFE
 - expected_values:
     AUDI_PQ35_ENVD_CAM_IN_1: 0
-  response: 7E80762121300004D85
-- expected_values:
-    AUDI_PQ35_ENVD_CAM_IN_1: 0
-  response: 7E80762121300004DF1
-- expected_values:
-    AUDI_PQ35_ENVD_CAM_IN_1: 0
-  response: '7E80762121300005050'
-- expected_values:
-    AUDI_PQ35_ENVD_CAM_IN_1: 0
   response: '7E80762121300005706'
 - expected_values:
     AUDI_PQ35_ENVD_CAM_IN_1: 0
-  response: 7E807621213000057CB
+  response: 7E8076212130000D50F
 - expected_values:
     AUDI_PQ35_ENVD_CAM_IN_1: 0
-  response: 7E80762121300005DA8
-- expected_values:
-    AUDI_PQ35_ENVD_CAM_IN_1: 0
-  response: 7E80762121300007B4E
-- expected_values:
-    AUDI_PQ35_ENVD_CAM_IN_1: 0
-  response: 7E807621213000087A3
+  response: '7E80762121300010907'

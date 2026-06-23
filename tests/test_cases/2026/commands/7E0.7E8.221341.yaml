@@ -1,20 +1,14 @@
 command_id: 7E0.7E8.221341
 test_cases:
 - expected_values:
-    AUDI_PQ35_CAMS_END: 181
-  response: '7E8056213410389'
+    AUDI_PQ35_CAMS_END: 6.8
+  response: '7E8056213410022'
 - expected_values:
-    AUDI_PQ35_CAMS_END: 600.4
-  response: 7E8056213410BBA
-- expected_values:
-    AUDI_PQ35_CAMS_END: 700.2
-  response: 7E8056213410DAD
+    AUDI_PQ35_CAMS_END: 49
+  response: 7E80562134100F5
 - expected_values:
     AUDI_PQ35_CAMS_END: -6553.6
   response: '7E8056213418000'
-- expected_values:
-    AUDI_PQ35_CAMS_END: -350
-  response: 7E805621341F92A
 - expected_values:
     AUDI_PQ35_CAMS_END: -33.6
   response: 7E805621341FF58

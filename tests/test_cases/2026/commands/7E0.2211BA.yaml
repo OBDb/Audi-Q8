@@ -1,14 +1,11 @@
 command_id: 7E0.2211BA
 test_cases:
 - expected_values:
-    AUDI_OIL_LEVEL: 80.072
-  response: 7E8056211BA4E32
+    AUDI_OIL_LEVEL: 65.54
+  response: 7E8056211BA4001
 - expected_values:
-    AUDI_OIL_LEVEL: 82.968
-  response: 7E8056211BA5106
-- expected_values:
-    AUDI_OIL_LEVEL: 85.996
-  response: 7E8056211BA53FB
+    AUDI_OIL_LEVEL: 81.912
+  response: 7E8056211BA4FFE
 - expected_values:
     AUDI_OIL_LEVEL: 93.964
   response: 7E8056211BA5BC3
