@@ -4,20 +4,5 @@ test_cases:
     AUDI_BMS_V_DCHG_PRED_MIN: 44.9
   response: 7ED0562517301C1
 - expected_values:
-    AUDI_BMS_V_DCHG_PRED_MIN: 45.2
-  response: 7ED0562517301C4
-- expected_values:
-    AUDI_BMS_V_DCHG_PRED_MIN: 45.4
-  response: 7ED0562517301C6
-- expected_values:
-    AUDI_BMS_V_DCHG_PRED_MIN: 45.6
-  response: 7ED0562517301C8
-- expected_values:
-    AUDI_BMS_V_DCHG_PRED_MIN: 45.7
-  response: 7ED0562517301C9
-- expected_values:
-    AUDI_BMS_V_DCHG_PRED_MIN: 45.8
-  response: 7ED0562517301CA
-- expected_values:
-    AUDI_BMS_V_DCHG_PRED_MIN: 46
-  response: 7ED0562517301CC
+    AUDI_BMS_V_DCHG_PRED_MIN: 46.4
+  response: 7ED0562517301D0
