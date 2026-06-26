@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     AUDI_DRIVE_TIME_ECO: 93.6
   response: 7E904620303EA
+- expected_values:
+    AUDI_DRIVE_TIME_ECO: 94.4
+  response: 7E904620303EC

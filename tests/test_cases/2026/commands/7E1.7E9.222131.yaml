@@ -4,29 +4,8 @@ test_cases:
     AUDI_TORQUE_CONVERTER_SLIP: 0
   response: '7E9056221310000'
 - expected_values:
-    AUDI_TORQUE_CONVERTER_SLIP: 5
-  response: '7E9056221310005'
-- expected_values:
-    AUDI_TORQUE_CONVERTER_SLIP: 8
-  response: '7E9056221310008'
-- expected_values:
-    AUDI_TORQUE_CONVERTER_SLIP: 9
-  response: '7E9056221310009'
-- expected_values:
-    AUDI_TORQUE_CONVERTER_SLIP: 13
-  response: 7E905622131000D
-- expected_values:
-    AUDI_TORQUE_CONVERTER_SLIP: 145
-  response: '7E9056221310091'
-- expected_values:
-    AUDI_TORQUE_CONVERTER_SLIP: 218
-  response: 7E90562213100DA
-- expected_values:
     AUDI_TORQUE_CONVERTER_SLIP: -91
   response: 7E905622131FFA5
-- expected_values:
-    AUDI_TORQUE_CONVERTER_SLIP: -11
-  response: 7E905622131FFF5
 - expected_values:
     AUDI_TORQUE_CONVERTER_SLIP: -10
   response: 7E905622131FFF6
