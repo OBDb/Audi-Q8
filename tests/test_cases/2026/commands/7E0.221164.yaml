@@ -4,8 +4,8 @@ test_cases:
     AUDI_HVBAT_SOC_DISP: 0
   response: '7E8056211640000'
 - expected_values:
-    AUDI_HVBAT_SOC_DISP: 53.67
-  response: 7E80562116414F7
+    AUDI_HVBAT_SOC_DISP: 58.84
+  response: 7E80562116416FC
 - expected_values:
     AUDI_HVBAT_SOC_DISP: 66.77
   response: 7E8056211641A15
