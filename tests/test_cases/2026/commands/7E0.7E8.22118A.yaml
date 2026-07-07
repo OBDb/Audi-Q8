@@ -4,5 +4,8 @@ test_cases:
     AUDI_PQ35_CAMS_EDGE_POS_3: -29.875
   response: 7E80562118A0022
 - expected_values:
+    AUDI_PQ35_CAMS_EDGE_POS_3: -29.5625
+  response: 7E80562118A0027
+- expected_values:
     AUDI_PQ35_CAMS_EDGE_POS_3: 4063.9375
   response: 7E80562118AFFFF
