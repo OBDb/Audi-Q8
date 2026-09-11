@@ -8,3 +8,7 @@ test_cases:
     AUDI_MISFIRES_C1: 111
     AUDI_PQ35_SOOT_MASS_CALC: 1.11
   response: 7E80562114F006F
+- expected_values:
+    AUDI_MISFIRES_C1: 264
+    AUDI_PQ35_SOOT_MASS_CALC: 2.64
+  response: 7E80562114F0108
