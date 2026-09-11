@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     AUDI_EM_TORQ_2: 8
   response: '7E8056211540100'
+- expected_values:
+    AUDI_EM_TORQ_2: 21.59375
+  response: 7E80562115402B3

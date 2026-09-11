@@ -16,3 +16,7 @@ test_cases:
     AUDI_MISFIRES_1000REV_C3: 3
     AUDI_PQ35_FUEL_METER: 0.03
   response: '7E8056211480003'
+- expected_values:
+    AUDI_MISFIRES_1000REV_C3: 4
+    AUDI_PQ35_FUEL_METER: 0.04
+  response: '7E8056211480004'
