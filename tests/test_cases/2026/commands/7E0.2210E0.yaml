@@ -5,14 +5,10 @@ test_cases:
     AUDI_ODO_V3: 149
   response: 7E8076210E000000095
 - expected_values:
-    AUDI_ODO_2: 252
-    AUDI_ODO_V3: 252
-  response: 7E8076210E0000000FC
+    AUDI_ODO_2: 1023
+    AUDI_ODO_V3: 1023
+  response: 7E8076210E0000003FF
 - expected_values:
-    AUDI_ODO_2: 298
-    AUDI_ODO_V3: 298
-  response: 7E8076210E00000012A
-- expected_values:
-    AUDI_ODO_2: 992
-    AUDI_ODO_V3: 992
-  response: 7E8076210E0000003E0
+    AUDI_ODO_2: 1024
+    AUDI_ODO_V3: 1024
+  response: 7E8076210E000000400
