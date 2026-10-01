@@ -1,0 +1,10 @@
+command_id: 7E0.7E8.221484|fc=1
+test_cases:
+- expected_values:
+    AUDI_MIS_PER_1000_RPM_1: 8
+    AUDI_MOTOR_V: 0.25
+  response: '7E8056214840008'
+- expected_values:
+    AUDI_MIS_PER_1000_RPM_1: 1552
+    AUDI_MOTOR_V: 48.5
+  response: '7E8056214840610'

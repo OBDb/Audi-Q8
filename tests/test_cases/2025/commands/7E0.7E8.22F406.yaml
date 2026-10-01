@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F406
+test_cases:
+- expected_values:
+    AUDI_SHORT_TERM_FUEL_TRIM_1: -14.84375
+  response: 7E80462F4066D
+- expected_values:
+    AUDI_SHORT_TERM_FUEL_TRIM_1: 0
+  response: 7E80462F40680

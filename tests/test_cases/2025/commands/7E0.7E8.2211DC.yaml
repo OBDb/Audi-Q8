@@ -1,0 +1,10 @@
+command_id: 7E0.7E8.2211DC
+test_cases:
+- expected_values:
+    AUDI_INT_MANIFOLD_P_RAW: 2.1875
+    AUDI_MAP_RAW: 568.51562
+  response: 7E8056211DC1C6D
+- expected_values:
+    AUDI_INT_MANIFOLD_P_RAW: 3.90625
+    AUDI_MAP_RAW: 1015.3125
+  response: 7E8056211DC32C4

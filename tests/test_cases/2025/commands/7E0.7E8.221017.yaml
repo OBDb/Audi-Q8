@@ -1,0 +1,6 @@
+command_id: 7E0.7E8.221017
+test_cases:
+- expected_values:
+    AUDI_AC_COMP_P: 0
+    AUDI_AC_REFRIG_P: 0
+  response: '7E8056210170000'

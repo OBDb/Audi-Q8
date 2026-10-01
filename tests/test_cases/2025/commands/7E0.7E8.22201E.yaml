@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22201E
+test_cases:
+- expected_values:
+    AUDI_CAM_ADJ_INT_ACT: 64
+  response: 7E80562201E0280
+- expected_values:
+    AUDI_CAM_ADJ_INT_ACT: -21.8
+  response: 7E80562201EFF26

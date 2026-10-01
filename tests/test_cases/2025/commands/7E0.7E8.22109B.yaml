@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22109B
+test_cases:
+- expected_values:
+    AUDI_ECT_RAD_OUT_2: -273
+  response: 7E80562109B0000
+- expected_values:
+    AUDI_ECT_RAD_OUT_2: -273
+  response: 7E80562109B0001

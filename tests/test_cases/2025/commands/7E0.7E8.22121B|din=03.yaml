@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22121B|din=03
+test_cases:
+- expected_values:
+    AUDI_POST_INJ_2: 2.1168
+  response: 7E80562121B14AC
+- expected_values:
+    AUDI_POST_INJ_2: 2.1184
+  response: 7E80562121B14B0

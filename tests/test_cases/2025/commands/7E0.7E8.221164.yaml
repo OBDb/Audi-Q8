@@ -1,0 +1,22 @@
+command_id: 7E0.7E8.221164
+test_cases:
+- expected_values:
+    AUDI_HVBAT_SOC_DISP: 47.74
+    AUDI_SRV_REGEN_VALUE_2012: 4774
+  response: 7E80562116412A6
+- expected_values:
+    AUDI_HVBAT_SOC_DISP: 50.08
+    AUDI_SRV_REGEN_VALUE_2012: 5008
+  response: '7E8056211641390'
+- expected_values:
+    AUDI_HVBAT_SOC_DISP: 51.58
+    AUDI_SRV_REGEN_VALUE_2012: 5158
+  response: '7E8056211641426'
+- expected_values:
+    AUDI_HVBAT_SOC_DISP: 52
+    AUDI_SRV_REGEN_VALUE_2012: 5200
+  response: '7E8056211641450'
+- expected_values:
+    AUDI_HVBAT_SOC_DISP: 63.18
+    AUDI_SRV_REGEN_VALUE_2012: 6318
+  response: 7E80562116418AE

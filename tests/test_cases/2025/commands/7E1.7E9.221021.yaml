@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.221021
+test_cases:
+- expected_values:
+    AUDI_TCM_DRAG_TQ: 1
+  response: '7E9056210210001'
+- expected_values:
+    AUDI_TCM_DRAG_TQ: 2
+  response: '7E9056210210002'

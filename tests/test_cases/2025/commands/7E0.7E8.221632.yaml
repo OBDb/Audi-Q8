@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221632
+test_cases:
+- expected_values:
+    AUDI_EOT_MEAS: 82.6
+  response: 7E8056216320DE5
+- expected_values:
+    AUDI_EOT_MEAS: 96.3
+  response: 7E8056216320E6E

@@ -1,0 +1,10 @@
+command_id: 7E0.7E8.2211C8
+test_cases:
+- expected_values:
+    AUDI_FUEL_LOW_P_ACT: 569.2
+    AUDI_LOW_FUEL_P_ACT: 569.2
+  response: 7E8056211C8163C
+- expected_values:
+    AUDI_FUEL_LOW_P_ACT: 678.6
+    AUDI_LOW_FUEL_P_ACT: 678.6
+  response: 7E8056211C81A82

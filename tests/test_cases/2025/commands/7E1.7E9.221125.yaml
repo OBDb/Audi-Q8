@@ -1,0 +1,7 @@
+command_id: 7E1.7E9.221125
+test_cases:
+- expected_values:
+    AUDI_CLU_2_HI_ADPT_POINT: 0.891
+  response: |-
+    7E9100D621125037B01
+    7E921740660021F034F

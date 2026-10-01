@@ -1,0 +1,6 @@
+command_id: 7E0.7E8.2215CF
+test_cases:
+- expected_values:
+    AUDI_LONGITUDINAL_ACCEL: 0
+    AUDI_LONGITUDINAL_ACCEL_RAW: 0
+  response: 7E8056215CF0000
