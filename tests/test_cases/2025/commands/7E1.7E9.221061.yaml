@@ -4,5 +4,17 @@ test_cases:
     AUDI_DES_TQ_RAW: 0
   response: '7E9056210610000'
 - expected_values:
+    AUDI_DES_TQ_RAW: 6
+  response: '7E9056210610006'
+- expected_values:
+    AUDI_DES_TQ_RAW: 58
+  response: 7E905621061003A
+- expected_values:
+    AUDI_DES_TQ_RAW: 94
+  response: 7E905621061005E
+- expected_values:
+    AUDI_DES_TQ_RAW: 242
+  response: 7E90562106100F2
+- expected_values:
     AUDI_DES_TQ_RAW: -8
   response: 7E905621061FFF8

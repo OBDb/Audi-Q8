@@ -1,5 +1,14 @@
 command_id: 7E1.7E9.221033
 test_cases:
 - expected_values:
+    AUDI_TIME_SINCE_SHIFT: 90
+  response: '7E90462103303'
+- expected_values:
+    AUDI_TIME_SINCE_SHIFT: 630
+  response: '7E90462103315'
+- expected_values:
+    AUDI_TIME_SINCE_SHIFT: 4620
+  response: 7E9046210339A
+- expected_values:
     AUDI_TIME_SINCE_SHIFT: 7650
   response: 7E904621033FF

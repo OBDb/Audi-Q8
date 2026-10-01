@@ -5,6 +5,18 @@ test_cases:
     AUDI_MOTOR_V: 0.25
   response: '7E8056214840008'
 - expected_values:
+    AUDI_MIS_PER_1000_RPM_1: 1544
+    AUDI_MOTOR_V: 48.25
+  response: '7E8056214840608'
+- expected_values:
     AUDI_MIS_PER_1000_RPM_1: 1552
     AUDI_MOTOR_V: 48.5
   response: '7E8056214840610'
+- expected_values:
+    AUDI_MIS_PER_1000_RPM_1: 1560
+    AUDI_MOTOR_V: 48.75
+  response: '7E8056214840618'
+- expected_values:
+    AUDI_MIS_PER_1000_RPM_1: 1584
+    AUDI_MOTOR_V: 49.5
+  response: '7E8056214840630'

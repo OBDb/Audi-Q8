@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     AUDI_CURRENT_SOLENOID: 0
   response: '7E9056210370000'
+- expected_values:
+    AUDI_CURRENT_SOLENOID: 1000
+  response: '7E9056210372710'

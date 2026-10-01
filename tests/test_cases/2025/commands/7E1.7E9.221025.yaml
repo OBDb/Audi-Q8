@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     AUDI_CURRENT_N218_P_CTRL_4: 303.7
   response: 7E9056210250BDD
+- expected_values:
+    AUDI_CURRENT_N218_P_CTRL_4: 850
+  response: '7E9056210252134'

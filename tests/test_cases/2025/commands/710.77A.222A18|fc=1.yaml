@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     AUDI_ENTIRE_ENERGY: 559.6
   response: 77A06622A180015DC
+- expected_values:
+    AUDI_ENTIRE_ENERGY: 561.3
+  response: 77A06622A180015ED
+- expected_values:
+    AUDI_ENTIRE_ENERGY: 562.1
+  response: 77A06622A180015F5

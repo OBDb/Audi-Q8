@@ -4,5 +4,11 @@ test_cases:
     AUDI_RATED_DRIVE_TQ: 0
   response: 7E8076214A100000000
 - expected_values:
-    AUDI_RATED_DRIVE_TQ: 526.5
-  response: 7E8076214A100001491
+    AUDI_RATED_DRIVE_TQ: 25.5
+  response: 7E8076214A1000000FF
+- expected_values:
+    AUDI_RATED_DRIVE_TQ: -263
+  response: 7E8076214A1FFFFF5BA
+- expected_values:
+    AUDI_RATED_DRIVE_TQ: -17
+  response: 7E8076214A1FFFFFF56

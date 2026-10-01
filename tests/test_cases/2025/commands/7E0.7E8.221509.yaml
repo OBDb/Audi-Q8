@@ -8,3 +8,35 @@ test_cases:
     AUDI_AMBIENT_AIR_P: 1016.418
     AUDI_BAROMETRIC_P: 104.248
   response: 7E80562150965CE
+- expected_values:
+    AUDI_AMBIENT_AIR_P: 1019.733
+    AUDI_BAROMETRIC_P: 104.588
+  response: '7E8056215096623'
+- expected_values:
+    AUDI_AMBIENT_AIR_P: 1020.123
+    AUDI_BAROMETRIC_P: 104.628
+  response: 7E805621509662D
+- expected_values:
+    AUDI_AMBIENT_AIR_P: 1020.513
+    AUDI_BAROMETRIC_P: 104.668
+  response: '7E8056215096637'
+- expected_values:
+    AUDI_AMBIENT_AIR_P: 1020.708
+    AUDI_BAROMETRIC_P: 104.688
+  response: 7E805621509663C
+- expected_values:
+    AUDI_AMBIENT_AIR_P: 1020.903
+    AUDI_BAROMETRIC_P: 104.708
+  response: '7E8056215096641'
+- expected_values:
+    AUDI_AMBIENT_AIR_P: 1021.098
+    AUDI_BAROMETRIC_P: 104.728
+  response: '7E8056215096646'
+- expected_values:
+    AUDI_AMBIENT_AIR_P: 1021.293
+    AUDI_BAROMETRIC_P: 104.748
+  response: 7E805621509664B
+- expected_values:
+    AUDI_AMBIENT_AIR_P: 1021.488
+    AUDI_BAROMETRIC_P: 104.768
+  response: '7E8056215096650'

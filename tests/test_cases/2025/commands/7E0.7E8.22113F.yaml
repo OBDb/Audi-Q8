@@ -5,14 +5,10 @@ test_cases:
     AUDI_FUEL_RATE: 0
   response: 7E80562113F0000
 - expected_values:
-    AUDI_FUEL_CONS: 1.64
-    AUDI_FUEL_RATE: 1.64
-  response: 7E80562113F00A4
+    AUDI_FUEL_CONS: 5.1
+    AUDI_FUEL_RATE: 5.1
+  response: 7E80562113F01FE
 - expected_values:
-    AUDI_FUEL_CONS: 1.75
-    AUDI_FUEL_RATE: 1.75
-  response: 7E80562113F00AF
-- expected_values:
-    AUDI_FUEL_CONS: 2.68
-    AUDI_FUEL_RATE: 2.68
-  response: 7E80562113F010C
+    AUDI_FUEL_CONS: 13.93
+    AUDI_FUEL_RATE: 13.93
+  response: 7E80562113F0571

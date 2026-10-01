@@ -8,3 +8,15 @@ test_cases:
     AUDI_ODO: 1191
     AUDI_ODO_V3: 1191
   response: 7E8076210E0000004A7
+- expected_values:
+    AUDI_ODO: 1192
+    AUDI_ODO_V3: 1192
+  response: 7E8076210E0000004A8
+- expected_values:
+    AUDI_ODO: 1194
+    AUDI_ODO_V3: 1194
+  response: 7E8076210E0000004AA
+- expected_values:
+    AUDI_ODO: 1196
+    AUDI_ODO_V3: 1196
+  response: 7E8076210E0000004AC

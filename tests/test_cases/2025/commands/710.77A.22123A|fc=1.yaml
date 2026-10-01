@@ -12,3 +12,27 @@ test_cases:
   response: |-
     77A100B62123A000017
     77A215D000015C7AAAA
+- expected_values:
+    AUDI_BZE_Q_ELAD: 559.2
+    AUDI_BZE_Q_LAD: 598.4
+  response: |-
+    77A100B62123A000017
+    77A2160000015D8AAAA
+- expected_values:
+    AUDI_BZE_Q_ELAD: 559.2
+    AUDI_BZE_Q_LAD: 599.8
+  response: |-
+    77A100B62123A000017
+    77A216E000015D8AAAA
+- expected_values:
+    AUDI_BZE_Q_ELAD: 560
+    AUDI_BZE_Q_LAD: 600.2
+  response: |-
+    77A100B62123A000017
+    77A2172000015E0AAAA
+- expected_values:
+    AUDI_BZE_Q_ELAD: 560
+    AUDI_BZE_Q_LAD: 601.1
+  response: |-
+    77A100B62123A000017
+    77A217B000015E0AAAA

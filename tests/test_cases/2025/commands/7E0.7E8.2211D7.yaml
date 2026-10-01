@@ -1,8 +1,14 @@
 command_id: 7E0.7E8.2211D7
 test_cases:
 - expected_values:
-    AUDI_HIGH_FUEL_P_CMD: 10
-  response: 7E8056211D74E20
+    AUDI_HIGH_FUEL_P_CMD: 9.626
+  response: 7E8056211D74B34
 - expected_values:
-    AUDI_HIGH_FUEL_P_CMD: 24.754
-  response: 7E8056211D7C164
+    AUDI_HIGH_FUEL_P_CMD: 17.27
+  response: 7E8056211D786EC
+- expected_values:
+    AUDI_HIGH_FUEL_P_CMD: 19.842
+  response: 7E8056211D79B04
+- expected_values:
+    AUDI_HIGH_FUEL_P_CMD: 25
+  response: 7E8056211D7C350

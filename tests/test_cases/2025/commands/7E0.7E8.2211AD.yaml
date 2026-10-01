@@ -4,5 +4,11 @@ test_cases:
     AUDI_MAF_CMD: 5.7
   response: 7E8056211AD0039
 - expected_values:
-    AUDI_MAF_CMD: 16.4
-  response: 7E8056211AD00A4
+    AUDI_MAF_CMD: 24.5
+  response: 7E8056211AD00F5
+- expected_values:
+    AUDI_MAF_CMD: 30.3
+  response: 7E8056211AD012F
+- expected_values:
+    AUDI_MAF_CMD: 70.6
+  response: 7E8056211AD02C2
