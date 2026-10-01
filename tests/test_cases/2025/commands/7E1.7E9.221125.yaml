@@ -5,3 +5,13 @@ test_cases:
   response: |-
     7E9100D621125037B01
     7E921740660021F034F
+- expected_values:
+    AUDI_CLU_2_HI_ADPT_POINT: 0.896
+  response: |-
+    7E9100D621125038001
+    7E92175066C02210351
+- expected_values:
+    AUDI_CLU_2_HI_ADPT_POINT: 0.914
+  response: |-
+    7E9100D621125039201
+    7E9217606930233035F

@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221519
 test_cases:
 - expected_values:
-    AUDI_FUEL_CONS_ACT_DRIVE: 0.46
-  response: 7E805621519002E
+    AUDI_FUEL_CONS_ACT_DRIVE: 0.08
+  response: '7E8056215190008'
 - expected_values:
-    AUDI_FUEL_CONS_ACT_DRIVE: 0.52
-  response: '7E8056215190034'
+    AUDI_FUEL_CONS_ACT_DRIVE: 0.77
+  response: 7E805621519004D

@@ -4,5 +4,5 @@ test_cases:
     AUDI_REQ_TQ_AMOUNT: 0
   response: 7E8056210BE0000
 - expected_values:
-    AUDI_REQ_TQ_AMOUNT: 2.5
-  response: 7E8056210BE0019
+    AUDI_REQ_TQ_AMOUNT: 6.3
+  response: 7E8056210BE003F

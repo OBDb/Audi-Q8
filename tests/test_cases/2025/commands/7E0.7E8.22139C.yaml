@@ -1,8 +1,14 @@
 command_id: 7E0.7E8.22139C
 test_cases:
 - expected_values:
-    AUDI_EGT_LAMBDA_SENS_1: 369.6
-  response: 7E80562139C191B
+    AUDI_EGT_LAMBDA_SENS_1: 348.3
+  response: 7E80562139C1846
 - expected_values:
     AUDI_EGT_LAMBDA_SENS_1: 444.8
   response: 7E80562139C1C0B
+- expected_values:
+    AUDI_EGT_LAMBDA_SENS_1: 467.6
+  response: 7E80562139C1CEF
+- expected_values:
+    AUDI_EGT_LAMBDA_SENS_1: 594
+  response: 7E80562139C21DF

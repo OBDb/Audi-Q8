@@ -8,3 +8,11 @@ test_cases:
     AUDI_TQ_LOSS_ADPT_AC_COMP: 0.3
     AUDI_TQ_LOSS_ADPT_AC_COMP_GEAR: 0.3
   response: '7E8056212220003'
+- expected_values:
+    AUDI_TQ_LOSS_ADPT_AC_COMP: 3.7
+    AUDI_TQ_LOSS_ADPT_AC_COMP_GEAR: 3.7
+  response: '7E8056212220025'
+- expected_values:
+    AUDI_TQ_LOSS_ADPT_AC_COMP: 3.8
+    AUDI_TQ_LOSS_ADPT_AC_COMP_GEAR: 3.8
+  response: '7E8056212220026'

@@ -8,3 +8,7 @@ test_cases:
     AUDI_MIS_CNT_4: 65345
     AUDI_MOTOR_TQ: -63.66667
   response: 7E80562147FFF41
+- expected_values:
+    AUDI_MIS_CNT_4: 65358
+    AUDI_MOTOR_TQ: -59.33333
+  response: 7E80562147FFF4E

@@ -4,3 +4,19 @@ test_cases:
     AUDI_ODO_3_V2: 1191
     AUDI_ODO_7E1: 1191
   response: 7E90662103D0004A7
+- expected_values:
+    AUDI_ODO_3_V2: 1192
+    AUDI_ODO_7E1: 1192
+  response: 7E90662103D0004A8
+- expected_values:
+    AUDI_ODO_3_V2: 1194
+    AUDI_ODO_7E1: 1194
+  response: 7E90662103D0004AA
+- expected_values:
+    AUDI_ODO_3_V2: 1195
+    AUDI_ODO_7E1: 1195
+  response: 7E90662103D0004AB
+- expected_values:
+    AUDI_ODO_3_V2: 1196
+    AUDI_ODO_7E1: 1196
+  response: 7E90662103D0004AC

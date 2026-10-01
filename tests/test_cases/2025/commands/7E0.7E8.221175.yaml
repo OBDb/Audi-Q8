@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     AUDI_INTEGRATED_MASS_AIR: 272.71452
   response: 7E80562117502FF
+- expected_values:
+    AUDI_INTEGRATED_MASS_AIR: 8985.0012
+  response: 7E80562117562B6

@@ -6,5 +6,13 @@ test_cases:
   response: 7E8056211F032C4
 - expected_values:
     AUDI_ACT_TURBO_BOOST: 2
-    AUDI_BOOST_P_ACT_V2: 1055.23438
-  response: 7E8056211F034C3
+    AUDI_BOOST_P_ACT_V2: 1019.21875
+  response: 7E8056211F032F6
+- expected_values:
+    AUDI_ACT_TURBO_BOOST: 2
+    AUDI_BOOST_P_ACT_V2: 1020.78125
+  response: 7E8056211F0330A
+- expected_values:
+    AUDI_ACT_TURBO_BOOST: 2
+    AUDI_BOOST_P_ACT_V2: 1061.48438
+  response: 7E8056211F03513

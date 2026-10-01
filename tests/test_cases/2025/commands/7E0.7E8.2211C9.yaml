@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2211C9
 test_cases:
 - expected_values:
-    AUDI_FUEL_PMP_ADPT: 16
-  response: 7E8056211C900A0
+    AUDI_FUEL_PMP_ADPT: 14.1
+  response: 7E8056211C9008D
 - expected_values:
-    AUDI_FUEL_PMP_ADPT: 17.7
-  response: 7E8056211C900B1
+    AUDI_FUEL_PMP_ADPT: 22.2
+  response: 7E8056211C900DE

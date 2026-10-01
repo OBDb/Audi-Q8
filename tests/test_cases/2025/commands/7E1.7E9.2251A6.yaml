@@ -1,5 +1,17 @@
 command_id: 7E1.7E9.2251A6
 test_cases:
 - expected_values:
+    AUDI_AUX_HYDRAULIC_PMP_T: 29
+  response: 7E9046251A645
+- expected_values:
+    AUDI_AUX_HYDRAULIC_PMP_T: 54
+  response: 7E9046251A65E
+- expected_values:
     AUDI_AUX_HYDRAULIC_PMP_T: 57
   response: 7E9046251A661
+- expected_values:
+    AUDI_AUX_HYDRAULIC_PMP_T: 58
+  response: 7E9046251A662
+- expected_values:
+    AUDI_AUX_HYDRAULIC_PMP_T: 67
+  response: 7E9046251A66B

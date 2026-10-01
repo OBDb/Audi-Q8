@@ -4,5 +4,8 @@ test_cases:
     AUDI_NUM_INJECTIONS: 0
   response: 7E80562430E0000
 - expected_values:
-    AUDI_NUM_INJECTIONS: 7031
-  response: 7E80562430E1B77
+    AUDI_NUM_INJECTIONS: 18940
+  response: 7E80562430E49FC
+- expected_values:
+    AUDI_NUM_INJECTIONS: 42174
+  response: 7E80562430EA4BE

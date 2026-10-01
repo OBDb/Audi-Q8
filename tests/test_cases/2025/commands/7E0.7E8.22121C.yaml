@@ -4,5 +4,11 @@ test_cases:
     AUDI_AIR_FILLING: 12.30495
   response: 7E80562121C020D
 - expected_values:
-    AUDI_AIR_FILLING: 30.25846
-  response: 7E80562121C050B
+    AUDI_AIR_FILLING: 29.93033
+  response: 7E80562121C04FD
+- expected_values:
+    AUDI_AIR_FILLING: 30.23502
+  response: 7E80562121C050A
+- expected_values:
+    AUDI_AIR_FILLING: 61.68882
+  response: 7E80562121C0A48

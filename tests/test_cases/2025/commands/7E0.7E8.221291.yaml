@@ -1,8 +1,20 @@
 command_id: 7E0.7E8.221291
 test_cases:
 - expected_values:
+    AUDI_CLT_ENG_START: 26.9
+  response: 7E8056212910BB8
+- expected_values:
+    AUDI_CLT_ENG_START: 87.6
+  response: 7E8056212910E17
+- expected_values:
     AUDI_CLT_ENG_START: 89.4
   response: 7E8056212910E29
 - expected_values:
     AUDI_CLT_ENG_START: 97.2
   response: 7E8056212910E77
+- expected_values:
+    AUDI_CLT_ENG_START: 101.6
+  response: 7E8056212910EA3
+- expected_values:
+    AUDI_CLT_ENG_START: 103.4
+  response: 7E8056212910EB5

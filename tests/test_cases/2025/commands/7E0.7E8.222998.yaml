@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     AUDI_MANUAL_ENG_STARTS: 230
   response: 7E80562299800E6
+- expected_values:
+    AUDI_MANUAL_ENG_STARTS: 231
+  response: 7E80562299800E7
