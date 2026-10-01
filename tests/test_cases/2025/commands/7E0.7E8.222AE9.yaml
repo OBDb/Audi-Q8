@@ -1,0 +1,10 @@
+command_id: 7E0.7E8.222AE9
+test_cases:
+- expected_values:
+    AUDI_EGT_AFTER_CAT_MODEL_1: 457.55309
+    AUDI_EXH_GAS_T_CALC_AFTER: 457.61544
+  response: 7E805622AE979C8
+- expected_values:
+    AUDI_EGT_AFTER_CAT_MODEL_1: 499.15554
+    AUDI_EXH_GAS_T_CALC_AFTER: 499.22144
+  response: 7E805622AE980B7

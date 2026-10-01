@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2215D1
+test_cases:
+- expected_values:
+    AUDI_LATERAL_ACCEL_RAW: 0
+  response: 7E8056215D10000
+- expected_values:
+    AUDI_LATERAL_ACCEL_RAW: -0.01
+  response: 7E8056215D1FFFF

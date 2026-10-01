@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22449A
+test_cases:
+- expected_values:
+    AUDI_DPF_OUTPUT_T_RAW: 0
+  response: 7E80562449A0AAB

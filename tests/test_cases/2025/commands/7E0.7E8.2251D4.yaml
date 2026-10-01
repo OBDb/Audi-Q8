@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2251D4
+test_cases:
+- expected_values:
+    AUDI_CYL_BLOCK_T_SENS: 98.7
+  response: 7E8056251D40E86
+- expected_values:
+    AUDI_CYL_BLOCK_T_SENS: 101.7
+  response: 7E8056251D40EA4

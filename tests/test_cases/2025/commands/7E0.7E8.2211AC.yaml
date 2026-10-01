@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2211AC
+test_cases:
+- expected_values:
+    AUDI_MAF_THROUGH_THROTTLE: 0
+  response: 7E8056211AC0000
+- expected_values:
+    AUDI_MAF_THROUGH_THROTTLE: 19.4
+  response: 7E8056211AC00C2
