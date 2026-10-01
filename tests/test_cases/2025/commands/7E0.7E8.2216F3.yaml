@@ -5,6 +5,10 @@ test_cases:
     AUDI_RPM_V2: 0
   response: 7E8056216F30000
 - expected_values:
-    AUDI_RPM_7E0: 1461.5
-    AUDI_RPM_V2: 1461.5
-  response: 7E8056216F30B6B
+    AUDI_RPM_7E0: 631.5
+    AUDI_RPM_V2: 631.5
+  response: 7E8056216F304EF
+- expected_values:
+    AUDI_RPM_7E0: 1664
+    AUDI_RPM_V2: 1664
+  response: 7E8056216F30D00

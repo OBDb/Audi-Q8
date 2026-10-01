@@ -5,4 +5,7 @@ test_cases:
   response: 7E8056239A40000
 - expected_values:
     AUDI_CHG_P_ACTUATOR_SPEC_7E0: 100
-  response: 7E8056239A44163
+  response: 7E8056239A442BE
+- expected_values:
+    AUDI_CHG_P_ACTUATOR_SPEC_7E0: 100
+  response: 7E8056239A46D4F

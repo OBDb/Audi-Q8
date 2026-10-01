@@ -1,8 +1,23 @@
 command_id: 7E0.7E8.2211B8
 test_cases:
 - expected_values:
+    AUDI_AIR_LEAKAGE: 6.4
+  response: 7E8056211B80040
+- expected_values:
+    AUDI_AIR_LEAKAGE: 6.6
+  response: 7E8056211B80042
+- expected_values:
     AUDI_AIR_LEAKAGE: 6.7
   response: 7E8056211B80043
 - expected_values:
     AUDI_AIR_LEAKAGE: 6.8
   response: 7E8056211B80044
+- expected_values:
+    AUDI_AIR_LEAKAGE: 6.9
+  response: 7E8056211B80045
+- expected_values:
+    AUDI_AIR_LEAKAGE: 7
+  response: 7E8056211B80046
+- expected_values:
+    AUDI_AIR_LEAKAGE: 7.2
+  response: 7E8056211B80048

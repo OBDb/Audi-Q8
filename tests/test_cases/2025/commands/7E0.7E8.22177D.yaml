@@ -1,8 +1,14 @@
 command_id: 7E0.7E8.22177D
 test_cases:
 - expected_values:
+    AUDI_OIL_P_ACT_7E0: 99.2
+  response: 7E80562177D03E0
+- expected_values:
     AUDI_OIL_P_ACT_7E0: 103.5
   response: 7E80562177D040B
 - expected_values:
-    AUDI_OIL_P_ACT_7E0: 246.3
-  response: 7E80562177D099F
+    AUDI_OIL_P_ACT_7E0: 232
+  response: 7E80562177D0910
+- expected_values:
+    AUDI_OIL_P_ACT_7E0: 254.7
+  response: 7E80562177D09F3

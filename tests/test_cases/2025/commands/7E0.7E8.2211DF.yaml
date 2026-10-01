@@ -1,8 +1,14 @@
 command_id: 7E0.7E8.2211DF
 test_cases:
 - expected_values:
-    AUDI_POWERTRAIN_OVERALL: 9.32
-  response: 7E8056211DF03A4
+    AUDI_POWERTRAIN_OVERALL: 6.01
+  response: 7E8056211DF0259
 - expected_values:
-    AUDI_POWERTRAIN_OVERALL: 17.49
-  response: 7E8056211DF06D5
+    AUDI_POWERTRAIN_OVERALL: 7.49
+  response: 7E8056211DF02ED
+- expected_values:
+    AUDI_POWERTRAIN_OVERALL: 10.34
+  response: 7E8056211DF040A
+- expected_values:
+    AUDI_POWERTRAIN_OVERALL: 29.89
+  response: 7E8056211DF0BAD

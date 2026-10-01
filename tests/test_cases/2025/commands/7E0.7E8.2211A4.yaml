@@ -4,5 +4,11 @@ test_cases:
     AUDI_FUEL_PMP_CMD_DUTY: 10.00058
   response: 7E8056211A4199A
 - expected_values:
-    AUDI_FUEL_PMP_CMD_DUTY: 30.00021
-  response: 7E8056211A44CCD
+    AUDI_FUEL_PMP_CMD_DUTY: 31.25601
+  response: 7E8056211A45004
+- expected_values:
+    AUDI_FUEL_PMP_CMD_DUTY: 32.80019
+  response: 7E8056211A453F8
+- expected_values:
+    AUDI_FUEL_PMP_CMD_DUTY: 33.88051
+  response: 7E8056211A456BC

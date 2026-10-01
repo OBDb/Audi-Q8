@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22128A
 test_cases:
 - expected_values:
-    AUDI_FUEL_T: 82.5
-  response: 7E80462128AAE
+    AUDI_FUEL_T: 27.75
+  response: 7E80462128A65
 - expected_values:
-    AUDI_FUEL_T: 90
-  response: 7E80462128AB8
+    AUDI_FUEL_T: 93
+  response: 7E80462128ABC

@@ -1,8 +1,14 @@
 command_id: 7E0.7E8.2211DD
 test_cases:
 - expected_values:
-    AUDI_INT_MANIFOLD_P_CMD: 271.48438
-  response: 7E8056211DD0D93
+    AUDI_INT_MANIFOLD_P_CMD: 262.8125
+  response: 7E8056211DD0D24
 - expected_values:
-    AUDI_INT_MANIFOLD_P_CMD: 797.65625
-  response: 7E8056211DD27E2
+    AUDI_INT_MANIFOLD_P_CMD: 397.65625
+  response: 7E8056211DD13E2
+- expected_values:
+    AUDI_INT_MANIFOLD_P_CMD: 860.54688
+  response: 7E8056211DD2B07
+- expected_values:
+    AUDI_INT_MANIFOLD_P_CMD: 950.70312
+  response: 7E8056211DD2F89

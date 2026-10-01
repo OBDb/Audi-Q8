@@ -4,5 +4,14 @@ test_cases:
     AUDI_POST_INJ_2: 2.1168
   response: 7E80562121B14AC
 - expected_values:
+    AUDI_POST_INJ_2: 2.1176
+  response: 7E80562121B14AE
+- expected_values:
     AUDI_POST_INJ_2: 2.1184
   response: 7E80562121B14B0
+- expected_values:
+    AUDI_POST_INJ_2: 2.4992
+  response: 7E80562121B1868
+- expected_values:
+    AUDI_POST_INJ_2: 2.746
+  response: 7E80562121B1AD1

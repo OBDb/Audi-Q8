@@ -15,3 +15,23 @@ test_cases:
   response: |-
     778100C625036007600
     7782184020E024D00AA
+- expected_values:
+    AUDI_HUMIDITY_SENS_REL: 29.205
+  response: |-
+    778100C625036008400
+    778213B01D2029400AA
+- expected_values:
+    AUDI_HUMIDITY_SENS_REL: 37.62
+  response: |-
+    778100C625036008400
+    778214C01F5029200AA
+- expected_values:
+    AUDI_HUMIDITY_SENS_REL: 44.55
+  response: |-
+    778100C625036008400
+    778215A020F029000AA
+- expected_values:
+    AUDI_HUMIDITY_SENS_REL: 31.185
+  response: |-
+    778100C625036008E00
+    778213F020902C600AA

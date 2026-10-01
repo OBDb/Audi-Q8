@@ -3,3 +3,18 @@ test_cases:
 - expected_values:
     AUDI_TOT_MASS_GASOLINE: 0
   response: '7E8056217130000'
+- expected_values:
+    AUDI_TOT_MASS_GASOLINE: 0.02133
+  response: '7E8056217130001'
+- expected_values:
+    AUDI_TOT_MASS_GASOLINE: 0.064
+  response: '7E8056217130003'
+- expected_values:
+    AUDI_TOT_MASS_GASOLINE: 0.08533
+  response: '7E8056217130004'
+- expected_values:
+    AUDI_TOT_MASS_GASOLINE: 0.14933
+  response: '7E8056217130007'
+- expected_values:
+    AUDI_TOT_MASS_GASOLINE: 0.256
+  response: 7E805621713000C

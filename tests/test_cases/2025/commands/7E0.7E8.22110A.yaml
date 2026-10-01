@@ -4,5 +4,8 @@ test_cases:
     AUDI_MASS_FLOW_THROUGH: 0
   response: 7E80562110A0000
 - expected_values:
-    AUDI_MASS_FLOW_THROUGH: 6545.8
-  response: 7E80562110AFFB2
+    AUDI_MASS_FLOW_THROUGH: 6531
+  response: 7E80562110AFF1E
+- expected_values:
+    AUDI_MASS_FLOW_THROUGH: 6553
+  response: 7E80562110AFFFA

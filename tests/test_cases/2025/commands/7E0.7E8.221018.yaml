@@ -4,5 +4,8 @@ test_cases:
     AUDI_CLT_FAN_REQ_AC: 0
   response: '7E8056210180000'
 - expected_values:
-    AUDI_CLT_FAN_REQ_AC: 37.19473
-  response: 7E8056210180BE7
+    AUDI_CLT_FAN_REQ_AC: 43.6034
+  response: 7E8056210180DF4
+- expected_values:
+    AUDI_CLT_FAN_REQ_AC: 43.99403
+  response: 7E8056210180E14

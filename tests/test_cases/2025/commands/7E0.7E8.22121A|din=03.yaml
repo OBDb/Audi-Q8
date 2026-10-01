@@ -4,5 +4,17 @@ test_cases:
     AUDI_PRE_INJ_3_ACTIVATION: 0
   response: 7E80562121A0000
 - expected_values:
+    AUDI_PRE_INJ_3_ACTIVATION: 0.25
+  response: 7E80562121A0271
+- expected_values:
+    AUDI_PRE_INJ_3_ACTIVATION: 0.2788
+  response: 7E80562121A02B9
+- expected_values:
+    AUDI_PRE_INJ_3_ACTIVATION: 0.3924
+  response: 7E80562121A03D5
+- expected_values:
     AUDI_PRE_INJ_3_ACTIVATION: 0.446
   response: 7E80562121A045B
+- expected_values:
+    AUDI_PRE_INJ_3_ACTIVATION: 0.5436
+  response: 7E80562121A054F
