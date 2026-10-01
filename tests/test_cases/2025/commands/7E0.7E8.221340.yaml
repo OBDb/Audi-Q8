@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221340
+test_cases:
+- expected_values:
+    AUDI_TQ_INCREASE_REQ_ESP: -57311.2
+  response: 7E807621340FFF74148
+- expected_values:
+    AUDI_TQ_INCREASE_REQ_ESP: -37748.7
+  response: 7E807621340FFFA3D71

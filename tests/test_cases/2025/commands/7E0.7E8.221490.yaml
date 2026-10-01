@@ -1,0 +1,10 @@
+command_id: 7E0.7E8.221490
+test_cases:
+- expected_values:
+    AUDI_BRAKE_BOOSTER_ACT: 975.76
+    AUDI_BRAKE_BOOSTER_LOW_P_ACT: 952.90282
+  response: 7E8056214905F4A
+- expected_values:
+    AUDI_BRAKE_BOOSTER_ACT: 983.76
+    AUDI_BRAKE_BOOSTER_LOW_P_ACT: 960.71542
+  response: '7E8056214906012'

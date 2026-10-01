@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2210EC
+test_cases:
+- expected_values:
+    AUDI_VLV_TIM_DIFF_ACT_SET: 2.35938
+  response: 7E8056210EC0097
+- expected_values:
+    AUDI_VLV_TIM_DIFF_ACT_SET: -0.40625
+  response: 7E8056210ECFFE6

@@ -1,0 +1,10 @@
+command_id: 7E0.7E8.221130
+test_cases:
+- expected_values:
+    AUDI_CLT_FAN_1_CMD_DUTY: 10.15
+    AUDI_COOLING_FAN_1: 10.15
+  response: 7E80562113003F7
+- expected_values:
+    AUDI_CLT_FAN_1_CMD_DUTY: 21.48
+    AUDI_COOLING_FAN_1: 21.48
+  response: '7E8056211300864'

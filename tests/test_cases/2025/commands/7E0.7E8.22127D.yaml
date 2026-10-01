@@ -1,0 +1,10 @@
+command_id: 7E0.7E8.22127D
+test_cases:
+- expected_values:
+    AUDI_VARIABLE_VLV_TIM_INT_1_ON: 0
+    AUDI_VARIABLE_VLV_TIM_INT_1_V2: 0
+  response: 7E80562127D0000
+- expected_values:
+    AUDI_VARIABLE_VLV_TIM_INT_1_ON: 38.71456
+    AUDI_VARIABLE_VLV_TIM_INT_1_V2: 38.71456
+  response: 7E80562127D318E

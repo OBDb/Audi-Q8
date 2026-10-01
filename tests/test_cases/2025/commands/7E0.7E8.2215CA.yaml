@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2215CA
+test_cases:
+- expected_values:
+    AUDI_GEN_LOAD_NORM: 0
+  response: 7E8056215CA0000

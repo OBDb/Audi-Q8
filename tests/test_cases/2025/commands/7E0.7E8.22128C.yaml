@@ -1,0 +1,10 @@
+command_id: 7E0.7E8.22128C
+test_cases:
+- expected_values:
+    AUDI_AVG_INJ_TIME: 0.6868
+    AUDI_MEDIAN_INJ_TIM: 1.717
+  response: 7E80762128C000006B5
+- expected_values:
+    AUDI_AVG_INJ_TIME: 1.782
+    AUDI_MEDIAN_INJ_TIM: 4.455
+  response: 7E80762128C00001167

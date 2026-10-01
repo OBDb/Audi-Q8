@@ -1,0 +1,7 @@
+command_id: 7E0.7E8.22208B
+test_cases:
+- expected_values:
+    AUDI_DPF_OIL_ASH_VOLUME: 2.13
+    AUDI_GPF_SOOT_MASS_CALC: 213
+    AUDI_SOOT_MASS_CALC: 2.13
+  response: 7E80562208B00D5

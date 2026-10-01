@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2210EB
+test_cases:
+- expected_values:
+    AUDI_CRANK_ROT_ANG: 0
+  response: 7E8056210EB0000
+- expected_values:
+    AUDI_CRANK_ROT_ANG: 76.4
+  response: 7E8056210EB02FC

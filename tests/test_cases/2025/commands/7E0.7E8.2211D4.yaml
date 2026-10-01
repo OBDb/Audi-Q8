@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2211D4
+test_cases:
+- expected_values:
+    AUDI_TURBOCHARGER_INLET_P: 287.1875
+  response: 7E8056211D40E5C
+- expected_values:
+    AUDI_TURBOCHARGER_INLET_P: 1017.57812
+  response: 7E8056211D432E1

@@ -1,0 +1,10 @@
+command_id: 7E0.7E8.22147F|fc=1
+test_cases:
+- expected_values:
+    AUDI_MIS_CNT_4: 0
+    AUDI_MOTOR_TQ: 0
+  response: 7E80562147F0000
+- expected_values:
+    AUDI_MIS_CNT_4: 65345
+    AUDI_MOTOR_TQ: -63.66667
+  response: 7E80562147FFF41

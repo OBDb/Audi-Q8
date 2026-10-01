@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22180A
+test_cases:
+- expected_values:
+    AUDI_FUEL_RATE_DIFF_INJ: -1.03514
+  response: 7E80562180AFEF7
+- expected_values:
+    AUDI_FUEL_RATE_DIFF_INJ: -0.99608
+  response: 7E80562180AFF01

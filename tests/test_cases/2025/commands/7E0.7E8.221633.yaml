@@ -1,0 +1,10 @@
+command_id: 7E0.7E8.221633
+test_cases:
+- expected_values:
+    AUDI_LONGITUDINAL_ACCEL_7E0: 0.029
+    AUDI_LONGITUDINAL_ACCEL_V2: 0.029
+  response: 7E805621633001D
+- expected_values:
+    AUDI_LONGITUDINAL_ACCEL_7E0: -0.068
+    AUDI_LONGITUDINAL_ACCEL_V2: -0.068
+  response: 7E805621633FFBC

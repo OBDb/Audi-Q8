@@ -1,0 +1,7 @@
+command_id: 7E0.7E8.22112D
+test_cases:
+- expected_values:
+    AUDI_SPARK_EFFICIENCY_DEV_V2: 0
+    AUDI_SPARK_EFF_DEV: 0
+    AUDI_SPARK_EFF_DEV_PART: 0
+  response: 7E80462112D00
