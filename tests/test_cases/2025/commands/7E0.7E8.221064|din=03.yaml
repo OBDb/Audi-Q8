@@ -1,6 +1,12 @@
 command_id: 7E0.7E8.221064|din=03
 test_cases:
 - expected_values:
+    AUDI_ECT_ENG_OUTLET_CALC: 16.1
+  response: 7E8056210640B4C
+- expected_values:
+    AUDI_ECT_ENG_OUTLET_CALC: 16.8
+  response: 7E8056210640B53
+- expected_values:
     AUDI_ECT_ENG_OUTLET_CALC: 17.9
   response: 7E8056210640B5E
 - expected_values:

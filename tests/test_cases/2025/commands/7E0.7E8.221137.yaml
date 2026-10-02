@@ -4,5 +4,5 @@ test_cases:
     AUDI_FUEL_PART_EVAP: 0
   response: '7E80462113700'
 - expected_values:
-    AUDI_FUEL_PART_EVAP: -0.02343
-  response: 7E804621137FD
+    AUDI_FUEL_PART_EVAP: -0.00781
+  response: 7E804621137FF

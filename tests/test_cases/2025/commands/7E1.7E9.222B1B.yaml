@@ -13,5 +13,8 @@ test_cases:
     AUDI_TIRE_FL_SPD_V3: 13.9
   response: 7E905622B1B008B
 - expected_values:
+    AUDI_TIRE_FL_SPD_V3: 19.8
+  response: 7E905622B1B00C6
+- expected_values:
     AUDI_TIRE_FL_SPD_V3: 29
   response: 7E905622B1B0122

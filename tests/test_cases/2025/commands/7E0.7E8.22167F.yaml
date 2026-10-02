@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     AUDI_HEATER_CIRCULATION: 46.18
   response: 7E80562167F120A
+- expected_values:
+    AUDI_HEATER_CIRCULATION: 94.19
+  response: 7E80562167F24CB

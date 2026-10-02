@@ -2,8 +2,8 @@ command_id: 7E0.7E8.2215C0
 test_cases:
 - expected_values:
     AUDI_IAT_INT_MANIFOLD_RAW: -39.75
-    AUDI_IAT_RAW: 22.5
-  response: 7E8056215C00B8C
+    AUDI_IAT_RAW: 17.5
+  response: 7E8056215C00B5A
 - expected_values:
     AUDI_IAT_INT_MANIFOLD_RAW: -39.75
     AUDI_IAT_RAW: 33.9

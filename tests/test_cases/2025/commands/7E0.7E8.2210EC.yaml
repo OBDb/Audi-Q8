@@ -4,8 +4,8 @@ test_cases:
     AUDI_VLV_TIM_DIFF_ACT_SET: 0
   response: 7E8056210EC0000
 - expected_values:
-    AUDI_VLV_TIM_DIFF_ACT_SET: -1.17188
-  response: 7E8056210ECFFB5
+    AUDI_VLV_TIM_DIFF_ACT_SET: -2.14062
+  response: 7E8056210ECFF77
 - expected_values:
     AUDI_VLV_TIM_DIFF_ACT_SET: -0.01562
   response: 7E8056210ECFFFF
