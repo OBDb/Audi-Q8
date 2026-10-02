@@ -19,5 +19,8 @@ test_cases:
     AUDI_AUX_HYDRAULIC_PMP_T: 58
   response: 7E9046251A662
 - expected_values:
+    AUDI_AUX_HYDRAULIC_PMP_T: 62
+  response: 7E9046251A666
+- expected_values:
     AUDI_AUX_HYDRAULIC_PMP_T: 67
   response: 7E9046251A66B

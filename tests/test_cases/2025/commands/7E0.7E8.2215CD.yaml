@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     AUDI_ECT_RADIATOR_OUTLET_V_1: 33
   response: 7E8056215CD0BF5
+- expected_values:
+    AUDI_ECT_RADIATOR_OUTLET_V_1: 34.3
+  response: 7E8056215CD0C02

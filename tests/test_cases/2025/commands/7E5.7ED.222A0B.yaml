@@ -7,6 +7,9 @@ test_cases:
     AUDI_HVBAT_T: 17
   response: 7ED04622A0B75
 - expected_values:
+    AUDI_HVBAT_T: 19
+  response: 7ED04622A0B77
+- expected_values:
     AUDI_HVBAT_T: 20
   response: 7ED04622A0B78
 - expected_values:

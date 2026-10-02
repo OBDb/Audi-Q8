@@ -19,6 +19,12 @@ test_cases:
     AUDI_OXYGEN_SNS_1_BANK_1_CERAMIC_T: 720.03975
   response: 7E805621290A589
 - expected_values:
+    AUDI_OXYGEN_SNS_1_BANK_1_CERAMIC_T: 720.11006
+  response: 7E805621290A58C
+- expected_values:
+    AUDI_OXYGEN_SNS_1_BANK_1_CERAMIC_T: 720.36787
+  response: 7E805621290A597
+- expected_values:
     AUDI_OXYGEN_SNS_1_BANK_1_CERAMIC_T: 720.69598
   response: 7E805621290A5A5
 - expected_values:

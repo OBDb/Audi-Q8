@@ -4,6 +4,9 @@ test_cases:
     AUDI_COOLANT_T_MODELED_VALUE: 35
   response: 7E8056213A00C09
 - expected_values:
+    AUDI_COOLANT_T_MODELED_VALUE: 37.8
+  response: 7E8056213A00C25
+- expected_values:
     AUDI_COOLANT_T_MODELED_VALUE: 40.5
   response: 7E8056213A00C40
 - expected_values:
@@ -15,6 +18,9 @@ test_cases:
 - expected_values:
     AUDI_COOLANT_T_MODELED_VALUE: 59.3
   response: 7E8056213A00CFC
+- expected_values:
+    AUDI_COOLANT_T_MODELED_VALUE: 61.9
+  response: 7E8056213A00D16
 - expected_values:
     AUDI_COOLANT_T_MODELED_VALUE: 63.8
   response: 7E8056213A00D29

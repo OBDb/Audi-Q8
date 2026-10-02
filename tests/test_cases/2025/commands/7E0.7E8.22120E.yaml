@@ -1,14 +1,17 @@
 command_id: 7E0.7E8.22120E
 test_cases:
 - expected_values:
+    AUDI_KNOCK_SENS_CYL_1: 0.00997
+  response: 7E80762120E00003319
+- expected_values:
     AUDI_KNOCK_SENS_CYL_1: 0.01697
   response: 7E80762120E000056FC
 - expected_values:
-    AUDI_KNOCK_SENS_CYL_1: 0.02634
-  response: 7E80762120E00008709
+    AUDI_KNOCK_SENS_CYL_1: 0.02692
+  response: 7E80762120E00008A01
 - expected_values:
     AUDI_KNOCK_SENS_CYL_1: 0.04878
   response: 7E80762120E0000FA0B
 - expected_values:
-    AUDI_KNOCK_SENS_CYL_1: 0.05352
-  response: 7E80762120E0001125E
+    AUDI_KNOCK_SENS_CYL_1: 0.05177
+  response: 7E80762120E00010960

@@ -4,8 +4,8 @@ test_cases:
     AUDI_OPEN_CAM_SHFT_ANG: 0.4
   response: 7E8056210EA0004
 - expected_values:
+    AUDI_OPEN_CAM_SHFT_ANG: -27
+  response: 7E8056210EAFEF2
+- expected_values:
     AUDI_OPEN_CAM_SHFT_ANG: -24.6
   response: 7E8056210EAFF0A
-- expected_values:
-    AUDI_OPEN_CAM_SHFT_ANG: -2.2
-  response: 7E8056210EAFFEA

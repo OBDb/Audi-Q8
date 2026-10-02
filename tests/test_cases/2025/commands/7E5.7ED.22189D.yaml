@@ -13,6 +13,10 @@ test_cases:
     AUDI_HVBAT_OUTLET_T: 18
   response: 7ED0562189D7676
 - expected_values:
+    AUDI_HVBAT_INLET_T: 20
+    AUDI_HVBAT_OUTLET_T: 19
+  response: 7ED0562189D7778
+- expected_values:
     AUDI_HVBAT_INLET_T: 22
     AUDI_HVBAT_OUTLET_T: 20
   response: 7ED0562189D787A

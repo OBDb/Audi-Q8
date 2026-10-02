@@ -4,5 +4,5 @@ test_cases:
     AUDI_CAT_T_CALC: 325
   response: 7E8046215154B
 - expected_values:
-    AUDI_CAT_T_CALC: 535
-  response: '7E80462151575'
+    AUDI_CAT_T_CALC: 565
+  response: 7E8046215157B

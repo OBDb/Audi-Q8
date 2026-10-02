@@ -4,8 +4,8 @@ test_cases:
     AUDI_CAM_ADJ_INT_SPEC: 11.7
   response: 7E80562201D0075
 - expected_values:
-    AUDI_CAM_ADJ_INT_SPEC: -99
-  response: 7E80562201DFC22
+    AUDI_CAM_ADJ_INT_SPEC: 26.7
+  response: 7E80562201D010B
 - expected_values:
     AUDI_CAM_ADJ_INT_SPEC: -79
   response: 7E80562201DFCEA

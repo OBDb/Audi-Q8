@@ -4,11 +4,11 @@ test_cases:
     AUDI_CAM_ADJ_EXH_BANK_2_ACT: 0.07812
   response: 7E80562136D0005
 - expected_values:
-    AUDI_CAM_ADJ_EXH_BANK_2_ACT: -24.67188
-  response: 7E80562136DF9D5
+    AUDI_CAM_ADJ_EXH_BANK_2_ACT: -24.64062
+  response: 7E80562136DF9D7
 - expected_values:
     AUDI_CAM_ADJ_EXH_BANK_2_ACT: -20
   response: 7E80562136DFB00
 - expected_values:
-    AUDI_CAM_ADJ_EXH_BANK_2_ACT: -7.5
-  response: 7E80562136DFE20
+    AUDI_CAM_ADJ_EXH_BANK_2_ACT: -2.15625
+  response: 7E80562136DFF76

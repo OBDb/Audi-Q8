@@ -4,11 +4,11 @@ test_cases:
     AUDI_INT_MANIFOLD_P: 270.625
   response: 7E8056211DA0D88
 - expected_values:
+    AUDI_INT_MANIFOLD_P: 779.92188
+  response: 7E8056211DA26FF
+- expected_values:
     AUDI_INT_MANIFOLD_P: 1000.07812
   response: 7E8056211DA3201
 - expected_values:
-    AUDI_INT_MANIFOLD_P: 1016.79688
-  response: 7E8056211DA32D7
-- expected_values:
-    AUDI_INT_MANIFOLD_P: 1027.8125
-  response: 7E8056211DA3364
+    AUDI_INT_MANIFOLD_P: 1026.17188
+  response: 7E8056211DA334F

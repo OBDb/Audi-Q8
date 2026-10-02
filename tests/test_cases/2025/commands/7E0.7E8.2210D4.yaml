@@ -4,8 +4,8 @@ test_cases:
     AUDI_INJ_2_RAIL_P_1: 0
   response: 7E8056210D40000
 - expected_values:
-    AUDI_INJ_2_RAIL_P_1: 0.01145
-  response: 7E8056210D400E5
+    AUDI_INJ_2_RAIL_P_1: -0.0137
+  response: 7E8056210D4FEEE
 - expected_values:
     AUDI_INJ_2_RAIL_P_1: -0.0108
   response: 7E8056210D4FF28

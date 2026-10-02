@@ -4,8 +4,8 @@ test_cases:
     AUDI_AUX_PWR: 0
   response: '7E8056210770000'
 - expected_values:
-    AUDI_AUX_PWR: 896
-  response: 7E80562107700E0
+    AUDI_AUX_PWR: 960
+  response: 7E80562107700F0
 - expected_values:
     AUDI_AUX_PWR: 1088
   response: '7E8056210770110'
