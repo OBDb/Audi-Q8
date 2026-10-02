@@ -7,5 +7,5 @@ test_cases:
     AUDI_CYL_BLOCK_T_SENS: 85.2
   response: 7E8056251D40DFF
 - expected_values:
-    AUDI_CYL_BLOCK_T_SENS: 86.9
-  response: 7E8056251D40E10
+    AUDI_CYL_BLOCK_T_SENS: 86.7
+  response: 7E8056251D40E0E

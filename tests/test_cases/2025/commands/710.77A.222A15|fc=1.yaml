@@ -16,5 +16,8 @@ test_cases:
     AUDI_ENERGY_BALANCE_LAST: 1.2
   response: 77A05622A150078
 - expected_values:
+    AUDI_ENERGY_BALANCE_LAST: 1.5
+  response: 77A05622A150096
+- expected_values:
     AUDI_ENERGY_BALANCE_LAST: 1.6
   response: 77A05622A1500A0

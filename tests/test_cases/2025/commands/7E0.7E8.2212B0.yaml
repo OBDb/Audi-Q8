@@ -4,8 +4,8 @@ test_cases:
     AUDI_ACCEL_7E0_V2: 0
   response: 7E8056212B00000
 - expected_values:
-    AUDI_ACCEL_7E0_V2: -0.108
-  response: 7E8056212B0FF94
+    AUDI_ACCEL_7E0_V2: -0.166
+  response: 7E8056212B0FF5A
 - expected_values:
     AUDI_ACCEL_7E0_V2: -0.006
   response: 7E8056212B0FFFA

@@ -5,7 +5,7 @@ test_cases:
   response: 7E8056215C10B3B
 - expected_values:
     AUDI_IAT_BEFORE_THROTTLE: -39.75
-  response: 7E8056215C10BF2
+  response: 7E8056215C10BFA
 - expected_values:
     AUDI_IAT_BEFORE_THROTTLE: -39
   response: 7E8056215C10C00

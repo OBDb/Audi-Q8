@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     AUDI_MAF_CMD: 104
   response: 7E8056211AD0410
+- expected_values:
+    AUDI_MAF_CMD: 199.3
+  response: 7E8056211AD07C9

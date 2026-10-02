@@ -4,11 +4,11 @@ test_cases:
     AUDI_EGT_AFTER_CAT: 383.5
   response: 7E80562127219A6
 - expected_values:
-    AUDI_EGT_AFTER_CAT: 466.3
-  response: 7E8056212721CE2
-- expected_values:
     AUDI_EGT_AFTER_CAT: 495.2
   response: 7E8056212721E03
 - expected_values:
-    AUDI_EGT_AFTER_CAT: 525.6
-  response: 7E8056212721F33
+    AUDI_EGT_AFTER_CAT: 518.7
+  response: 7E8056212721EEE
+- expected_values:
+    AUDI_EGT_AFTER_CAT: 561.1
+  response: '7E8056212722096'

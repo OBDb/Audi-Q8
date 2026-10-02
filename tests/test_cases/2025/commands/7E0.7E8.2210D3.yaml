@@ -10,8 +10,14 @@ test_cases:
     AUDI_PQ35_INJ_2_RAIL_P_1: 0.0001
   response: 7E8056210D30002
 - expected_values:
+    AUDI_PQ35_INJ_2_RAIL_P_1: -0.00035
+  response: 7E8056210D3FFF9
+- expected_values:
     AUDI_PQ35_INJ_2_RAIL_P_1: -0.0003
   response: 7E8056210D3FFFA
 - expected_values:
     AUDI_PQ35_INJ_2_RAIL_P_1: -0.00025
   response: 7E8056210D3FFFB
+- expected_values:
+    AUDI_PQ35_INJ_2_RAIL_P_1: -0.0002
+  response: 7E8056210D3FFFC

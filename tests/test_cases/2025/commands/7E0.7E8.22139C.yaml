@@ -4,11 +4,11 @@ test_cases:
     AUDI_EGT_LAMBDA_SENS_1: 348.3
   response: 7E80562139C1846
 - expected_values:
-    AUDI_EGT_LAMBDA_SENS_1: 444.8
-  response: 7E80562139C1C0B
+    AUDI_EGT_LAMBDA_SENS_1: 443.6
+  response: 7E80562139C1BFF
 - expected_values:
-    AUDI_EGT_LAMBDA_SENS_1: 467.6
-  response: 7E80562139C1CEF
+    AUDI_EGT_LAMBDA_SENS_1: 470
+  response: 7E80562139C1D07
 - expected_values:
-    AUDI_EGT_LAMBDA_SENS_1: 594
-  response: 7E80562139C21DF
+    AUDI_EGT_LAMBDA_SENS_1: 579.9
+  response: 7E80562139C2152

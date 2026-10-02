@@ -4,11 +4,11 @@ test_cases:
     AUDI_IDLE_TGT_RPM: 610
   response: 7E80562116104C4
 - expected_values:
-    AUDI_IDLE_TGT_RPM: 650
-  response: '7E8056211610514'
-- expected_values:
-    AUDI_IDLE_TGT_RPM: 1000
-  response: 7E80562116107D0
+    AUDI_IDLE_TGT_RPM: 770
+  response: '7E8056211610604'
 - expected_values:
     AUDI_IDLE_TGT_RPM: 1020
   response: 7E80562116107F8
+- expected_values:
+    AUDI_IDLE_TGT_RPM: 1055
+  response: 7E805621161083E

@@ -4,11 +4,11 @@ test_cases:
     AUDI_HIGH_FUEL_P_ACT: 9.534
   response: 7E80562159F4A7C
 - expected_values:
-    AUDI_HIGH_FUEL_P_ACT: 16.5
-  response: 7E80562159F80E8
-- expected_values:
     AUDI_HIGH_FUEL_P_ACT: 19.456
   response: 7E80562159F9800
+- expected_values:
+    AUDI_HIGH_FUEL_P_ACT: 22.39
+  response: 7E80562159FAEEC
 - expected_values:
     AUDI_HIGH_FUEL_P_ACT: 25.022
   response: 7E80562159FC37C

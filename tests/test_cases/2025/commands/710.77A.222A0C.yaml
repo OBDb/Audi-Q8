@@ -13,6 +13,9 @@ test_cases:
     AUDI_BAT_SOC: 64
   response: 77A04622A0C40
 - expected_values:
+    AUDI_BAT_SOC: 65
+  response: 77A04622A0C41
+- expected_values:
     AUDI_BAT_SOC: 66
   response: 77A04622A0C42
 - expected_values:

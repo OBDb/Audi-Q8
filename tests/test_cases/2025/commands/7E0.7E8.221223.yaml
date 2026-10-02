@@ -21,6 +21,10 @@ test_cases:
     AUDI_TQ_LOSS_ADPT_AC_COMP_V2: 3.8
   response: '7E8056212230026'
 - expected_values:
+    AUDI_TQ_LOSS_ADPT_AC_COMP_7E0: -1
+    AUDI_TQ_LOSS_ADPT_AC_COMP_V2: -1
+  response: 7E805621223FFF6
+- expected_values:
     AUDI_TQ_LOSS_ADPT_AC_COMP_7E0: -0.4
     AUDI_TQ_LOSS_ADPT_AC_COMP_V2: -0.4
   response: 7E805621223FFFC

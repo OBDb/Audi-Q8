@@ -1,8 +1,11 @@
 command_id: 7E0.7E8.221224
 test_cases:
 - expected_values:
-    AUDI_TQ_LOSS_ADPT_GEAR: 1.4
-  response: 7E805621224000E
+    AUDI_TQ_LOSS_ADPT_GEAR: 0
+  response: '7E8056212240000'
+- expected_values:
+    AUDI_TQ_LOSS_ADPT_GEAR: -0.7
+  response: 7E805621224FFF9
 - expected_values:
     AUDI_TQ_LOSS_ADPT_GEAR: -0.1
   response: 7E805621224FFFF

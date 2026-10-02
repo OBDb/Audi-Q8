@@ -21,3 +21,9 @@ test_cases:
 - expected_values:
     AUDI_MISFIRES_C3_ECM: 877
   response: 7E805621150036D
+- expected_values:
+    AUDI_MISFIRES_C3_ECM: 878
+  response: 7E805621150036E
+- expected_values:
+    AUDI_MISFIRES_C3_ECM: 879
+  response: 7E805621150036F

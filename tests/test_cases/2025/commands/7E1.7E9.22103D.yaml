@@ -28,3 +28,11 @@ test_cases:
     AUDI_ODO_3_V2: 1204
     AUDI_ODO_7E1: 1204
   response: 7E90662103D0004B4
+- expected_values:
+    AUDI_ODO_3_V2: 1206
+    AUDI_ODO_7E1: 1206
+  response: 7E90662103D0004B6
+- expected_values:
+    AUDI_ODO_3_V2: 1210
+    AUDI_ODO_7E1: 1210
+  response: 7E90662103D0004BA

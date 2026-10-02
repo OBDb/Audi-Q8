@@ -8,4 +8,4 @@ test_cases:
   response: 7E8056211CDFF36
 - expected_values:
     AUDI_TCO_1_SYS: 215
-  response: 7E8056211CDFFF6
+  response: 7E8056211CDFFFA

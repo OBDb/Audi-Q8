@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.22174B
 test_cases:
 - expected_values:
+    AUDI_INT_CAM_ADPT_BIAS: 0.02197
+  response: 7E80562174B0001
+- expected_values:
     AUDI_INT_CAM_ADPT_BIAS: 0.21973
   response: 7E80562174B000A
 - expected_values:

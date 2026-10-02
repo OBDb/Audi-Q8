@@ -4,8 +4,8 @@ test_cases:
     AUDI_CMD_CRANK_TQ: 0
   response: 7E8056211E00000
 - expected_values:
-    AUDI_CMD_CRANK_TQ: 24.7
-  response: 7E8056211E000F7
+    AUDI_CMD_CRANK_TQ: 25.4
+  response: 7E8056211E000FE
 - expected_values:
     AUDI_CMD_CRANK_TQ: -24.2
   response: 7E8056211E0FF0E

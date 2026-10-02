@@ -4,11 +4,11 @@ test_cases:
     AUDI_OIL_P_ACT_7E0: 97
   response: 7E80562177D03CA
 - expected_values:
+    AUDI_OIL_P_ACT_7E0: 101.9
+  response: 7E80562177D03FB
+- expected_values:
     AUDI_OIL_P_ACT_7E0: 103.5
   response: 7E80562177D040B
-- expected_values:
-    AUDI_OIL_P_ACT_7E0: 254.7
-  response: 7E80562177D09F3
 - expected_values:
     AUDI_OIL_P_ACT_7E0: 260.3
   response: 7E80562177D0A2B

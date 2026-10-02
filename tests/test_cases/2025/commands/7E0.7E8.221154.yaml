@@ -7,26 +7,5 @@ test_cases:
     AUDI_EM_TORQ_2: 28.375
   response: 7E805621154038C
 - expected_values:
-    AUDI_EM_TORQ_2: 28.40625
-  response: 7E805621154038D
-- expected_values:
-    AUDI_EM_TORQ_2: 28.4375
-  response: 7E805621154038E
-- expected_values:
-    AUDI_EM_TORQ_2: 28.46875
-  response: 7E805621154038F
-- expected_values:
-    AUDI_EM_TORQ_2: 28.5
-  response: '7E8056211540390'
-- expected_values:
-    AUDI_EM_TORQ_2: 28.53125
-  response: '7E8056211540391'
-- expected_values:
-    AUDI_EM_TORQ_2: 28.84375
-  response: 7E805621154039B
-- expected_values:
-    AUDI_EM_TORQ_2: 28.875
-  response: 7E805621154039C
-- expected_values:
-    AUDI_EM_TORQ_2: 28.90625
-  response: 7E805621154039D
+    AUDI_EM_TORQ_2: 29
+  response: 7E80562115403A0
