@@ -4,5 +4,5 @@ test_cases:
     AUDI_HEIGHT_CORR: 1.00457
   response: 7E805621136404B
 - expected_values:
-    AUDI_HEIGHT_CORR: 1.00982
-  response: 7E80562113640A1
+    AUDI_HEIGHT_CORR: 1.01525
+  response: 7E80562113640FA

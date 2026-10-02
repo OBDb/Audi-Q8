@@ -1,6 +1,12 @@
 command_id: 7E0.7E8.22F42F
 test_cases:
 - expected_values:
+    AUDI_FLI_INPUT: 57.64706
+  response: 7E80462F42F93
+- expected_values:
+    AUDI_FLI_INPUT: 58.82353
+  response: 7E80462F42F96
+- expected_values:
     AUDI_FLI_INPUT: 59.60784
   response: 7E80462F42F98
 - expected_values:

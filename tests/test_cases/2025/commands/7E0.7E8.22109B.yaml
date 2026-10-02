@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     AUDI_ECT_RAD_OUT_2: -273
   response: 7E80562109B0001
+- expected_values:
+    AUDI_ECT_RAD_OUT_2: -272.8
+  response: 7E80562109B0003

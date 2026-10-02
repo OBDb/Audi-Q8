@@ -3,11 +3,19 @@ test_cases:
 - expected_values:
     AUDI_IGA_CYL_KNK_2: -0.375
     AUDI_KNOCK_RETARD_CYL_3: -0.375
+  response: 7E8056213F47F28
+- expected_values:
+    AUDI_IGA_CYL_KNK_2: -0.375
+    AUDI_KNOCK_RETARD_CYL_3: -0.375
   response: 7E8056213F47F38
 - expected_values:
     AUDI_IGA_CYL_KNK_2: -0.375
     AUDI_KNOCK_RETARD_CYL_3: -0.375
   response: 7E8056213F47F4A
+- expected_values:
+    AUDI_IGA_CYL_KNK_2: -0.375
+    AUDI_KNOCK_RETARD_CYL_3: -0.375
+  response: 7E8056213F47F7F
 - expected_values:
     AUDI_IGA_CYL_KNK_2: -0.375
     AUDI_KNOCK_RETARD_CYL_3: -0.375

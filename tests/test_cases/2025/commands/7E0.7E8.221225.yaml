@@ -4,5 +4,5 @@ test_cases:
     AUDI_TQ_LOSS_ADPT_IDLE: 0
   response: '7E8056212250000'
 - expected_values:
-    AUDI_TQ_LOSS_ADPT_IDLE: 4.8
-  response: '7E8056212250030'
+    AUDI_TQ_LOSS_ADPT_IDLE: -0.2
+  response: 7E805621225FFFE

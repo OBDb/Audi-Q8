@@ -15,3 +15,6 @@ test_cases:
 - expected_values:
     AUDI_VSS_HR: 28.2
   response: 7E9056221060B04
+- expected_values:
+    AUDI_VSS_HR: 29.1
+  response: 7E9056221060B5E

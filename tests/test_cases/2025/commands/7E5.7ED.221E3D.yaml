@@ -11,6 +11,12 @@ test_cases:
   response: 7ED06621E3D02461C
 - expected_values:
     AUDI_HVBAT_CURRENT: -200
+  response: 7ED06621E3D02466C
+- expected_values:
+    AUDI_HVBAT_CURRENT: -200
+  response: 7ED06621E3D024900
+- expected_values:
+    AUDI_HVBAT_CURRENT: -200
   response: 7ED06621E3D024A36
 - expected_values:
     AUDI_HVBAT_CURRENT: -200
