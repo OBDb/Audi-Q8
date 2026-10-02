@@ -4,29 +4,8 @@ test_cases:
     AUDI_ACCEL_PEDAL_TQ_LIM: 0
   response: '7E8056210590000'
 - expected_values:
-    AUDI_ACCEL_PEDAL_TQ_LIM: 64.7
-  response: '7E8056210590287'
-- expected_values:
-    AUDI_ACCEL_PEDAL_TQ_LIM: 86.3
-  response: 7E805621059035F
-- expected_values:
-    AUDI_ACCEL_PEDAL_TQ_LIM: 121.6
-  response: 7E80562105904C0
-- expected_values:
-    AUDI_ACCEL_PEDAL_TQ_LIM: 123.5
-  response: 7E80562105904D3
-- expected_values:
-    AUDI_ACCEL_PEDAL_TQ_LIM: 155.4
-  response: '7E8056210590612'
-- expected_values:
-    AUDI_ACCEL_PEDAL_TQ_LIM: 164.7
-  response: 7E805621059066F
-- expected_values:
     AUDI_ACCEL_PEDAL_TQ_LIM: 178.3
   response: 7E80562105906F7
-- expected_values:
-    AUDI_ACCEL_PEDAL_TQ_LIM: 194.1
-  response: '7E8056210590795'
 - expected_values:
     AUDI_ACCEL_PEDAL_TQ_LIM: 371.3
   response: 7E8056210590E81

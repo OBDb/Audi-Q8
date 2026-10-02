@@ -4,11 +4,11 @@ test_cases:
     AUDI_EOT_MEAS: 31.1
   response: 7E8056216320BE2
 - expected_values:
+    AUDI_EOT_MEAS: 59.5
+  response: 7E8056216320CFE
+- expected_values:
     AUDI_EOT_MEAS: 59.9
   response: 7E8056216320D02
-- expected_values:
-    AUDI_EOT_MEAS: 82.6
-  response: 7E8056216320DE5
 - expected_values:
     AUDI_EOT_MEAS: 89.9
   response: 7E8056216320E2E

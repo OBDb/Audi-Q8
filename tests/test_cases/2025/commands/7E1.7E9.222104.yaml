@@ -1,10 +1,20 @@
 command_id: 7E1.7E9.222104
 test_cases:
 - expected_values:
+    AUDI_ATF_T: 29
+    AUDI_ATF_T_DUAL_CLU: 69
+    AUDI_MQB_TCM_ATF_T_VAR_2_DSG_S_TRONIC: 29
+  response: '7E90462210445'
+- expected_values:
     AUDI_ATF_T: 33
     AUDI_ATF_T_DUAL_CLU: 73
     AUDI_MQB_TCM_ATF_T_VAR_2_DSG_S_TRONIC: 33
   response: '7E90462210449'
+- expected_values:
+    AUDI_ATF_T: 36
+    AUDI_ATF_T_DUAL_CLU: 76
+    AUDI_MQB_TCM_ATF_T_VAR_2_DSG_S_TRONIC: 36
+  response: 7E9046221044C
 - expected_values:
     AUDI_ATF_T: 60
     AUDI_ATF_T_DUAL_CLU: 100

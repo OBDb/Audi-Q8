@@ -4,6 +4,9 @@ test_cases:
     AUDI_INT_CAM_ADPT_BIAS: 0.21973
   response: 7E80562174B000A
 - expected_values:
+    AUDI_INT_CAM_ADPT_BIAS: 0.2417
+  response: 7E80562174B000B
+- expected_values:
     AUDI_INT_CAM_ADPT_BIAS: -0.48341
   response: 7E80562174BFFEA
 - expected_values:
@@ -12,3 +15,6 @@ test_cases:
 - expected_values:
     AUDI_INT_CAM_ADPT_BIAS: -0.43946
   response: 7E80562174BFFEC
+- expected_values:
+    AUDI_INT_CAM_ADPT_BIAS: -0.2417
+  response: 7E80562174BFFF5

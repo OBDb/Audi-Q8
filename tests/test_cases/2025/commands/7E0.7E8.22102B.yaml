@@ -13,6 +13,12 @@ test_cases:
     AUDI_ACCEL_PEDAL_SENS_2_V: 761.6
   response: 7E80562102B0EE0
 - expected_values:
+    AUDI_ACCEL_PEDAL_SENS_2_V: 827.6
+  response: 7E80562102B102A
+- expected_values:
+    AUDI_ACCEL_PEDAL_SENS_2_V: 860.4
+  response: 7E80562102B10CE
+- expected_values:
     AUDI_ACCEL_PEDAL_SENS_2_V: 925.2
   response: 7E80562102B1212
 - expected_values:

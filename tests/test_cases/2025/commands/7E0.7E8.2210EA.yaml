@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2210EA
 test_cases:
 - expected_values:
-    AUDI_OPEN_CAM_SHFT_ANG: 1
-  response: 7E8056210EA000A
+    AUDI_OPEN_CAM_SHFT_ANG: 0.4
+  response: 7E8056210EA0004
 - expected_values:
-    AUDI_OPEN_CAM_SHFT_ANG: -22.5
-  response: 7E8056210EAFF1F
+    AUDI_OPEN_CAM_SHFT_ANG: -24.6
+  response: 7E8056210EAFF0A
 - expected_values:
     AUDI_OPEN_CAM_SHFT_ANG: -2.2
   response: 7E8056210EAFFEA

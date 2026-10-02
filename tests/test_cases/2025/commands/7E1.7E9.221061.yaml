@@ -10,6 +10,9 @@ test_cases:
     AUDI_DES_TQ_RAW: 58
   response: 7E905621061003A
 - expected_values:
+    AUDI_DES_TQ_RAW: 78
+  response: 7E905621061004E
+- expected_values:
     AUDI_DES_TQ_RAW: 94
   response: 7E905621061005E
 - expected_values:

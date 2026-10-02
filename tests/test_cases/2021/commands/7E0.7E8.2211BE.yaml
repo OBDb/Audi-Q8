@@ -3,8 +3,10 @@ test_cases:
 - expected_values:
     AUDI_EOT: 65514
     AUDI_PQ35_OIL_T_2: 6278.3
+    AUDI_PQ46_OIL_T_2: -2.2
   response: 7E8056211BEFFEA
 - expected_values:
     AUDI_EOT: 65515
     AUDI_PQ35_OIL_T_2: 6278.4
+    AUDI_PQ46_OIL_T_2: -2.1
   response: 7E8056211BEFFEB

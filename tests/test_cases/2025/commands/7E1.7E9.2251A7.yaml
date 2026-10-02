@@ -4,5 +4,11 @@ test_cases:
     AUDI_AUX_HYDRAULIC_PMP_V: 12.8
   response: 7E9046251A780
 - expected_values:
+    AUDI_AUX_HYDRAULIC_PMP_V: 13
+  response: 7E9046251A782
+- expected_values:
     AUDI_AUX_HYDRAULIC_PMP_V: 14.5
   response: 7E9046251A791
+- expected_values:
+    AUDI_AUX_HYDRAULIC_PMP_V: 14.6
+  response: 7E9046251A792

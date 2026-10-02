@@ -13,5 +13,8 @@ test_cases:
     AUDI_ENG_TQ_7E1: 38
   response: '7E9056220020026'
 - expected_values:
+    AUDI_ENG_TQ_7E1: 42
+  response: 7E905622002002A
+- expected_values:
     AUDI_ENG_TQ_7E1: 65498
   response: 7E905622002FFDA
