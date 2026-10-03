@@ -10,5 +10,5 @@ test_cases:
     AUDI_RATED_DRIVE_TQ: -263
   response: 7E8076214A1FFFFF5BA
 - expected_values:
-    AUDI_RATED_DRIVE_TQ: -17
-  response: 7E8076214A1FFFFFF56
+    AUDI_RATED_DRIVE_TQ: -20
+  response: 7E8076214A1FFFFFF38

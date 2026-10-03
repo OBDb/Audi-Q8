@@ -4,8 +4,8 @@ test_cases:
     AUDI_FUEL_RATE_DIFF_INJ: -1.48436
   response: 7E80562180AFE84
 - expected_values:
-    AUDI_FUEL_RATE_DIFF_INJ: -1.03514
-  response: 7E80562180AFEF7
+    AUDI_FUEL_RATE_DIFF_INJ: -1.02733
+  response: 7E80562180AFEF9
 - expected_values:
     AUDI_FUEL_RATE_DIFF_INJ: -0.99608
   response: 7E80562180AFF01

@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     AUDI_GPF_SOOT_LOAD_CALC: 1.17647
   response: '7E80462082903'
+- expected_values:
+    AUDI_GPF_SOOT_LOAD_CALC: 1.56863
+  response: '7E80462082904'

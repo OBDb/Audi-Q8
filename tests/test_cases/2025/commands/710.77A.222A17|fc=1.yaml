@@ -10,6 +10,9 @@ test_cases:
     AUDI_OVERALL_ENERGY: 5321.4
   response: 77A06622A170013CC
 - expected_values:
+    AUDI_OVERALL_ENERGY: 5323.5
+  response: 77A06622A170013CE
+- expected_values:
     AUDI_OVERALL_ENERGY: 5330.85
   response: 77A06622A170013D5
 - expected_values:

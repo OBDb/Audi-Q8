@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.22174A
 test_cases:
 - expected_values:
+    AUDI_EXH_CAM_ADPT_BIAS: 0.10986
+  response: 7E80562174A0005
+- expected_values:
     AUDI_EXH_CAM_ADPT_BIAS: -0.41749
   response: 7E80562174AFFED
 - expected_values:

@@ -29,6 +29,10 @@ test_cases:
     AUDI_PQ35_GEN_LOAD: 1.2
   response: 7E80562105C0078
 - expected_values:
+    AUDI_BRAKE_P: 12.3
+    AUDI_PQ35_GEN_LOAD: 1.23
+  response: 7E80562105C007B
+- expected_values:
     AUDI_BRAKE_P: 15.6
     AUDI_PQ35_GEN_LOAD: 1.56
   response: 7E80562105C009C

@@ -28,3 +28,7 @@ test_cases:
     AUDI_CLU_1_T_TIME_RANGE_0: 204.8
     AUDI_FRICTION_TQ: 40
   response: '7E9056210650028'
+- expected_values:
+    AUDI_CLU_1_T_TIME_RANGE_0: 245.76
+    AUDI_FRICTION_TQ: 48
+  response: '7E9056210650030'

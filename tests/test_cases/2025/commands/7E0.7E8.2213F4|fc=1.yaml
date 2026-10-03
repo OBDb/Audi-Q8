@@ -36,3 +36,7 @@ test_cases:
     AUDI_IGA_CYL_KNK_2: -0.375
     AUDI_KNOCK_RETARD_CYL_3: -0.375
   response: 7E8056213F47FE9
+- expected_values:
+    AUDI_IGA_CYL_KNK_2: 0
+    AUDI_KNOCK_RETARD_CYL_3: 0
+  response: 7E8056213F4805E

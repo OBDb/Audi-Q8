@@ -1,13 +1,9 @@
 command_id: 7E0.7E8.22449B
 test_cases:
 - expected_values:
-    AUDI_DPF_INPUT_GAS_T_7E0: 403.3
-    AUDI_DPF_INPUT_T_RAW: 130.2
-  response: 7E80562449B0FC1
-- expected_values:
-    AUDI_DPF_INPUT_GAS_T_7E0: 666.6
-    AUDI_DPF_INPUT_T_RAW: 393.5
-  response: 7E80562449B1A0A
+    AUDI_DPF_INPUT_GAS_T_7E0: 384.6
+    AUDI_DPF_INPUT_T_RAW: 111.5
+  response: 7E80562449B0F06
 - expected_values:
     AUDI_DPF_INPUT_GAS_T_7E0: 690.6
     AUDI_DPF_INPUT_T_RAW: 417.5
