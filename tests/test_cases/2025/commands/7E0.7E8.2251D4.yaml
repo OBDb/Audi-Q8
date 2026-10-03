@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2251D4
 test_cases:
 - expected_values:
-    AUDI_CYL_BLOCK_T_SENS: 66
-  response: 7E8056251D40D3F
+    AUDI_CYL_BLOCK_T_SENS: 52.4
+  response: 7E8056251D40CB7
 - expected_values:
     AUDI_CYL_BLOCK_T_SENS: 85.2
   response: 7E8056251D40DFF

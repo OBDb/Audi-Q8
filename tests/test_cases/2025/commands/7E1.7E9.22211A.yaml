@@ -4,6 +4,9 @@ test_cases:
     AUDI_MAX_PERMISSIBLE_ENG: 20
   response: 7E90562211A0014
 - expected_values:
+    AUDI_MAX_PERMISSIBLE_ENG: 48
+  response: 7E90562211A0030
+- expected_values:
     AUDI_MAX_PERMISSIBLE_ENG: 60
   response: 7E90562211A003C
 - expected_values:

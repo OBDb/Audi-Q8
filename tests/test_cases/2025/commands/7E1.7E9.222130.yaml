@@ -4,6 +4,9 @@ test_cases:
     AUDI_TQ_CONV: 1
   response: '7E90462213064'
 - expected_values:
+    AUDI_TQ_CONV: 1.09
+  response: 7E9046221306D
+- expected_values:
     AUDI_TQ_CONV: 1.13
   response: '7E90462213071'
 - expected_values:

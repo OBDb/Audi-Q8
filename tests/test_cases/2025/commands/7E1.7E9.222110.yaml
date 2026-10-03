@@ -16,6 +16,9 @@ test_cases:
     AUDI_ENG_SPEC_TQ_DURING: 75
   response: 7E905622110004B
 - expected_values:
+    AUDI_ENG_SPEC_TQ_DURING: 65530
+  response: 7E905622110FFFA
+- expected_values:
     AUDI_ENG_SPEC_TQ_DURING: 65531
   response: 7E905622110FFFB
 - expected_values:

@@ -32,3 +32,7 @@ test_cases:
     AUDI_TQ_LOSS_ADPT_AC_COMP: 6
     AUDI_TQ_LOSS_ADPT_AC_COMP_GEAR: 6
   response: 7E805621222003C
+- expected_values:
+    AUDI_TQ_LOSS_ADPT_AC_COMP: 8.1
+    AUDI_TQ_LOSS_ADPT_AC_COMP_GEAR: 8.1
+  response: '7E8056212220051'

@@ -1,9 +1,9 @@
 command_id: 7E0.7E8.2215B7
 test_cases:
 - expected_values:
-    AUDI_ENG_OIL_SUMP_T: 84.32
-    AUDI_OIL_SUMP_T: 29.3
-  response: 7E8056215B70BD0
+    AUDI_ENG_OIL_SUMP_T: 71.54
+    AUDI_OIL_SUMP_T: 22.2
+  response: 7E8056215B70B89
 - expected_values:
     AUDI_ENG_OIL_SUMP_T: 136.88
     AUDI_OIL_SUMP_T: 58.5

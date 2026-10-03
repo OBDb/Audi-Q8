@@ -27,3 +27,6 @@ test_cases:
 - expected_values:
     AUDI_ODO_MILEAGE_HR: 1206.111
   response: 77E076222B80012675F
+- expected_values:
+    AUDI_ODO_MILEAGE_HR: 1211.044
+  response: 77E076222B800127AA4

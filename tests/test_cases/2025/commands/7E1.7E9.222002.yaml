@@ -21,3 +21,6 @@ test_cases:
 - expected_values:
     AUDI_ENG_TQ_7E1: 65510
   response: 7E905622002FFE6
+- expected_values:
+    AUDI_ENG_TQ_7E1: 65518
+  response: 7E905622002FFEE
