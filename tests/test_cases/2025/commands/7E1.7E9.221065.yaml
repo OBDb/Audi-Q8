@@ -1,34 +1,8 @@
 command_id: 7E1.7E9.221065
 test_cases:
 - expected_values:
-    AUDI_CLU_1_T_TIME_RANGE_0: 122.88
-    AUDI_FRICTION_TQ: 24
-  response: '7E9056210650018'
+    Q8_FRICTION_TQ: 22
+  response: '7E9056210650016'
 - expected_values:
-    AUDI_CLU_1_T_TIME_RANGE_0: 133.12
-    AUDI_FRICTION_TQ: 26
-  response: 7E905621065001A
-- expected_values:
-    AUDI_CLU_1_T_TIME_RANGE_0: 143.36
-    AUDI_FRICTION_TQ: 28
-  response: 7E905621065001C
-- expected_values:
-    AUDI_CLU_1_T_TIME_RANGE_0: 153.6
-    AUDI_FRICTION_TQ: 30
-  response: 7E905621065001E
-- expected_values:
-    AUDI_CLU_1_T_TIME_RANGE_0: 174.08
-    AUDI_FRICTION_TQ: 34
-  response: '7E9056210650022'
-- expected_values:
-    AUDI_CLU_1_T_TIME_RANGE_0: 184.32
-    AUDI_FRICTION_TQ: 36
-  response: '7E9056210650024'
-- expected_values:
-    AUDI_CLU_1_T_TIME_RANGE_0: 204.8
-    AUDI_FRICTION_TQ: 40
-  response: '7E9056210650028'
-- expected_values:
-    AUDI_CLU_1_T_TIME_RANGE_0: 245.76
-    AUDI_FRICTION_TQ: 48
+    Q8_FRICTION_TQ: 48
   response: '7E9056210650030'

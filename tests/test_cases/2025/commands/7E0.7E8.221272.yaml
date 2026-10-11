@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.221272
 test_cases:
 - expected_values:
-    AUDI_EGT_AFTER_CAT: 360
+    Q8_EGT_AFTER_CAT: 360
   response: 7E80562127218BB
 - expected_values:
-    AUDI_EGT_AFTER_CAT: 495.2
-  response: 7E8056212721E03
+    Q8_EGT_AFTER_CAT: 623.1
+  response: '7E8056212722302'
 - expected_values:
-    AUDI_EGT_AFTER_CAT: 518.7
-  response: 7E8056212721EEE
+    Q8_EGT_AFTER_CAT: 673.8
+  response: 7E80562127224FD
 - expected_values:
-    AUDI_EGT_AFTER_CAT: 561.1
-  response: '7E8056212722096'
+    Q8_EGT_AFTER_CAT: 790.7
+  response: 7E805621272298E

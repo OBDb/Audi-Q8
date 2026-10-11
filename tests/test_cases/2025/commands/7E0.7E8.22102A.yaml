@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22102A
 test_cases:
 - expected_values:
-    AUDI_ACCEL_PEDAL_SENS_1_V: 749.4
+    Q8_ACCEL_PEDAL_SENS_1_V: 749.4
   response: 7E80562102A0EA3
 - expected_values:
-    AUDI_ACCEL_PEDAL_SENS_1_V: 1835.8
-  response: 7E80562102A23DB
+    Q8_ACCEL_PEDAL_SENS_1_V: 1024
+  response: 7E80562102A1400
 - expected_values:
-    AUDI_ACCEL_PEDAL_SENS_1_V: 1856.6
-  response: 7E80562102A2443
+    Q8_ACCEL_PEDAL_SENS_1_V: 1689.4
+  response: 7E80562102A20FF
 - expected_values:
-    AUDI_ACCEL_PEDAL_SENS_1_V: 2172.8
-  response: 7E80562102A2A70
+    Q8_ACCEL_PEDAL_SENS_1_V: 2624.4
+  response: 7E80562102A3342

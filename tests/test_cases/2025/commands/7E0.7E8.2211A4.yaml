@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.2211A4
 test_cases:
 - expected_values:
-    AUDI_FUEL_PMP_CMD_DUTY: 10.00058
+    Q8_FUEL_PMP_CMD_DUTY: 10.00058
   response: 7E8056211A4199A
 - expected_values:
-    AUDI_FUEL_PMP_CMD_DUTY: 31.25601
-  response: 7E8056211A45004
+    Q8_FUEL_PMP_CMD_DUTY: 31.24991
+  response: 7E8056211A45000
 - expected_values:
-    AUDI_FUEL_PMP_CMD_DUTY: 32.80019
-  response: 7E8056211A453F8
+    Q8_FUEL_PMP_CMD_DUTY: 33.19997
+  response: 7E8056211A454FE
 - expected_values:
-    AUDI_FUEL_PMP_CMD_DUTY: 33.88051
-  response: 7E8056211A456BC
+    Q8_FUEL_PMP_CMD_DUTY: 35.69936
+  response: 7E8056211A45B64

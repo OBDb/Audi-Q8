@@ -1,23 +1,8 @@
 command_id: 7E1.7E9.22F40D
 test_cases:
 - expected_values:
-    AUDI_VSS_7E1: 0
+    Q8_VSS_7E1: 0
   response: 7E90462F40D00
 - expected_values:
-    AUDI_VSS_7E1: 1
-  response: 7E90462F40D01
-- expected_values:
-    AUDI_VSS_7E1: 12
-  response: 7E90462F40D0C
-- expected_values:
-    AUDI_VSS_7E1: 19
-  response: 7E90462F40D13
-- expected_values:
-    AUDI_VSS_7E1: 20
-  response: 7E90462F40D14
-- expected_values:
-    AUDI_VSS_7E1: 24
-  response: 7E90462F40D18
-- expected_values:
-    AUDI_VSS_7E1: 29
-  response: 7E90462F40D1D
+    Q8_VSS_7E1: 107
+  response: 7E90462F40D6B

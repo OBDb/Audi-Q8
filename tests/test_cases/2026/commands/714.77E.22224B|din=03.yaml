@@ -1,32 +1,32 @@
 command_id: 714.77E.22224B|din=03
 test_cases:
 - expected_values:
-    AUDI_DASH_OIL_THERMAL_WEAR: 7
+    Q8_DASH_OIL_THERMAL_WEAR: 7
   response: 77E0562224B0007
 - expected_values:
-    AUDI_DASH_OIL_THERMAL_WEAR: 8
+    Q8_DASH_OIL_THERMAL_WEAR: 8
   response: 77E0562224B0008
 - expected_values:
-    AUDI_DASH_OIL_THERMAL_WEAR: 9
+    Q8_DASH_OIL_THERMAL_WEAR: 9
   response: 77E0562224B0009
 - expected_values:
-    AUDI_DASH_OIL_THERMAL_WEAR: 10
+    Q8_DASH_OIL_THERMAL_WEAR: 10
   response: 77E0562224B000A
 - expected_values:
-    AUDI_DASH_OIL_THERMAL_WEAR: 11
+    Q8_DASH_OIL_THERMAL_WEAR: 11
   response: 77E0562224B000B
 - expected_values:
-    AUDI_DASH_OIL_THERMAL_WEAR: 12
+    Q8_DASH_OIL_THERMAL_WEAR: 12
   response: 77E0562224B000C
 - expected_values:
-    AUDI_DASH_OIL_THERMAL_WEAR: 13
+    Q8_DASH_OIL_THERMAL_WEAR: 13
   response: 77E0562224B000D
 - expected_values:
-    AUDI_DASH_OIL_THERMAL_WEAR: 14
+    Q8_DASH_OIL_THERMAL_WEAR: 14
   response: 77E0562224B000E
 - expected_values:
-    AUDI_DASH_OIL_THERMAL_WEAR: 34
+    Q8_DASH_OIL_THERMAL_WEAR: 34
   response: 77E0562224B0022
 - expected_values:
-    AUDI_DASH_OIL_THERMAL_WEAR: 35
+    Q8_DASH_OIL_THERMAL_WEAR: 35
   response: 77E0562224B0023

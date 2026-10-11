@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.221063
 test_cases:
 - expected_values:
-    AUDI_ENG_OUTLET_ECT_CALC: 46.5
+    Q8_ENG_OUTLET_ECT_CALC: 46.5
   response: 7E8056210630C7C
 - expected_values:
-    AUDI_ENG_OUTLET_ECT_CALC: 84.9
+    Q8_ENG_OUTLET_ECT_CALC: 84.9
   response: 7E8056210630DFC
 - expected_values:
-    AUDI_ENG_OUTLET_ECT_CALC: 85.6
+    Q8_ENG_OUTLET_ECT_CALC: 85.6
   response: 7E8056210630E03

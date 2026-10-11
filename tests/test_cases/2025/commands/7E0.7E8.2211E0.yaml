@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2211E0
 test_cases:
 - expected_values:
-    AUDI_CMD_CRANK_TQ: 0
+    Q8_CMD_CRANK_TQ: 0
   response: 7E8056211E00000
 - expected_values:
-    AUDI_CMD_CRANK_TQ: 25.4
-  response: 7E8056211E000FE
+    Q8_CMD_CRANK_TQ: 102.3
+  response: 7E8056211E003FF
 - expected_values:
-    AUDI_CMD_CRANK_TQ: -24.2
+    Q8_CMD_CRANK_TQ: -24.2
   response: 7E8056211E0FF0E

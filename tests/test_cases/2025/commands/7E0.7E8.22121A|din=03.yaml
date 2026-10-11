@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22121A|din=03
 test_cases:
 - expected_values:
-    AUDI_PRE_INJ_3_ACTIVATION: 0
+    Q8_PRE_INJ_3_ACTIVATION: 0
   response: 7E80562121A0000
 - expected_values:
-    AUDI_PRE_INJ_3_ACTIVATION: 0.4028
-  response: 7E80562121A03EF
+    Q8_PRE_INJ_3_ACTIVATION: 0.7144
+  response: 7E80562121A06FA
 - expected_values:
-    AUDI_PRE_INJ_3_ACTIVATION: 1.1788
-  response: 7E80562121A0B83
+    Q8_PRE_INJ_3_ACTIVATION: 1.3248
+  response: 7E80562121A0CF0

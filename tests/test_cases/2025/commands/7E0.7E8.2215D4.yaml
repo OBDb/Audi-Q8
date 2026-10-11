@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.2215D4
 test_cases:
 - expected_values:
-    AUDI_LAMBDA_OUTPUT: 0.85135
-  response: 7E8056215D46CF9
+    Q8_LAMBDA_OUTPUT: 0.84546
+  response: 7E8056215D46C38
 - expected_values:
-    AUDI_LAMBDA_OUTPUT: 0.96079
-  response: 7E8056215D47AFB
+    Q8_LAMBDA_OUTPUT: 0.98438
+  response: 7E8056215D47E00
 - expected_values:
-    AUDI_LAMBDA_OUTPUT: 1
-  response: 7E8056215D48000
+    Q8_LAMBDA_OUTPUT: 0.99216
+  response: 7E8056215D47EFF
 - expected_values:
-    AUDI_LAMBDA_OUTPUT: 1.02399
-  response: 7E8056215D48312
+    Q8_LAMBDA_OUTPUT: 1.16476
+  response: 7E8056215D49517

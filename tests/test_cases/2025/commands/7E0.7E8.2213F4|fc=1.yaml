@@ -1,42 +1,11 @@
 command_id: 7E0.7E8.2213F4|fc=1
 test_cases:
 - expected_values:
-    AUDI_IGA_CYL_KNK_2: -0.375
-    AUDI_KNOCK_RETARD_CYL_3: -0.375
+    Q8_KNOCK_RETARD_CYL_3: -0.375
   response: 7E8056213F47F28
 - expected_values:
-    AUDI_IGA_CYL_KNK_2: -0.375
-    AUDI_KNOCK_RETARD_CYL_3: -0.375
-  response: 7E8056213F47F38
-- expected_values:
-    AUDI_IGA_CYL_KNK_2: -0.375
-    AUDI_KNOCK_RETARD_CYL_3: -0.375
-  response: 7E8056213F47F4A
-- expected_values:
-    AUDI_IGA_CYL_KNK_2: -0.375
-    AUDI_KNOCK_RETARD_CYL_3: -0.375
-  response: 7E8056213F47F7F
-- expected_values:
-    AUDI_IGA_CYL_KNK_2: -0.375
-    AUDI_KNOCK_RETARD_CYL_3: -0.375
-  response: 7E8056213F47F80
-- expected_values:
-    AUDI_IGA_CYL_KNK_2: -0.375
-    AUDI_KNOCK_RETARD_CYL_3: -0.375
-  response: 7E8056213F47FAD
-- expected_values:
-    AUDI_IGA_CYL_KNK_2: -0.375
-    AUDI_KNOCK_RETARD_CYL_3: -0.375
-  response: 7E8056213F47FAF
-- expected_values:
-    AUDI_IGA_CYL_KNK_2: -0.375
-    AUDI_KNOCK_RETARD_CYL_3: -0.375
-  response: 7E8056213F47FCC
-- expected_values:
-    AUDI_IGA_CYL_KNK_2: -0.375
-    AUDI_KNOCK_RETARD_CYL_3: -0.375
+    Q8_KNOCK_RETARD_CYL_3: -0.375
   response: 7E8056213F47FE9
 - expected_values:
-    AUDI_IGA_CYL_KNK_2: 0
-    AUDI_KNOCK_RETARD_CYL_3: 0
-  response: 7E8056213F4805E
+    Q8_KNOCK_RETARD_CYL_3: 0
+  response: 7E8056213F48028

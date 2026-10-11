@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22110A
 test_cases:
 - expected_values:
-    AUDI_MASS_FLOW_THROUGH: 0
+    Q8_MASS_FLOW_THROUGH: 0
   response: 7E80562110A0000
 - expected_values:
-    AUDI_MASS_FLOW_THROUGH: 6531
-  response: 7E80562110AFF1E
+    Q8_MASS_FLOW_THROUGH: 6530.7
+  response: 7E80562110AFF1B
 - expected_values:
-    AUDI_MASS_FLOW_THROUGH: 6553
-  response: 7E80562110AFFFA
+    Q8_MASS_FLOW_THROUGH: 6553
+  response: 7E80562110AFFFE

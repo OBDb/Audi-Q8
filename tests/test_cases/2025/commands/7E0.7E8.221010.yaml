@@ -1,8 +1,11 @@
 command_id: 7E0.7E8.221010
 test_cases:
 - expected_values:
-    AUDI_ENG_TQ_V2: 0
+    Q8_ENG_TQ: 0
   response: '7E8056210100000'
 - expected_values:
-    AUDI_ENG_TQ_V2: 178.5
-  response: 7E80562101006F9
+    Q8_ENG_TQ: 255.6
+  response: 7E80562101009FC
+- expected_values:
+    Q8_ENG_TQ: 368.8
+  response: 7E8056210100E68

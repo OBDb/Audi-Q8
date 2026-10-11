@@ -1,17 +1,26 @@
 command_id: 7E1.7E9.2251A7
 test_cases:
 - expected_values:
-    AUDI_AUX_HYDRAULIC_PMP_V: 12.8
+    Q8_AUX_HYDRAULIC_PMP_V: 12
+  response: 7E9046251A778
+- expected_values:
+    Q8_AUX_HYDRAULIC_PMP_V: 12.8
   response: 7E9046251A780
 - expected_values:
-    AUDI_AUX_HYDRAULIC_PMP_V: 12.9
+    Q8_AUX_HYDRAULIC_PMP_V: 12.9
   response: 7E9046251A781
 - expected_values:
-    AUDI_AUX_HYDRAULIC_PMP_V: 13
+    Q8_AUX_HYDRAULIC_PMP_V: 13
   response: 7E9046251A782
 - expected_values:
-    AUDI_AUX_HYDRAULIC_PMP_V: 14.5
+    Q8_AUX_HYDRAULIC_PMP_V: 14.5
   response: 7E9046251A791
 - expected_values:
-    AUDI_AUX_HYDRAULIC_PMP_V: 14.6
+    Q8_AUX_HYDRAULIC_PMP_V: 14.6
   response: 7E9046251A792
+- expected_values:
+    Q8_AUX_HYDRAULIC_PMP_V: 14.7
+  response: 7E9046251A793
+- expected_values:
+    Q8_AUX_HYDRAULIC_PMP_V: 14.9
+  response: 7E9046251A795

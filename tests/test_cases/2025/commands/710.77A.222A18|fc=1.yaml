@@ -1,26 +1,32 @@
 command_id: 710.77A.222A18|fc=1
 test_cases:
 - expected_values:
-    AUDI_ENTIRE_ENERGY: 559.6
+    Q8_ENTIRE_ENERGY: 559.6
   response: 77A06622A180015DC
 - expected_values:
-    AUDI_ENTIRE_ENERGY: 561.3
+    Q8_ENTIRE_ENERGY: 561.3
   response: 77A06622A180015ED
 - expected_values:
-    AUDI_ENTIRE_ENERGY: 562.1
+    Q8_ENTIRE_ENERGY: 562.1
   response: 77A06622A180015F5
 - expected_values:
-    AUDI_ENTIRE_ENERGY: 564.9
+    Q8_ENTIRE_ENERGY: 564.9
   response: 77A06622A18001611
 - expected_values:
-    AUDI_ENTIRE_ENERGY: 567.5
+    Q8_ENTIRE_ENERGY: 567.5
   response: 77A06622A1800162B
 - expected_values:
-    AUDI_ENTIRE_ENERGY: 569.2
+    Q8_ENTIRE_ENERGY: 569.2
   response: 77A06622A1800163C
 - expected_values:
-    AUDI_ENTIRE_ENERGY: 570.1
+    Q8_ENTIRE_ENERGY: 570.1
   response: 77A06622A18001645
 - expected_values:
-    AUDI_ENTIRE_ENERGY: 572.2
+    Q8_ENTIRE_ENERGY: 572.2
   response: 77A06622A1800165A
+- expected_values:
+    Q8_ENTIRE_ENERGY: 572.3
+  response: 77A06622A1800165B
+- expected_values:
+    Q8_ENTIRE_ENERGY: 572.4
+  response: 77A06622A1800165C

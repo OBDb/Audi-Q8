@@ -1,42 +1,11 @@
 command_id: 7E0.7E8.2210E0|t=96
 test_cases:
 - expected_values:
-    AUDI_ODO: 149
-    AUDI_ODO_V3: 149
+    Q8_ODO_V3: 149
   response: 7E8076210E000000095
 - expected_values:
-    AUDI_ODO: 1191
-    AUDI_ODO_V3: 1191
+    Q8_ODO_V3: 1191
   response: 7E8076210E0000004A7
 - expected_values:
-    AUDI_ODO: 1192
-    AUDI_ODO_V3: 1192
-  response: 7E8076210E0000004A8
-- expected_values:
-    AUDI_ODO: 1194
-    AUDI_ODO_V3: 1194
-  response: 7E8076210E0000004AA
-- expected_values:
-    AUDI_ODO: 1196
-    AUDI_ODO_V3: 1196
-  response: 7E8076210E0000004AC
-- expected_values:
-    AUDI_ODO: 1202
-    AUDI_ODO_V3: 1202
-  response: 7E8076210E0000004B2
-- expected_values:
-    AUDI_ODO: 1204
-    AUDI_ODO_V3: 1204
-  response: 7E8076210E0000004B4
-- expected_values:
-    AUDI_ODO: 1206
-    AUDI_ODO_V3: 1206
-  response: 7E8076210E0000004B6
-- expected_values:
-    AUDI_ODO: 1210
-    AUDI_ODO_V3: 1210
-  response: 7E8076210E0000004BA
-- expected_values:
-    AUDI_ODO: 1211
-    AUDI_ODO_V3: 1211
-  response: 7E8076210E0000004BB
+    Q8_ODO_V3: 1262
+  response: 7E8076210E0000004EE

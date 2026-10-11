@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22430E
 test_cases:
 - expected_values:
-    AUDI_NUM_INJECTIONS: 0
+    Q8_NUM_INJECTIONS: 0
   response: 7E80562430E0000
 - expected_values:
-    AUDI_NUM_INJECTIONS: 18940
-  response: 7E80562430E49FC
+    Q8_NUM_INJECTIONS: 5117
+  response: 7E80562430E13FD
 - expected_values:
-    AUDI_NUM_INJECTIONS: 42174
-  response: 7E80562430EA4BE
+    Q8_NUM_INJECTIONS: 59278
+  response: 7E80562430EE78E

@@ -1,14 +1,11 @@
 command_id: 7E0.7E8.22201D
 test_cases:
 - expected_values:
-    AUDI_CAM_ADJ_INT_SPEC: 11.7
-  response: 7E80562201D0075
+    Q8_CAM_ADJ_INT_SPEC: 0.9
+  response: 7E80562201D0009
 - expected_values:
-    AUDI_CAM_ADJ_INT_SPEC: 26.7
-  response: 7E80562201D010B
+    Q8_CAM_ADJ_INT_SPEC: -76.9
+  response: 7E80562201DFCFF
 - expected_values:
-    AUDI_CAM_ADJ_INT_SPEC: -79
-  response: 7E80562201DFCEA
-- expected_values:
-    AUDI_CAM_ADJ_INT_SPEC: -18.4
-  response: 7E80562201DFF48
+    Q8_CAM_ADJ_INT_SPEC: -23.1
+  response: 7E80562201DFF19

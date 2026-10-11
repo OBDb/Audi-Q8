@@ -1,23 +1,32 @@
 command_id: 710.77A.222A0F
 test_cases:
 - expected_values:
-    AUDI_USE_BAT_CHG: 21
+    Q8_SSB_AH: 21
   response: 77A04622A0F15
 - expected_values:
-    AUDI_USE_BAT_CHG: 24
+    Q8_SSB_AH: 24
   response: 77A04622A0F18
 - expected_values:
-    AUDI_USE_BAT_CHG: 25
+    Q8_SSB_AH: 25
   response: 77A04622A0F19
 - expected_values:
-    AUDI_USE_BAT_CHG: 28
+    Q8_SSB_AH: 28
   response: 77A04622A0F1C
 - expected_values:
-    AUDI_USE_BAT_CHG: 30
+    Q8_SSB_AH: 29
+  response: 77A04622A0F1D
+- expected_values:
+    Q8_SSB_AH: 30
   response: 77A04622A0F1E
 - expected_values:
-    AUDI_USE_BAT_CHG: 31
+    Q8_SSB_AH: 31
   response: 77A04622A0F1F
 - expected_values:
-    AUDI_USE_BAT_CHG: 32
+    Q8_SSB_AH: 32
   response: 77A04622A0F20
+- expected_values:
+    Q8_SSB_AH: 33
+  response: 77A04622A0F21
+- expected_values:
+    Q8_SSB_AH: 34
+  response: 77A04622A0F22

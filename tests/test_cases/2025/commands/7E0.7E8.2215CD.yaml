@@ -1,11 +1,14 @@
 command_id: 7E0.7E8.2215CD
 test_cases:
 - expected_values:
-    AUDI_ECT_RADIATOR_OUTLET_V_1: 16
+    Q8_ECT_RADIATOR_OUTLET_V_1: 16
   response: 7E8056215CD0B4B
 - expected_values:
-    AUDI_ECT_RADIATOR_OUTLET_V_1: 33
-  response: 7E8056215CD0BF5
+    Q8_ECT_RADIATOR_OUTLET_V_1: 33.2
+  response: 7E8056215CD0BF7
 - expected_values:
-    AUDI_ECT_RADIATOR_OUTLET_V_1: 34.3
+    Q8_ECT_RADIATOR_OUTLET_V_1: 34.3
   response: 7E8056215CD0C02
+- expected_values:
+    Q8_ECT_RADIATOR_OUTLET_V_1: 59.9
+  response: 7E8056215CD0D02

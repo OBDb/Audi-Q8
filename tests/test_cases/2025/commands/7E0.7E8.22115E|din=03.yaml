@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22115E|din=03
+test_cases:
+- expected_values:
+    Q8_TIME_SINCE_REGEN_RAW: 0
+  response: 7E80562115E0000

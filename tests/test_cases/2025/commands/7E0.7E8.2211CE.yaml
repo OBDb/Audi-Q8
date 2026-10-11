@@ -1,18 +1,14 @@
 command_id: 7E0.7E8.2211CE
 test_cases:
 - expected_values:
-    AUDI_FUEL_LOW_P_SPEC: 540.5
-    AUDI_LOW_FUEL_P_CMD: 540.5
+    Q8_FUEL_LOW_P_SPEC: 540.5
   response: 7E8056211CE151D
 - expected_values:
-    AUDI_FUEL_LOW_P_SPEC: 580
-    AUDI_LOW_FUEL_P_CMD: 580
-  response: 7E8056211CE16A8
+    Q8_FUEL_LOW_P_SPEC: 562.9
+  response: 7E8056211CE15FD
 - expected_values:
-    AUDI_FUEL_LOW_P_SPEC: 615.3
-    AUDI_LOW_FUEL_P_CMD: 615.3
+    Q8_FUEL_LOW_P_SPEC: 615.3
   response: 7E8056211CE1809
 - expected_values:
-    AUDI_FUEL_LOW_P_SPEC: 642.3
-    AUDI_LOW_FUEL_P_CMD: 642.3
+    Q8_FUEL_LOW_P_SPEC: 642.3
   response: 7E8056211CE1917

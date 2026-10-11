@@ -1,8 +1,14 @@
 command_id: 7E0.7E8.22406C
 test_cases:
 - expected_values:
-    AUDI_GPF_OIL_ASH_MASS: 0.76
+    Q8_GPF_OIL_ASH_MASS: 0.76
   response: 7E80562406C004C
 - expected_values:
-    AUDI_GPF_OIL_ASH_MASS: 0.77
+    Q8_GPF_OIL_ASH_MASS: 0.77
   response: 7E80562406C004D
+- expected_values:
+    Q8_GPF_OIL_ASH_MASS: 0.78
+  response: 7E80562406C004E
+- expected_values:
+    Q8_GPF_OIL_ASH_MASS: 0.79
+  response: 7E80562406C004F

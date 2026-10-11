@@ -1,11 +1,14 @@
 command_id: 7E0.7E8.221124
 test_cases:
 - expected_values:
-    AUDI_CAM_SPD_V3: 226.75
-  response: 7E805621124038B
+    Q8_CAM_SPD_7E0: 130.25
+  response: '7E8056211240209'
 - expected_values:
-    AUDI_CAM_SPD_V3: 771.5
-  response: 7E8056211240C0E
+    Q8_CAM_SPD_7E0: 705
+  response: 7E8056211240B04
 - expected_values:
-    AUDI_CAM_SPD_V3: 1082
-  response: 7E80562112410E8
+    Q8_CAM_SPD_7E0: 831.25
+  response: 7E8056211240CFD
+- expected_values:
+    Q8_CAM_SPD_7E0: 1196.5
+  response: 7E80562112412B2

@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2210D4
 test_cases:
 - expected_values:
-    AUDI_INJ_2_RAIL_P_1: 0
+    Q8_INJ_2_RAIL_P_1: 0
   response: 7E8056210D40000
 - expected_values:
-    AUDI_INJ_2_RAIL_P_1: -0.0137
-  response: 7E8056210D4FEEE
+    Q8_INJ_2_RAIL_P_1: -0.01355
+  response: 7E8056210D4FEF1
 - expected_values:
-    AUDI_INJ_2_RAIL_P_1: -0.0108
+    Q8_INJ_2_RAIL_P_1: -0.0108
   response: 7E8056210D4FF28

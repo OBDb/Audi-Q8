@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.221130
 test_cases:
 - expected_values:
-    AUDI_CLT_FAN_1_CMD_DUTY: 10.15
-    AUDI_COOLING_FAN_1: 10.15
+    Q8_COOLING_FAN_1: 10.15
   response: 7E80562113003F7
 - expected_values:
-    AUDI_CLT_FAN_1_CMD_DUTY: 41.01
-    AUDI_COOLING_FAN_1: 41.01
+    Q8_COOLING_FAN_1: 28.12
+  response: 7E8056211300AFC
+- expected_values:
+    Q8_COOLING_FAN_1: 41.01
   response: '7E8056211301005'
 - expected_values:
-    AUDI_CLT_FAN_1_CMD_DUTY: 43.74
-    AUDI_COOLING_FAN_1: 43.74
+    Q8_COOLING_FAN_1: 43.74
   response: '7E8056211301116'

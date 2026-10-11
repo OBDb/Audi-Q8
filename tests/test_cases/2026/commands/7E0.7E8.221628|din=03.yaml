@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221628|din=03
+test_cases:
+- expected_values:
+    Q8_INTERCOOLER_AIR_T_RAW: 0
+  response: '7E80462162800'
+- expected_values:
+    Q8_INTERCOOLER_AIR_T_RAW: 14
+  response: 7E8046216280E
+- expected_values:
+    Q8_INTERCOOLER_AIR_T_RAW: 22
+  response: '7E80462162816'

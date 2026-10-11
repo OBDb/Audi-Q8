@@ -1,20 +1,29 @@
 command_id: 7E0.7E8.22138D
 test_cases:
 - expected_values:
-    AUDI_IGA_IGC_3: -35.625
+    Q8_IGA_IGC_3: -35.625
   response: 7E80462138D00
 - expected_values:
-    AUDI_IGA_IGC_3: -35.25025
+    Q8_IGA_IGC_3: -35.25025
   response: 7E80462138D01
 - expected_values:
-    AUDI_IGA_IGC_3: -34.8755
+    Q8_IGA_IGC_3: -34.8755
   response: 7E80462138D02
 - expected_values:
-    AUDI_IGA_IGC_3: -29.629
+    Q8_IGA_IGC_3: -34.50075
+  response: 7E80462138D03
+- expected_values:
+    Q8_IGA_IGC_3: -29.629
   response: 7E80462138D10
 - expected_values:
-    AUDI_IGA_IGC_3: -29.25425
+    Q8_IGA_IGC_3: -29.25425
   response: 7E80462138D11
 - expected_values:
-    AUDI_IGA_IGC_3: -28.8795
+    Q8_IGA_IGC_3: -28.8795
   response: 7E80462138D12
+- expected_values:
+    Q8_IGA_IGC_3: -28.50475
+  response: 7E80462138D13
+- expected_values:
+    Q8_IGA_IGC_3: -23.25825
+  response: 7E80462138D21

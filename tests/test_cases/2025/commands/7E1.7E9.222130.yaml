@@ -1,14 +1,17 @@
 command_id: 7E1.7E9.222130
 test_cases:
 - expected_values:
-    AUDI_TQ_CONV: 1
+    Q8_TQ_CONV: 1
   response: '7E90462213064'
 - expected_values:
-    AUDI_TQ_CONV: 1.09
+    Q8_TQ_CONV: 1.09
   response: 7E9046221306D
 - expected_values:
-    AUDI_TQ_CONV: 1.13
+    Q8_TQ_CONV: 1.13
   response: '7E90462213071'
 - expected_values:
-    AUDI_TQ_CONV: 1.15
+    Q8_TQ_CONV: 1.15
   response: '7E90462213073'
+- expected_values:
+    Q8_TQ_CONV: 1.72
+  response: 7E904622130AC

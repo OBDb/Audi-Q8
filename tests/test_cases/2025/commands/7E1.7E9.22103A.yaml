@@ -1,8 +1,11 @@
 command_id: 7E1.7E9.22103A
 test_cases:
 - expected_values:
-    AUDI_TIME_AFTERRUN: 0
+    Q8_TIME_AFTERRUN: 0
   response: 7E90562103A0000
 - expected_values:
-    AUDI_TIME_AFTERRUN: 48
+    Q8_TIME_AFTERRUN: 48
   response: 7E90562103A0030
+- expected_values:
+    Q8_TIME_AFTERRUN: 52
+  response: 7E90562103A0034

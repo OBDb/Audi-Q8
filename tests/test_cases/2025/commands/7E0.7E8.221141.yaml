@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.221141
 test_cases:
 - expected_values:
-    AUDI_SEG_AD_MMV_ER_L_3: 6.82381
-  response: 7E8056211416FCD
+    Q8_SEG_AD_MMV_ER_L_3: 6.55893
+  response: 7E8056211416B76
 - expected_values:
-    AUDI_SEG_AD_MMV_ER_L_3: 7.62681
+    Q8_SEG_AD_MMV_ER_L_3: 7.62681
   response: 7E8056211417CF5
 - expected_values:
-    AUDI_SEG_AD_MMV_ER_L_3: -7.8125
-  response: '7E8056211418000'
+    Q8_SEG_AD_MMV_ER_L_3: 7.7515
+  response: 7E8056211417F00
 - expected_values:
-    AUDI_SEG_AD_MMV_ER_L_3: -7.00024
-  response: 7E8056211418D4F
+    Q8_SEG_AD_MMV_ER_L_3: -6.37892
+  response: 7E805621141977D

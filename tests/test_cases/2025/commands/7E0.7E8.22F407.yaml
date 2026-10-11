@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F407
 test_cases:
 - expected_values:
-    AUDI_LONG_TERM_FUEL_TRIM_1: -13.28125
+    Q8_LONG_TERM_FUEL_TRIM_1: -13.28125
   response: 7E80462F4076F
 - expected_values:
-    AUDI_LONG_TERM_FUEL_TRIM_1: 0
+    Q8_LONG_TERM_FUEL_TRIM_1: 0
   response: 7E80462F40780
