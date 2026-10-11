@@ -1,26 +1,32 @@
 command_id: 7E0.7E8.22174A
 test_cases:
 - expected_values:
-    AUDI_EXH_CAM_ADPT_BIAS: 0.10986
+    Q8_EXH_CAM_ADPT_BIAS: 0
+  response: 7E80562174A0000
+- expected_values:
+    Q8_EXH_CAM_ADPT_BIAS: 0.10986
   response: 7E80562174A0005
 - expected_values:
-    AUDI_EXH_CAM_ADPT_BIAS: -0.41749
+    Q8_EXH_CAM_ADPT_BIAS: -0.41749
   response: 7E80562174AFFED
 - expected_values:
-    AUDI_EXH_CAM_ADPT_BIAS: -0.37354
+    Q8_EXH_CAM_ADPT_BIAS: -0.39551
+  response: 7E80562174AFFEE
+- expected_values:
+    Q8_EXH_CAM_ADPT_BIAS: -0.37354
   response: 7E80562174AFFEF
 - expected_values:
-    AUDI_EXH_CAM_ADPT_BIAS: -0.30762
+    Q8_EXH_CAM_ADPT_BIAS: -0.30762
   response: 7E80562174AFFF2
 - expected_values:
-    AUDI_EXH_CAM_ADPT_BIAS: -0.2417
+    Q8_EXH_CAM_ADPT_BIAS: -0.2417
   response: 7E80562174AFFF5
 - expected_values:
-    AUDI_EXH_CAM_ADPT_BIAS: -0.13184
+    Q8_EXH_CAM_ADPT_BIAS: -0.13184
   response: 7E80562174AFFFA
 - expected_values:
-    AUDI_EXH_CAM_ADPT_BIAS: -0.06592
+    Q8_EXH_CAM_ADPT_BIAS: -0.06592
   response: 7E80562174AFFFD
 - expected_values:
-    AUDI_EXH_CAM_ADPT_BIAS: -0.02197
+    Q8_EXH_CAM_ADPT_BIAS: -0.02197
   response: 7E80562174AFFFF

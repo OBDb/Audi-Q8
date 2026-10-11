@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221515
 test_cases:
 - expected_values:
-    AUDI_CAT_T_CALC: 325
+    Q8_CAT_T_CALC: 325
   response: 7E8046215154B
 - expected_values:
-    AUDI_CAT_T_CALC: 565
-  response: 7E8046215157B
+    Q8_CAT_T_CALC: 775
+  response: 7E804621515A5

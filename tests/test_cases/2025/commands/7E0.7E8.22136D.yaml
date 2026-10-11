@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22136D
 test_cases:
 - expected_values:
-    AUDI_CAM_ADJ_EXH_BANK_2_ACT: 0.07812
+    Q8_CAM_ADJ_EXH_BANK_2_ACT: 0.07812
   response: 7E80562136D0005
 - expected_values:
-    AUDI_CAM_ADJ_EXH_BANK_2_ACT: -24.64062
-  response: 7E80562136DF9D7
+    Q8_CAM_ADJ_EXH_BANK_2_ACT: 16
+  response: 7E80562136D0400
 - expected_values:
-    AUDI_CAM_ADJ_EXH_BANK_2_ACT: -20
-  response: 7E80562136DFB00
+    Q8_CAM_ADJ_EXH_BANK_2_ACT: -12.0625
+  response: 7E80562136DFCFC
 - expected_values:
-    AUDI_CAM_ADJ_EXH_BANK_2_ACT: -2.15625
-  response: 7E80562136DFF76
+    Q8_CAM_ADJ_EXH_BANK_2_ACT: -2.92188
+  response: 7E80562136DFF45

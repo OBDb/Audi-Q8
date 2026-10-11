@@ -1,14 +1,14 @@
 command_id: 713.77D.222005|fc=1
 test_cases:
 - expected_values:
-    AUDI_P_BRAKE_SERVO_UNIT: -974.5
-  response: 77D05622005C318
+    Q8_P_BRAKE_SERVO_UNIT: -986.625
+  response: 77D05622005C256
 - expected_values:
-    AUDI_P_BRAKE_SERVO_UNIT: -963.5625
-  response: 77D05622005C3C7
-- expected_values:
-    AUDI_P_BRAKE_SERVO_UNIT: -958.75
+    Q8_P_BRAKE_SERVO_UNIT: -958.75
   response: 77D05622005C414
 - expected_values:
-    AUDI_P_BRAKE_SERVO_UNIT: -906.4375
-  response: 77D05622005C759
+    Q8_P_BRAKE_SERVO_UNIT: -912.375
+  response: 77D05622005C6FA
+- expected_values:
+    Q8_P_BRAKE_SERVO_UNIT: -834.1875
+  response: 77D05622005CBDD

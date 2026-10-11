@@ -1,20 +1,11 @@
 command_id: 7E1.7E9.221029
 test_cases:
 - expected_values:
-    AUDI_CURRENT_N371_P_CTRL_6: 50
+    Q8_CURRENT_N371_P_CTRL_6: 0
+  response: '7E9056210290000'
+- expected_values:
+    Q8_CURRENT_N371_P_CTRL_6: 50
   response: 7E90562102901F4
 - expected_values:
-    AUDI_CURRENT_N371_P_CTRL_6: 348.6
-  response: 7E9056210290D9E
-- expected_values:
-    AUDI_CURRENT_N371_P_CTRL_6: 354.7
-  response: 7E9056210290DDB
-- expected_values:
-    AUDI_CURRENT_N371_P_CTRL_6: 371.4
-  response: 7E9056210290E82
-- expected_values:
-    AUDI_CURRENT_N371_P_CTRL_6: 382.7
-  response: 7E9056210290EF3
-- expected_values:
-    AUDI_CURRENT_N371_P_CTRL_6: 386.7
-  response: 7E9056210290F1B
+    Q8_CURRENT_N371_P_CTRL_6: 447.9
+  response: 7E905621029117F

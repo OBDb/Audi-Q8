@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2215C1
 test_cases:
 - expected_values:
-    AUDI_IAT_BEFORE_THROTTLE: -39.75
+    Q8_IAT_BEFORE_THROTTLE: 14.4
   response: 7E8056215C10B3B
 - expected_values:
-    AUDI_IAT_BEFORE_THROTTLE: -39.75
+    Q8_IAT_BEFORE_THROTTLE: 33.5
   response: 7E8056215C10BFA
 - expected_values:
-    AUDI_IAT_BEFORE_THROTTLE: -39
+    Q8_IAT_BEFORE_THROTTLE: 34.1
   response: 7E8056215C10C00

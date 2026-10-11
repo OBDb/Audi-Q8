@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2215D1
 test_cases:
 - expected_values:
-    AUDI_LATERAL_ACCEL_RAW: 0
+    Q8_LATERAL_ACCEL_RAW: 0
   response: 7E8056215D10000
 - expected_values:
-    AUDI_LATERAL_ACCEL_RAW: -0.08
-  response: 7E8056215D1FFF8
+    Q8_LATERAL_ACCEL_RAW: -0.15
+  response: 7E8056215D1FFF1
 - expected_values:
-    AUDI_LATERAL_ACCEL_RAW: -0.01
+    Q8_LATERAL_ACCEL_RAW: -0.01
   response: 7E8056215D1FFFF

@@ -1,18 +1,14 @@
 command_id: 7E0.7E8.2211DC
 test_cases:
 - expected_values:
-    AUDI_INT_MANIFOLD_P_RAW: 1.01562
-    AUDI_MAP_RAW: 262.57812
-  response: 7E8056211DC0D21
+    Q8_MAP_RAW: 242.96875
+  response: 7E8056211DC0C26
 - expected_values:
-    AUDI_INT_MANIFOLD_P_RAW: 1.32812
-    AUDI_MAP_RAW: 340
+    Q8_MAP_RAW: 340
   response: 7E8056211DC1100
 - expected_values:
-    AUDI_INT_MANIFOLD_P_RAW: 2.03125
-    AUDI_MAP_RAW: 539.53125
+    Q8_MAP_RAW: 539.53125
   response: 7E8056211DC1AFA
 - expected_values:
-    AUDI_INT_MANIFOLD_P_RAW: 3.98438
-    AUDI_MAP_RAW: 1020.78125
-  response: 7E8056211DC330A
+    Q8_MAP_RAW: 1371.32812
+  response: 7E8056211DC4491

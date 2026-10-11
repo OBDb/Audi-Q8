@@ -1,30 +1,8 @@
 command_id: 7E1.7E9.221064
 test_cases:
 - expected_values:
-    AUDI_ANALYSIS_CLU_1_MAX_T: 0
-    AUDI_DES_TQ_FILTERED: 0
+    Q8_DES_TQ_FILTERED: 0
   response: '7E9056210640000'
 - expected_values:
-    AUDI_ANALYSIS_CLU_1_MAX_T: 1536
-    AUDI_DES_TQ_FILTERED: 6
-  response: '7E9056210640006'
-- expected_values:
-    AUDI_ANALYSIS_CLU_1_MAX_T: 10240
-    AUDI_DES_TQ_FILTERED: 40
-  response: '7E9056210640028'
-- expected_values:
-    AUDI_ANALYSIS_CLU_1_MAX_T: 31744
-    AUDI_DES_TQ_FILTERED: 124
-  response: 7E905621064007C
-- expected_values:
-    AUDI_ANALYSIS_CLU_1_MAX_T: -32768
-    AUDI_DES_TQ_FILTERED: 128
-  response: '7E9056210640080'
-- expected_values:
-    AUDI_ANALYSIS_CLU_1_MAX_T: -30208
-    AUDI_DES_TQ_FILTERED: 138
-  response: 7E905621064008A
-- expected_values:
-    AUDI_ANALYSIS_CLU_1_MAX_T: -25088
-    AUDI_DES_TQ_FILTERED: 158
-  response: 7E905621064009E
+    Q8_DES_TQ_FILTERED: -38
+  response: 7E905621064FFDA

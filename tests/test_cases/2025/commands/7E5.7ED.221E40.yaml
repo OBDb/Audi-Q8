@@ -1,29 +1,8 @@
 command_id: 7E5.7ED.221E40
 test_cases:
 - expected_values:
-    AUDI_HVBAT_CELL_1_V: 0.90015
-  response: 7ED05621E400E67
+    Q8_HVBAT_CELL_1_V: 3.625
+  response: 7ED05621E400E29
 - expected_values:
-    AUDI_HVBAT_CELL_1_V: 0.90039
-  response: 7ED05621E400E68
-- expected_values:
-    AUDI_HVBAT_CELL_1_V: 0.90625
-  response: 7ED05621E400E80
-- expected_values:
-    AUDI_HVBAT_CELL_1_V: 0.90698
-  response: 7ED05621E400E83
-- expected_values:
-    AUDI_HVBAT_CELL_1_V: 0.90723
-  response: 7ED05621E400E84
-- expected_values:
-    AUDI_HVBAT_CELL_1_V: 0.90747
-  response: 7ED05621E400E85
-- expected_values:
-    AUDI_HVBAT_CELL_1_V: 0.90942
-  response: 7ED05621E400E8D
-- expected_values:
-    AUDI_HVBAT_CELL_1_V: 0.91187
-  response: 7ED05621E400E97
-- expected_values:
-    AUDI_HVBAT_CELL_1_V: 0.91211
+    Q8_HVBAT_CELL_1_V: 3.736
   response: 7ED05621E400E98

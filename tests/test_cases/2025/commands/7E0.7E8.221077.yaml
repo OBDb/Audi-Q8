@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.221077
 test_cases:
 - expected_values:
-    AUDI_AUX_PWR: 0
+    Q8_AUX_PWR: 0
   response: '7E8056210770000'
 - expected_values:
-    AUDI_AUX_PWR: 960
+    Q8_AUX_PWR: 960
   response: 7E80562107700F0
 - expected_values:
-    AUDI_AUX_PWR: 1088
-  response: '7E8056210770110'
+    Q8_AUX_PWR: 1024
+  response: '7E8056210770100'

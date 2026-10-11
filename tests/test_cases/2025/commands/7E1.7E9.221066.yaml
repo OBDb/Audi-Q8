@@ -1,22 +1,26 @@
 command_id: 7E1.7E9.221066
 test_cases:
 - expected_values:
-    AUDI_ANALYSIS_CLU_1_T_1: 399.38
-    AUDI_STATIC_TQ_LIM: 334
+    Q8_STATIC_TQ_LIM: 332
+  response: 7E905621066014C
+- expected_values:
+    Q8_STATIC_TQ_LIM: 334
   response: 7E905621066014E
 - expected_values:
-    AUDI_ANALYSIS_CLU_1_T_1: 419.86
-    AUDI_STATIC_TQ_LIM: 338
+    Q8_STATIC_TQ_LIM: 338
   response: '7E9056210660152'
 - expected_values:
-    AUDI_ANALYSIS_CLU_1_T_1: 686.1
-    AUDI_STATIC_TQ_LIM: 390
+    Q8_STATIC_TQ_LIM: 390
   response: '7E9056210660186'
 - expected_values:
-    AUDI_ANALYSIS_CLU_1_T_1: 1064.98
-    AUDI_STATIC_TQ_LIM: 464
+    Q8_STATIC_TQ_LIM: 396
+  response: 7E905621066018C
+- expected_values:
+    Q8_STATIC_TQ_LIM: 464
   response: 7E90562106601D0
 - expected_values:
-    AUDI_ANALYSIS_CLU_1_T_1: 1269.78
-    AUDI_STATIC_TQ_LIM: 504
+    Q8_STATIC_TQ_LIM: 500
+  response: 7E90562106601F4
+- expected_values:
+    Q8_STATIC_TQ_LIM: 504
   response: 7E90562106601F8

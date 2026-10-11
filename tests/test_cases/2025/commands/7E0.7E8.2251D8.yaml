@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.2251D8
 test_cases:
 - expected_values:
-    AUDI_TANK_FILL_LEVEL: 1587.2
+    Q8_TANK_FILL_LEVEL: 47
+  response: 7E8056251D82F00
+- expected_values:
+    Q8_TANK_FILL_LEVEL: 62
   response: 7E8056251D83E00

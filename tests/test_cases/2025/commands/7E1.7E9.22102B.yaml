@@ -1,23 +1,8 @@
 command_id: 7E1.7E9.22102B
 test_cases:
 - expected_values:
-    AUDI_PQ35_CLUTCH_1_T: 0
+    Q8_PQ35_CLUTCH_1_T: 0
   response: 7E90462102B00
 - expected_values:
-    AUDI_PQ35_CLUTCH_1_T: 2
-  response: 7E90462102B02
-- expected_values:
-    AUDI_PQ35_CLUTCH_1_T: 10
-  response: 7E90462102B0A
-- expected_values:
-    AUDI_PQ35_CLUTCH_1_T: 11
-  response: 7E90462102B0B
-- expected_values:
-    AUDI_PQ35_CLUTCH_1_T: 12
-  response: 7E90462102B0C
-- expected_values:
-    AUDI_PQ35_CLUTCH_1_T: 13
-  response: 7E90462102B0D
-- expected_values:
-    AUDI_PQ35_CLUTCH_1_T: 14
-  response: 7E90462102B0E
+    Q8_PQ35_CLUTCH_1_T: 53
+  response: 7E90462102B35

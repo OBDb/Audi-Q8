@@ -1,32 +1,14 @@
 command_id: 714.77E.2222B8|fc=1
 test_cases:
 - expected_values:
-    AUDI_ODO_MILEAGE_HR: 1191.271
+    Q8_ODO_MILEAGE_HR: 1191.271
   response: 77E076222B800122D67
 - expected_values:
-    AUDI_ODO_MILEAGE_HR: 1191.855
-  response: 77E076222B800122FAF
+    Q8_ODO_MILEAGE_HR: 1213.737
+  response: 77E076222B800128529
 - expected_values:
-    AUDI_ODO_MILEAGE_HR: 1191.866
-  response: 77E076222B800122FBA
+    Q8_ODO_MILEAGE_HR: 1239.29
+  response: 77E076222B80012E8FA
 - expected_values:
-    AUDI_ODO_MILEAGE_HR: 1194.195
-  response: 77E076222B8001238D3
-- expected_values:
-    AUDI_ODO_MILEAGE_HR: 1194.801
-  response: 77E076222B800123B31
-- expected_values:
-    AUDI_ODO_MILEAGE_HR: 1196.336
-  response: 77E076222B800124130
-- expected_values:
-    AUDI_ODO_MILEAGE_HR: 1202.566
-  response: 77E076222B800125986
-- expected_values:
-    AUDI_ODO_MILEAGE_HR: 1204.071
-  response: 77E076222B800125F67
-- expected_values:
-    AUDI_ODO_MILEAGE_HR: 1206.111
-  response: 77E076222B80012675F
-- expected_values:
-    AUDI_ODO_MILEAGE_HR: 1211.044
-  response: 77E076222B800127AA4
+    Q8_ODO_MILEAGE_HR: 1252.063
+  response: 77E076222B800131ADF

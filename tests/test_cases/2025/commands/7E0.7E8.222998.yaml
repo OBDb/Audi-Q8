@@ -1,23 +1,23 @@
 command_id: 7E0.7E8.222998
 test_cases:
 - expected_values:
-    AUDI_MANUAL_ENG_STARTS: 230
+    Q8_NUM_ENG_STARTS: 230
   response: 7E80562299800E6
 - expected_values:
-    AUDI_MANUAL_ENG_STARTS: 231
+    Q8_NUM_ENG_STARTS: 231
   response: 7E80562299800E7
 - expected_values:
-    AUDI_MANUAL_ENG_STARTS: 232
+    Q8_NUM_ENG_STARTS: 232
   response: 7E80562299800E8
 - expected_values:
-    AUDI_MANUAL_ENG_STARTS: 233
+    Q8_NUM_ENG_STARTS: 233
   response: 7E80562299800E9
 - expected_values:
-    AUDI_MANUAL_ENG_STARTS: 234
+    Q8_NUM_ENG_STARTS: 234
   response: 7E80562299800EA
 - expected_values:
-    AUDI_MANUAL_ENG_STARTS: 235
+    Q8_NUM_ENG_STARTS: 235
   response: 7E80562299800EB
 - expected_values:
-    AUDI_MANUAL_ENG_STARTS: 236
+    Q8_NUM_ENG_STARTS: 236
   response: 7E80562299800EC

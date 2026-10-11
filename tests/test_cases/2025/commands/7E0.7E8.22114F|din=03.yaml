@@ -1,38 +1,11 @@
 command_id: 7E0.7E8.22114F|din=03
 test_cases:
 - expected_values:
-    AUDI_MIS_1: 48
-    AUDI_PQ35_SOOT_MASS_CALC: 0.48
+    Q8_PQ35_SOOT_MASS_CALC: 0.48
   response: 7E80562114F0030
 - expected_values:
-    AUDI_MIS_1: 318
-    AUDI_PQ35_SOOT_MASS_CALC: 3.18
+    Q8_PQ35_SOOT_MASS_CALC: 3.18
   response: 7E80562114F013E
 - expected_values:
-    AUDI_MIS_1: 319
-    AUDI_PQ35_SOOT_MASS_CALC: 3.19
-  response: 7E80562114F013F
-- expected_values:
-    AUDI_MIS_1: 320
-    AUDI_PQ35_SOOT_MASS_CALC: 3.2
-  response: 7E80562114F0140
-- expected_values:
-    AUDI_MIS_1: 321
-    AUDI_PQ35_SOOT_MASS_CALC: 3.21
-  response: 7E80562114F0141
-- expected_values:
-    AUDI_MIS_1: 325
-    AUDI_PQ35_SOOT_MASS_CALC: 3.25
-  response: 7E80562114F0145
-- expected_values:
-    AUDI_MIS_1: 326
-    AUDI_PQ35_SOOT_MASS_CALC: 3.26
-  response: 7E80562114F0146
-- expected_values:
-    AUDI_MIS_1: 327
-    AUDI_PQ35_SOOT_MASS_CALC: 3.27
-  response: 7E80562114F0147
-- expected_values:
-    AUDI_MIS_1: 328
-    AUDI_PQ35_SOOT_MASS_CALC: 3.28
-  response: 7E80562114F0148
+    Q8_PQ35_SOOT_MASS_CALC: 3.34
+  response: 7E80562114F014E

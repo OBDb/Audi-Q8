@@ -1,26 +1,26 @@
 command_id: 7E1.220303
 test_cases:
 - expected_values:
-    AUDI_DRIVE_TIME_ECO: 92.8
+    Q8_DRIVE_TIME_ECO: 92.8
   response: 7E904620303E8
 - expected_values:
-    AUDI_DRIVE_TIME_ECO: 93.2
+    Q8_DRIVE_TIME_ECO: 93.2
   response: 7E904620303E9
 - expected_values:
-    AUDI_DRIVE_TIME_ECO: 93.6
+    Q8_DRIVE_TIME_ECO: 93.6
   response: 7E904620303EA
 - expected_values:
-    AUDI_DRIVE_TIME_ECO: 94
+    Q8_DRIVE_TIME_ECO: 94
   response: 7E904620303EB
 - expected_values:
-    AUDI_DRIVE_TIME_ECO: 94.4
+    Q8_DRIVE_TIME_ECO: 94.4
   response: 7E904620303EC
 - expected_values:
-    AUDI_DRIVE_TIME_ECO: 94.8
+    Q8_DRIVE_TIME_ECO: 94.8
   response: 7E904620303ED
 - expected_values:
-    AUDI_DRIVE_TIME_ECO: 95.2
+    Q8_DRIVE_TIME_ECO: 95.2
   response: 7E904620303EE
 - expected_values:
-    AUDI_DRIVE_TIME_ECO: 97.6
+    Q8_DRIVE_TIME_ECO: 97.6
   response: 7E904620303F4

@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.221059
 test_cases:
 - expected_values:
-    AUDI_ACCEL_PEDAL_TQ_LIM: 0
+    Q8_ACCEL_PEDAL_TQ_LIM: 0
   response: '7E8056210590000'
 - expected_values:
-    AUDI_ACCEL_PEDAL_TQ_LIM: 178.3
-  response: 7E80562105906F7
+    Q8_ACCEL_PEDAL_TQ_LIM: 51
+  response: 7E80562105901FE
 - expected_values:
-    AUDI_ACCEL_PEDAL_TQ_LIM: 371.3
-  response: 7E8056210590E81
+    Q8_ACCEL_PEDAL_TQ_LIM: 363.2
+  response: 7E8056210590E30

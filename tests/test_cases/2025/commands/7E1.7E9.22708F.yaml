@@ -1,5 +1,8 @@
 command_id: 7E1.7E9.22708F
 test_cases:
 - expected_values:
-    AUDI_ADPT_CNT_FAST_FILL_C: 15
+    Q8_ADPT_CNT_FAST_FILL_C: 15
   response: 7E90462708F0F
+- expected_values:
+    Q8_ADPT_CNT_FAST_FILL_C: 16
+  response: 7E90462708F10

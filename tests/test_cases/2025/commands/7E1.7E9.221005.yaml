@@ -1,20 +1,11 @@
 command_id: 7E1.7E9.221005
 test_cases:
 - expected_values:
-    AUDI_VSS_ESP: 0
+    Q8_VSS_ESP: 0
   response: '7E9056210050000'
 - expected_values:
-    AUDI_VSS_ESP: 7.44
+    Q8_VSS_ESP: 7.44
   response: 7E90562100502E8
 - expected_values:
-    AUDI_VSS_ESP: 17.92
-  response: '7E9056210050700'
-- expected_values:
-    AUDI_VSS_ESP: 27.7
-  response: 7E9056210050AD2
-- expected_values:
-    AUDI_VSS_ESP: 29.2
-  response: 7E9056210050B68
-- expected_values:
-    AUDI_VSS_ESP: 29.46
-  response: 7E9056210050B82
+    Q8_VSS_ESP: 107.9
+  response: 7E9056210052A26
