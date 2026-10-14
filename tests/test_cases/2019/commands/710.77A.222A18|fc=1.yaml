@@ -1,0 +1,5 @@
+command_id: 710.77A.222A18|fc=1
+test_cases:
+- expected_values:
+    Q8_ENTIRE_ENERGY: 10179.5
+  response: 77A06622A18018DA3
