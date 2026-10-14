@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221216
+test_cases:
+- expected_values:
+    Q8_REL_LOAD: 11.27479
+  response: 7E80562121601E1
+- expected_values:
+    Q8_REL_LOAD: 12.30616
+  response: 7E805621216020D
+- expected_values:
+    Q8_REL_LOAD: 29.95671
+  response: 7E80562121604FE
+- expected_values:
+    Q8_REL_LOAD: 101.26213
+  response: 7E80562121610E0

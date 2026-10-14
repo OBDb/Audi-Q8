@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221160|t=96
+test_cases:
+- expected_values:
+    Q8_ODO_HD: 152042.619
+  response: 7E807621160090FFC7B
+- expected_values:
+    Q8_ODO_HD: 152043.936
+  response: 7E807621160091001A0
+- expected_values:
+    Q8_ODO_HD: 152055.305
+  response: 7E80762116009102E09
+- expected_values:
+    Q8_ODO_HD: 152059.132
+  response: 7E80762116009103CFC

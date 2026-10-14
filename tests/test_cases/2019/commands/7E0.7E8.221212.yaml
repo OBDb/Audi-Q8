@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.221212
+test_cases:
+- expected_values:
+    Q8_KNOCK_SENS_CYL_2: 0.01372
+  response: '7E80762121200004652'
+- expected_values:
+    Q8_KNOCK_SENS_CYL_2: 0.01794
+  response: 7E80762121200005BFB
+- expected_values:
+    Q8_KNOCK_SENS_CYL_2: 0.04904
+  response: 7E8076212120000FB64
+- expected_values:
+    Q8_KNOCK_SENS_CYL_2: 0.0528
+  response: 7E80762121200010EAA
+- expected_values:
+    Q8_KNOCK_SENS_CYL_2: 0.05619
+  response: '7E80762121200012009'

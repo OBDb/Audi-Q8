@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.227097
+test_cases:
+- expected_values:
+    Q8_ADPT_CNT_FAST_FILL_E: 84
+  response: '7E90462709754'

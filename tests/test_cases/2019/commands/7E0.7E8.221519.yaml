@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221519
+test_cases:
+- expected_values:
+    Q8_FUEL_CONS_ACT_DRIVE: 1.05
+  response: '7E8056215190069'
+- expected_values:
+    Q8_FUEL_CONS_ACT_DRIVE: 2.52
+  response: 7E80562151900FC
+- expected_values:
+    Q8_FUEL_CONS_ACT_DRIVE: 2.6
+  response: '7E8056215190104'

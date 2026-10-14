@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.2214A1
+test_cases:
+- expected_values:
+    Q8_RATED_DRIVE_TQ: 69.5
+  response: 7E8076214A1000002B7
+- expected_values:
+    Q8_RATED_DRIVE_TQ: 538.5
+  response: 7E8076214A100001509
+- expected_values:
+    Q8_RATED_DRIVE_TQ: 562.5
+  response: 7E8076214A1000015F9
+- expected_values:
+    Q8_RATED_DRIVE_TQ: -131
+  response: 7E8076214A1FFFFFAE2
+- expected_values:
+    Q8_RATED_DRIVE_TQ: -75
+  response: 7E8076214A1FFFFFD12

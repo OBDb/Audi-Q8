@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.221484|fc=1
+test_cases:
+- expected_values:
+    Q8_MIS_PER_1000_RPM_1: 1472
+  response: 7E80562148405C0
+- expected_values:
+    Q8_MIS_PER_1000_RPM_1: 1496
+  response: 7E80562148405D8
+- expected_values:
+    Q8_MIS_PER_1000_RPM_1: 1504
+  response: 7E80562148405E0
+- expected_values:
+    Q8_MIS_PER_1000_RPM_1: 1512
+  response: 7E80562148405E8
+- expected_values:
+    Q8_MIS_PER_1000_RPM_1: 1520
+  response: 7E80562148405F0
+- expected_values:
+    Q8_MIS_PER_1000_RPM_1: 1536
+  response: '7E8056214840600'
+- expected_values:
+    Q8_MIS_PER_1000_RPM_1: 1552
+  response: '7E8056214840610'
+- expected_values:
+    Q8_MIS_PER_1000_RPM_1: 1576
+  response: '7E8056214840628'
+- expected_values:
+    Q8_MIS_PER_1000_RPM_1: 1584
+  response: '7E8056214840630'

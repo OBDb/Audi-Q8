@@ -1,0 +1,17 @@
+command_id: 710.77A.222AB8|fc=1
+test_cases:
+- expected_values:
+    Q8_HVBAT_E_CONTENT: 0
+  response: |-
+    77A100B622AB8021C00
+    77A210000000000AAAA
+- expected_values:
+    Q8_HVBAT_E_CONTENT: 0
+  response: |-
+    77A100B622AB8022600
+    77A210000000000AAAA
+- expected_values:
+    Q8_HVBAT_E_CONTENT: 0
+  response: |-
+    77A100B622AB8023000
+    77A210000000000AAAA

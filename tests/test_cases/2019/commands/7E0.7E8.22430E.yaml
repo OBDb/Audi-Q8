@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22430E
+test_cases:
+- expected_values:
+    Q8_NUM_INJECTIONS: 959
+  response: 7E80562430E03BF
+- expected_values:
+    Q8_NUM_INJECTIONS: 42232
+  response: 7E80562430EA4F8
+- expected_values:
+    Q8_NUM_INJECTIONS: 64259
+  response: 7E80562430EFB03

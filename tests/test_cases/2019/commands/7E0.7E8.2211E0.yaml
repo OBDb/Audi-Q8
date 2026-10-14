@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2211E0
+test_cases:
+- expected_values:
+    Q8_CMD_CRANK_TQ: 17.8
+  response: 7E8056211E000B2
+- expected_values:
+    Q8_CMD_CRANK_TQ: 103.4
+  response: 7E8056211E0040A
+- expected_values:
+    Q8_CMD_CRANK_TQ: 126.8
+  response: 7E8056211E004F4
+- expected_values:
+    Q8_CMD_CRANK_TQ: -35.7
+  response: 7E8056211E0FE9B

@@ -1,0 +1,5 @@
+command_id: 710.77A.222A10
+test_cases:
+- expected_values:
+    Q8_SSB_V_REST: 12.5
+  response: 77A04622A1023

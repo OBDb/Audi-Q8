@@ -1,0 +1,8 @@
+command_id: 7E1.220302
+test_cases:
+- expected_values:
+    Q8_DRIVE_TIME: 2349.75
+  response: 7E90562030224B7
+- expected_values:
+    Q8_DRIVE_TIME: 2350
+  response: 7E90562030224B8

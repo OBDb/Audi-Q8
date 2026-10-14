@@ -1,0 +1,17 @@
+command_id: 710.77A.222A25|fc=1
+test_cases:
+- expected_values:
+    Q8_BAT_INTERNAL_RES_RAW: 8
+  response: 77A04622A2528
+- expected_values:
+    Q8_BAT_INTERNAL_RES_RAW: 8.2
+  response: 77A04622A2529
+- expected_values:
+    Q8_BAT_INTERNAL_RES_RAW: 8.4
+  response: 77A04622A252A
+- expected_values:
+    Q8_BAT_INTERNAL_RES_RAW: 8.6
+  response: 77A04622A252B
+- expected_values:
+    Q8_BAT_INTERNAL_RES_RAW: 8.8
+  response: 77A04622A252C

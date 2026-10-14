@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.221067
+test_cases:
+- expected_values:
+    Q8_DYNAMIC_TQ_LIM: 134
+  response: '7E9056210670086'
+- expected_values:
+    Q8_DYNAMIC_TQ_LIM: 238
+  response: 7E90562106700EE
+- expected_values:
+    Q8_DYNAMIC_TQ_LIM: 270
+  response: 7E905621067010E

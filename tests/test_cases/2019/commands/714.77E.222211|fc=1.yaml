@@ -1,0 +1,20 @@
+command_id: 714.77E.222211|fc=1
+test_cases:
+- expected_values:
+    Q8_PQ35_CHG_AIR_P: 0
+  response: '77E0462221100'
+- expected_values:
+    Q8_PQ35_CHG_AIR_P: 0.78431
+  response: '77E0462221102'
+- expected_values:
+    Q8_PQ35_CHG_AIR_P: 1.17647
+  response: '77E0462221103'
+- expected_values:
+    Q8_PQ35_CHG_AIR_P: 1.56863
+  response: '77E0462221104'
+- expected_values:
+    Q8_PQ35_CHG_AIR_P: 6.27451
+  response: '77E0462221110'
+- expected_values:
+    Q8_PQ35_CHG_AIR_P: 38.82353
+  response: '77E0462221163'

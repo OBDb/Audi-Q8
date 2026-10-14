@@ -1,0 +1,14 @@
+command_id: 713.77D.222005|fc=1
+test_cases:
+- expected_values:
+    Q8_P_BRAKE_SERVO_UNIT: -862.3125
+  response: 77D05622005CA1B
+- expected_values:
+    Q8_P_BRAKE_SERVO_UNIT: -849.9375
+  response: 77D05622005CAE1
+- expected_values:
+    Q8_P_BRAKE_SERVO_UNIT: -846.8125
+  response: 77D05622005CB13
+- expected_values:
+    Q8_P_BRAKE_SERVO_UNIT: -797.0625
+  response: 77D05622005CE2F

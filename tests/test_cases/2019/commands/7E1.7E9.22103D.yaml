@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.22103D
+test_cases:
+- expected_values:
+    Q8_ODO_7E1_2: 152788
+  response: 7E90662103D0254D4
+- expected_values:
+    Q8_ODO_7E1_2: 152811
+  response: 7E90662103D0254EB

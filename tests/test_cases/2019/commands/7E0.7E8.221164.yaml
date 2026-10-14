@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221164
+test_cases:
+- expected_values:
+    Q8_HVBAT_SOC_DISP: 42.65
+  response: 7E80562116410A9
+- expected_values:
+    Q8_HVBAT_SOC_DISP: 53.75
+  response: 7E80562116414FF
+- expected_values:
+    Q8_HVBAT_SOC_DISP: 61.51
+  response: '7E8056211641807'
+- expected_values:
+    Q8_HVBAT_SOC_DISP: 64.85
+  response: '7E8056211641955'

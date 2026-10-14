@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22167F
+test_cases:
+- expected_values:
+    Q8_HEATER_CIRCULATION: 46.18
+  response: 7E80562167F120A

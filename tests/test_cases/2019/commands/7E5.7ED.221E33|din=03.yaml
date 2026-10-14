@@ -1,0 +1,17 @@
+command_id: 7E5.7ED.221E33|din=03
+test_cases:
+- expected_values:
+    Q8_BMS_CELL_V_MAX: 3.615
+    Q8_BMS_CELL_V_MAX_IDX: 0
+    Q8_HVBAT_CELL_V_MAX_NO: 12
+  response: 7ED07621E330E1F000C
+- expected_values:
+    Q8_BMS_CELL_V_MAX: 3.761
+    Q8_BMS_CELL_V_MAX_IDX: 0
+    Q8_HVBAT_CELL_V_MAX_NO: 12
+  response: 7ED07621E330EB1000C
+- expected_values:
+    Q8_BMS_CELL_V_MAX: 3.861
+    Q8_BMS_CELL_V_MAX_IDX: 0
+    Q8_HVBAT_CELL_V_MAX_NO: 8
+  response: 7ED07621E330F150008

@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.221211
+test_cases:
+- expected_values:
+    Q8_KNOCK_SENS_CYL_6: 0.01913
+  response: '7E80762121100006213'
+- expected_values:
+    Q8_KNOCK_SENS_CYL_6: 0.03296
+  response: 7E8076212110000A8F5
+- expected_values:
+    Q8_KNOCK_SENS_CYL_6: 0.04959
+  response: 7E8076212110000FE3A
+- expected_values:
+    Q8_KNOCK_SENS_CYL_6: 0.0509
+  response: 7E807621211000104F4
+- expected_values:
+    Q8_KNOCK_SENS_CYL_6: 0.0876
+  response: 7E8076212110001C110
+- expected_values:
+    Q8_KNOCK_SENS_CYL_6: 0.10697
+  response: '7E80762121100022457'

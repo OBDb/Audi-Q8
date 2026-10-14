@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221490
+test_cases:
+- expected_values:
+    Q8_BRAKE_BOOSTER_ACT: 807.44
+  response: 7E8056214904EDA
+- expected_values:
+    Q8_BRAKE_BOOSTER_ACT: 840.28
+  response: 7E805621490520F
+- expected_values:
+    Q8_BRAKE_BOOSTER_ACT: 848.88
+  response: 7E80562149052E6
+- expected_values:
+    Q8_BRAKE_BOOSTER_ACT: 881.36
+  response: '7E8056214905612'

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2213F4|fc=1
+test_cases:
+- expected_values:
+    Q8_KNOCK_RETARD_CYL_3: -5.25
+  response: 7E8056213F472C6
+- expected_values:
+    Q8_KNOCK_RETARD_CYL_3: -4.875
+  response: 7E8056213F4730E
+- expected_values:
+    Q8_KNOCK_RETARD_CYL_3: -3
+  response: 7E8056213F478E1
+- expected_values:
+    Q8_KNOCK_RETARD_CYL_3: -1.875
+  response: 7E8056213F47B49

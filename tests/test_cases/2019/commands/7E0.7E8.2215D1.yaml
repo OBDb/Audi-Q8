@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2215D1
+test_cases:
+- expected_values:
+    Q8_LATERAL_ACCEL_RAW: 0
+  response: 7E8056215D10000
+- expected_values:
+    Q8_LATERAL_ACCEL_RAW: -0.05
+  response: 7E8056215D1FFFB
+- expected_values:
+    Q8_LATERAL_ACCEL_RAW: -0.01
+  response: 7E8056215D1FFFF

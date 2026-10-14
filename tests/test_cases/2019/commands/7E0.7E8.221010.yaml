@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221010
+test_cases:
+- expected_values:
+    Q8_ENG_TQ: 0
+  response: '7E8056210100000'
+- expected_values:
+    Q8_ENG_TQ: 76.6
+  response: 7E80562101002FE
+- expected_values:
+    Q8_ENG_TQ: 312.6
+  response: 7E8056210100C36

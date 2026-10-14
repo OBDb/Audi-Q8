@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2215B7
+test_cases:
+- expected_values:
+    Q8_OIL_SUMP_T: 76
+  response: 7E8056215B70DA3
+- expected_values:
+    Q8_OIL_SUMP_T: 85.1
+  response: 7E8056215B70DFE
+- expected_values:
+    Q8_OIL_SUMP_T: 86.8
+  response: 7E8056215B70E0F

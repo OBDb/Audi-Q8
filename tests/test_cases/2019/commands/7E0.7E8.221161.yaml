@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221161
+test_cases:
+- expected_values:
+    Q8_IDLE_TGT_RPM: 610
+  response: 7E80562116104C4

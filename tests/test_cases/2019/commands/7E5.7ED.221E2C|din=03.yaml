@@ -1,0 +1,42 @@
+command_id: 7E5.7ED.221E2C|din=03
+test_cases:
+- expected_values:
+    Q8_BMS_CELL_SOC_MAX: 48
+    Q8_BMS_CELL_SOC_MAX_IDX: 0
+  response: 7ED06621E2C30000C
+- expected_values:
+    Q8_BMS_CELL_SOC_MAX: 49
+    Q8_BMS_CELL_SOC_MAX_IDX: 0
+  response: 7ED06621E2C31000C
+- expected_values:
+    Q8_BMS_CELL_SOC_MAX: 50
+    Q8_BMS_CELL_SOC_MAX_IDX: 0
+  response: 7ED06621E2C32000C
+- expected_values:
+    Q8_BMS_CELL_SOC_MAX: 52
+    Q8_BMS_CELL_SOC_MAX_IDX: 0
+  response: 7ED06621E2C34000C
+- expected_values:
+    Q8_BMS_CELL_SOC_MAX: 54
+    Q8_BMS_CELL_SOC_MAX_IDX: 0
+  response: 7ED06621E2C36000C
+- expected_values:
+    Q8_BMS_CELL_SOC_MAX: 55
+    Q8_BMS_CELL_SOC_MAX_IDX: 0
+  response: 7ED06621E2C37000C
+- expected_values:
+    Q8_BMS_CELL_SOC_MAX: 57
+    Q8_BMS_CELL_SOC_MAX_IDX: 0
+  response: 7ED06621E2C39000C
+- expected_values:
+    Q8_BMS_CELL_SOC_MAX: 58
+    Q8_BMS_CELL_SOC_MAX_IDX: 0
+  response: 7ED06621E2C3A000C
+- expected_values:
+    Q8_BMS_CELL_SOC_MAX: 59
+    Q8_BMS_CELL_SOC_MAX_IDX: 0
+  response: 7ED06621E2C3B000C
+- expected_values:
+    Q8_BMS_CELL_SOC_MAX: 60
+    Q8_BMS_CELL_SOC_MAX_IDX: 0
+  response: 7ED06621E2C3C000C

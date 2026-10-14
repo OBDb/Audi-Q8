@@ -1,0 +1,7 @@
+command_id: 7E1.7E9.221125
+test_cases:
+- expected_values:
+    Q8_CLU_2_HI_ADPT_POINT: 6.988
+  response: |-
+    7E9100D6211251B4C07
+    7E92180026511DE0D61

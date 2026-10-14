@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.220804
+test_cases:
+- expected_values:
+    Q8_GPF_OIL_ASH_LOAD: 58.82353
+  response: '7E80462080496'

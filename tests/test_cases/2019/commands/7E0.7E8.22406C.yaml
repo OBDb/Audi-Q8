@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22406C
+test_cases:
+- expected_values:
+    Q8_GPF_OIL_ASH_MASS: 59.14
+  response: 7E80562406C171A
+- expected_values:
+    Q8_GPF_OIL_ASH_MASS: 59.15
+  response: 7E80562406C171B

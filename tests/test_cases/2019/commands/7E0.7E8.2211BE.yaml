@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2211BE
+test_cases:
+- expected_values:
+    Q8_EOT_V2: 65519
+  response: 7E8056211BEFFEF
+- expected_values:
+    Q8_EOT_V2: 65520
+  response: 7E8056211BEFFF0
+- expected_values:
+    Q8_EOT_V2: 65521
+  response: 7E8056211BEFFF1

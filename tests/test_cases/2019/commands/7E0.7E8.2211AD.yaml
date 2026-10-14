@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2211AD
+test_cases:
+- expected_values:
+    Q8_MAF_CMD: 17.1
+  response: 7E8056211AD00AB
+- expected_values:
+    Q8_MAF_CMD: 26.2
+  response: 7E8056211AD0106
+- expected_values:
+    Q8_MAF_CMD: 152.4
+  response: 7E8056211AD05F4
+- expected_values:
+    Q8_MAF_CMD: 155.6
+  response: 7E8056211AD0614

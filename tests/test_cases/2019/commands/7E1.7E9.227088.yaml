@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.227088
+test_cases:
+- expected_values:
+    Q8_FILL_P_CLU_B: -100
+  response: 7E904627088F6

@@ -1,0 +1,14 @@
+command_id: 7E1.7E9.221033
+test_cases:
+- expected_values:
+    Q8_TIME_SINCE_SHIFT: 270
+  response: '7E90462103309'
+- expected_values:
+    Q8_TIME_SINCE_SHIFT: 2370
+  response: 7E9046210334F
+- expected_values:
+    Q8_TIME_SINCE_SHIFT: 2580
+  response: '7E90462103356'
+- expected_values:
+    Q8_TIME_SINCE_SHIFT: 7650
+  response: 7E904621033FF

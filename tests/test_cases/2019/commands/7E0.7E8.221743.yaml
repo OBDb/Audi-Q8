@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221743
+test_cases:
+- expected_values:
+    Q8_INTEGRATED_MASS_AIR_SINCE: 11490.63252
+  response: 7E8056217437E3D
+- expected_values:
+    Q8_INTEGRATED_MASS_AIR_SINCE: 14662.93884
+  response: 7E805621743A117
+- expected_values:
+    Q8_INTEGRATED_MASS_AIR_SINCE: 23245.44612
+  response: 7E805621743FF61
+- expected_values:
+    Q8_INTEGRATED_MASS_AIR_SINCE: 23301
+  response: 7E805621743FFFF

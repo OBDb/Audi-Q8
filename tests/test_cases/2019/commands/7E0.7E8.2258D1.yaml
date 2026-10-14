@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2258D1
+test_cases:
+- expected_values:
+    Q8_ENG_OIL_LEVEL: 1.06
+  response: |-
+    7E810116258D1000254
+    7E8211400025413006A
+    7E82200030007000000
