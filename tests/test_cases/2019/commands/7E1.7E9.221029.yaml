@@ -1,14 +1,11 @@
 command_id: 7E1.7E9.221029
 test_cases:
 - expected_values:
-    Q8_CURRENT_N371_P_CTRL_6: 50
-  response: 7E90562102901F4
+    Q8_CURRENT_N371_P_CTRL_6: 0
+  response: '7E9056210290000'
 - expected_values:
     Q8_CURRENT_N371_P_CTRL_6: 383.2
   response: 7E9056210290EF8
-- expected_values:
-    Q8_CURRENT_N371_P_CTRL_6: 386.4
-  response: 7E9056210290F18
 - expected_values:
     Q8_CURRENT_N371_P_CTRL_6: 494.4
   response: '7E9056210291350'

@@ -1,32 +1,11 @@
 command_id: 7E0.7E8.221077
 test_cases:
 - expected_values:
-    Q8_AUX_PWR: 512
-  response: '7E8056210770080'
+    Q8_AUX_PWR: 0
+  response: '7E8056210770000'
 - expected_values:
-    Q8_AUX_PWR: 544
-  response: '7E8056210770088'
+    Q8_AUX_PWR: 992
+  response: 7E80562107700F8
 - expected_values:
-    Q8_AUX_PWR: 608
-  response: '7E8056210770098'
-- expected_values:
-    Q8_AUX_PWR: 640
-  response: 7E80562107700A0
-- expected_values:
-    Q8_AUX_PWR: 672
-  response: 7E80562107700A8
-- expected_values:
-    Q8_AUX_PWR: 704
-  response: 7E80562107700B0
-- expected_values:
-    Q8_AUX_PWR: 768
-  response: 7E80562107700C0
-- expected_values:
-    Q8_AUX_PWR: 800
-  response: 7E80562107700C8
-- expected_values:
-    Q8_AUX_PWR: 928
-  response: 7E80562107700E8
-- expected_values:
-    Q8_AUX_PWR: 960
-  response: 7E80562107700F0
+    Q8_AUX_PWR: 1280
+  response: '7E8056210770140'

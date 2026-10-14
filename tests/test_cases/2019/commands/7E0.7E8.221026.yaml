@@ -4,8 +4,8 @@ test_cases:
     Q8_MQB_MAF_1_B1_RAW: 0
   response: '7E8056210260000'
 - expected_values:
-    Q8_MQB_MAF_1_B1_RAW: 127.7
-  response: 7E80562102604FD
+    Q8_MQB_MAF_1_B1_RAW: 153.4
+  response: 7E80562102605FE
 - expected_values:
-    Q8_MQB_MAF_1_B1_RAW: 230.6
-  response: '7E8056210260902'
+    Q8_MQB_MAF_1_B1_RAW: 296.8
+  response: 7E8056210260B98

@@ -1,14 +1,11 @@
 command_id: 7E1.7E9.22102A
 test_cases:
 - expected_values:
-    Q8_CURRENT_N443_P_CTRL_7_P: 437.9
-  response: 7E90562102A111B
+    Q8_CURRENT_N443_P_CTRL_7_P: 0
+  response: 7E90562102A0000
 - expected_values:
-    Q8_CURRENT_N443_P_CTRL_7_P: 693.2
-  response: 7E90562102A1B14
+    Q8_CURRENT_N443_P_CTRL_7_P: 715.6
+  response: 7E90562102A1BF4
 - expected_values:
-    Q8_CURRENT_N443_P_CTRL_7_P: 713.4
-  response: 7E90562102A1BDE
-- expected_values:
-    Q8_CURRENT_N443_P_CTRL_7_P: 720.3
-  response: 7E90562102A1C23
+    Q8_CURRENT_N443_P_CTRL_7_P: 716.8
+  response: 7E90562102A1C00

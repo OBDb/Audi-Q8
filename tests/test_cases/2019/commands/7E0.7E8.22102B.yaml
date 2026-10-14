@@ -4,11 +4,11 @@ test_cases:
     Q8_ACCEL_PEDAL_SENS_2_V: 374.6
   response: 7E80562102B0751
 - expected_values:
-    Q8_ACCEL_PEDAL_SENS_2_V: 618.8
-  response: 7E80562102B0C16
+    Q8_ACCEL_PEDAL_SENS_2_V: 462.6
+  response: 7E80562102B0909
 - expected_values:
-    Q8_ACCEL_PEDAL_SENS_2_V: 766.6
-  response: 7E80562102B0EF9
+    Q8_ACCEL_PEDAL_SENS_2_V: 1072.8
+  response: 7E80562102B14F4
 - expected_values:
-    Q8_ACCEL_PEDAL_SENS_2_V: 783.6
-  response: 7E80562102B0F4E
+    Q8_ACCEL_PEDAL_SENS_2_V: 1074.2
+  response: 7E80562102B14FB

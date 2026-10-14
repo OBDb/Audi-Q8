@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     Q8_ID_CURRENT_DRIVING: 6
   response: '7E90462101206'
+- expected_values:
+    Q8_ID_CURRENT_DRIVING: 11
+  response: 7E9046210120B

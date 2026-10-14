@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221063
 test_cases:
 - expected_values:
-    Q8_ENG_OUTLET_ECT_CALC: 99
-  response: 7E8056210630E89
+    Q8_ENG_OUTLET_ECT_CALC: 84.7
+  response: 7E8056210630DFA
 - expected_values:
-    Q8_ENG_OUTLET_ECT_CALC: 104.4
-  response: 7E8056210630EBF
+    Q8_ENG_OUTLET_ECT_CALC: 87.1
+  response: 7E8056210630E12

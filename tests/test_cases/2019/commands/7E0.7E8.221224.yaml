@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     Q8_TQ_LOSS_ADPT_GEAR: 9.6
   response: '7E8056212240060'
+- expected_values:
+    Q8_TQ_LOSS_ADPT_GEAR: 9.8
+  response: '7E8056212240062'

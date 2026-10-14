@@ -7,11 +7,14 @@ test_cases:
     Q8_TQ_INCREASE_REQ_ESP: -88473.6
   response: 7E807621340FFF28000
 - expected_values:
-    Q8_TQ_INCREASE_REQ_ESP: -24641.5
-  response: 7E807621340FFFC3D71
+    Q8_TQ_INCREASE_REQ_ESP: -82051
+  response: 7E807621340FFF37AE2
+- expected_values:
+    Q8_TQ_INCREASE_REQ_ESP: -26083.3
+  response: 7E807621340FFFC051F
+- expected_values:
+    Q8_TQ_INCREASE_REQ_ESP: -19726.3
+  response: 7E807621340FFFCFD71
 - expected_values:
     Q8_TQ_INCREASE_REQ_ESP: -11468.8
   response: 7E807621340FFFE4000
-- expected_values:
-    Q8_TQ_INCREASE_REQ_ESP: -7340
-  response: 7E807621340FFFEE148

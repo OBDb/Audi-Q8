@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2210EA
 test_cases:
 - expected_values:
-    Q8_OPEN_CAM_SHFT_ANG: 0.3
-  response: 7E8056210EA0003
+    Q8_OPEN_CAM_SHFT_ANG: 0.1
+  response: 7E8056210EA0001
 - expected_values:
     Q8_OPEN_CAM_SHFT_ANG: -22.4
   response: 7E8056210EAFF20
 - expected_values:
-    Q8_OPEN_CAM_SHFT_ANG: -3.1
-  response: 7E8056210EAFFE1
+    Q8_OPEN_CAM_SHFT_ANG: -0.3
+  response: 7E8056210EAFFFD

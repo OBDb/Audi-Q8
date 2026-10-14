@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     Q8_ODO_V3: 152811
   response: 7E8076210E0000254EB
+- expected_values:
+    Q8_ODO_V3: 153107
+  response: 7E8076210E000025613

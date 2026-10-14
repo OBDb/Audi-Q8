@@ -4,8 +4,11 @@ test_cases:
     Q8_AAT_V2: 0.04688
   response: '7E8056210040006'
 - expected_values:
-    Q8_AAT_V2: -1.72656
-  response: 7E805621004FF23
+    Q8_AAT_V2: 6
+  response: '7E8056210040300'
 - expected_values:
-    Q8_AAT_V2: -0.08594
-  response: 7E805621004FFF5
+    Q8_AAT_V2: -1.94531
+  response: 7E805621004FF07
+- expected_values:
+    Q8_AAT_V2: -0.05469
+  response: 7E805621004FFF9

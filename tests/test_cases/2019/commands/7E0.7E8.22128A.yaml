@@ -4,5 +4,5 @@ test_cases:
     Q8_FUEL_T: 63.75
   response: 7E80462128A95
 - expected_values:
-    Q8_FUEL_T: 84.75
-  response: 7E80462128AB1
+    Q8_FUEL_T: 90
+  response: 7E80462128AB8

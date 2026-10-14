@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.222AE9
 test_cases:
 - expected_values:
-    Q8_EGT_AFTER_CAT_MODEL_1: 437.95892
-  response: 7E805622AE97684
+    Q8_EGT_AFTER_CAT_MODEL_1: 246.75172
+  response: 7E805622AE956A6
 - expected_values:
-    Q8_EGT_AFTER_CAT_MODEL_1: 542.65647
-  response: 7E805622AE987F7
+    Q8_EGT_AFTER_CAT_MODEL_1: 464.74855
+  response: 7E805622AE97AFB
 - expected_values:
     Q8_EGT_AFTER_CAT_MODEL_1: 627.0567
   response: 7E805622AE99608

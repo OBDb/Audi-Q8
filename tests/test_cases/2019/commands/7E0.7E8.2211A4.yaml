@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.2211A4
 test_cases:
 - expected_values:
-    Q8_FUEL_PMP_CMD_DUTY: 27.69462
-  response: 7E8056211A446E6
+    Q8_FUEL_PMP_CMD_DUTY: 10.00058
+  response: 7E8056211A4199A
 - expected_values:
-    Q8_FUEL_PMP_CMD_DUTY: 29.69809
-  response: 7E8056211A44C07
+    Q8_FUEL_PMP_CMD_DUTY: 30.85776
+  response: 7E8056211A44EFF
 - expected_values:
-    Q8_FUEL_PMP_CMD_DUTY: 32.02505
-  response: 7E8056211A451FC
+    Q8_FUEL_PMP_CMD_DUTY: 32.03268
+  response: 7E8056211A45201
 - expected_values:
     Q8_FUEL_PMP_CMD_DUTY: 34.75636
   response: 7E8056211A458FA

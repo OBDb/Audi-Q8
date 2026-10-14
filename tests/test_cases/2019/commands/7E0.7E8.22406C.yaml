@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     Q8_GPF_OIL_ASH_MASS: 59.15
   response: 7E80562406C171B
+- expected_values:
+    Q8_GPF_OIL_ASH_MASS: 59.26
+  response: 7E80562406C1726

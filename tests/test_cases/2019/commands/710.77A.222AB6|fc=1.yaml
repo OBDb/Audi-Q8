@@ -1,6 +1,16 @@
 command_id: 710.77A.222AB6|fc=1
 test_cases:
 - expected_values:
+    Q8_RANGE_V2: 120
+  response: |-
+    77A100A622AB6007800
+    77A217807FD01AAAAAA
+- expected_values:
+    Q8_RANGE_V2: 295
+  response: |-
+    77A100A622AB6012701
+    77A212707FD01AAAAAA
+- expected_values:
     Q8_RANGE_V2: 365
   response: |-
     77A100A622AB6016D01
@@ -10,3 +20,13 @@ test_cases:
   response: |-
     77A100A622AB6017201
     77A217207FD01AAAAAA
+- expected_values:
+    Q8_RANGE_V2: 375
+  response: |-
+    77A100A622AB6017701
+    77A217707FD01AAAAAA
+- expected_values:
+    Q8_RANGE_V2: 510
+  response: |-
+    77A100A622AB601FE01
+    77A21FE07FD01AAAAAA

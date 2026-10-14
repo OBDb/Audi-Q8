@@ -1,5 +1,20 @@
 command_id: 7E0.7E8.2251D8
 test_cases:
 - expected_values:
+    Q8_TANK_FILL_LEVEL: 33
+  response: 7E8056251D82100
+- expected_values:
+    Q8_TANK_FILL_LEVEL: 39
+  response: 7E8056251D82700
+- expected_values:
+    Q8_TANK_FILL_LEVEL: 54
+  response: 7E8056251D83600
+- expected_values:
     Q8_TANK_FILL_LEVEL: 63
   response: 7E8056251D83F00
+- expected_values:
+    Q8_TANK_FILL_LEVEL: 71
+  response: 7E8056251D84700
+- expected_values:
+    Q8_TANK_FILL_LEVEL: 85
+  response: 7E8056251D85500

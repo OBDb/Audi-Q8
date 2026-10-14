@@ -9,3 +9,12 @@ test_cases:
 - expected_values:
     Q8_HVBAT_T: 31
   response: 7ED04622A0B83
+- expected_values:
+    Q8_HVBAT_T: 32
+  response: 7ED04622A0B84
+- expected_values:
+    Q8_HVBAT_T: 33
+  response: 7ED04622A0B85
+- expected_values:
+    Q8_HVBAT_T: 34
+  response: 7ED04622A0B86

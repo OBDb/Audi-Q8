@@ -4,11 +4,8 @@ test_cases:
     Q8_KNOCK_RETARD_CYL_3: -5.25
   response: 7E8056213F472C6
 - expected_values:
-    Q8_KNOCK_RETARD_CYL_3: -4.875
-  response: 7E8056213F4730E
+    Q8_KNOCK_RETARD_CYL_3: 0
+  response: 7E8056213F480FD
 - expected_values:
-    Q8_KNOCK_RETARD_CYL_3: -3
-  response: 7E8056213F478E1
-- expected_values:
-    Q8_KNOCK_RETARD_CYL_3: -1.875
-  response: 7E8056213F47B49
+    Q8_KNOCK_RETARD_CYL_3: 0.375
+  response: 7E8056213F48105

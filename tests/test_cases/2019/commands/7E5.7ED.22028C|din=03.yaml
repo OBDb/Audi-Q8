@@ -4,5 +4,5 @@ test_cases:
     Q8_BMS_SOC: 45
   response: 7ED0462028C2D
 - expected_values:
-    Q8_BMS_SOC: 59
-  response: 7ED0462028C3B
+    Q8_BMS_SOC: 73
+  response: 7ED0462028C49

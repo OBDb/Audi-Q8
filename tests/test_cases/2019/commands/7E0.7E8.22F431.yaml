@@ -4,5 +4,8 @@ test_cases:
     Q8_CLR_DIST: 25480
   response: 7E80562F4316388
 - expected_values:
-    Q8_CLR_DIST: 25505
-  response: 7E80562F43163A1
+    Q8_CLR_DIST: 25799
+  response: 7E80562F43164C7
+- expected_values:
+    Q8_CLR_DIST: 25815
+  response: 7E80562F43164D7

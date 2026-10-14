@@ -1,8 +1,14 @@
 command_id: 710.77A.222A07
 test_cases:
 - expected_values:
-    Q8_SSB_V: 12.994
-  response: 77A05622A072322
+    Q8_SSB_V: 11.408
+  response: 77A05622A071CF0
 - expected_values:
-    Q8_SSB_V: 13.044
-  response: 77A05622A072354
+    Q8_SSB_V: 13.471
+  response: 77A05622A0724FF
+- expected_values:
+    Q8_SSB_V: 14.241
+  response: 77A05622A072801
+- expected_values:
+    Q8_SSB_V: 14.815
+  response: 77A05622A072A3F

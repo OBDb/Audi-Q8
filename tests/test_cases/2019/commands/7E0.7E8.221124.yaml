@@ -1,14 +1,11 @@
 command_id: 7E0.7E8.221124
 test_cases:
 - expected_values:
-    Q8_CAM_SPD_7E0: 303.25
-  response: 7E80562112404BD
+    Q8_CAM_SPD_7E0: 0
+  response: '7E8056211240000'
 - expected_values:
-    Q8_CAM_SPD_7E0: 314.5
-  response: 7E80562112404EA
+    Q8_CAM_SPD_7E0: 1023
+  response: 7E8056211240FFC
 - expected_values:
-    Q8_CAM_SPD_7E0: 704.25
-  response: 7E8056211240B01
-- expected_values:
-    Q8_CAM_SPD_7E0: 1210.5
-  response: 7E80562112412EA
+    Q8_CAM_SPD_7E0: 1168.75
+  response: '7E8056211241243'

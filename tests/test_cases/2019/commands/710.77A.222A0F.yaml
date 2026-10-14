@@ -1,6 +1,21 @@
 command_id: 710.77A.222A0F
 test_cases:
 - expected_values:
+    Q8_SSB_AH: 7
+  response: 77A04622A0F07
+- expected_values:
+    Q8_SSB_AH: 8
+  response: 77A04622A0F08
+- expected_values:
+    Q8_SSB_AH: 9
+  response: 77A04622A0F09
+- expected_values:
+    Q8_SSB_AH: 10
+  response: 77A04622A0F0A
+- expected_values:
+    Q8_SSB_AH: 11
+  response: 77A04622A0F0B
+- expected_values:
     Q8_SSB_AH: 12
   response: 77A04622A0F0C
 - expected_values:

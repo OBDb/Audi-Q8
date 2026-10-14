@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.221632
 test_cases:
 - expected_values:
-    Q8_EOT_MEAS: 80.8
-  response: 7E8056216320DD3
+    Q8_EOT_MEAS: 77.2
+  response: 7E8056216320DAF
 - expected_values:
     Q8_EOT_MEAS: 85.1
   response: 7E8056216320DFE
 - expected_values:
-    Q8_EOT_MEAS: 86.3
-  response: 7E8056216320E0A
+    Q8_EOT_MEAS: 86
+  response: 7E8056216320E07

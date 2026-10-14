@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.221509
 test_cases:
 - expected_values:
-    Q8_BAROMETRIC_P: 94.164
-  response: 7E8056215095BF5
+    Q8_BAROMETRIC_P: 86.048
+  response: '7E8056215095408'
+- expected_values:
+    Q8_BAROMETRIC_P: 87.064
+  response: '7E8056215095506'
 - expected_values:
     Q8_BAROMETRIC_P: 94.204
   response: 7E8056215095BFF
-- expected_values:
-    Q8_BAROMETRIC_P: 94.244
-  response: 7E8056215095C09
 - expected_values:
     Q8_BAROMETRIC_P: 95.32
   response: 7E8056215095D16

@@ -4,5 +4,5 @@ test_cases:
     Q8_BMS_SOC_HIRES: 45.09804
   response: 7ED0462F45B73
 - expected_values:
-    Q8_BMS_SOC_HIRES: 58.82353
-  response: 7ED0462F45B96
+    Q8_BMS_SOC_HIRES: 72.94118
+  response: 7ED0462F45BBA

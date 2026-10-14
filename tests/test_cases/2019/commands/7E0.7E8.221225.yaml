@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     Q8_TQ_LOSS_ADPT_IDLE: -2.3
   response: 7E805621225FFE9
+- expected_values:
+    Q8_TQ_LOSS_ADPT_IDLE: -1.7
+  response: 7E805621225FFEF

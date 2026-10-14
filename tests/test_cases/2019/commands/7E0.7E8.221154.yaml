@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     Q8_EM_TORQ_2: 818.34375
   response: 7E805621154664B
+- expected_values:
+    Q8_EM_TORQ_2: 818.90625
+  response: 7E805621154665D

@@ -2,7 +2,7 @@ command_id: 7E0.7E8.221213
 test_cases:
 - expected_values:
     Q8_PQ35_ENVD_CAM_IN_1: 0
-  response: 7E807621213000056A2
+  response: 7E807621213000048AE
 - expected_values:
     Q8_PQ35_ENVD_CAM_IN_1: 0
   response: 7E8076212130000AFFE

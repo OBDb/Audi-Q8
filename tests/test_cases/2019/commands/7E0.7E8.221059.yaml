@@ -7,5 +7,5 @@ test_cases:
     Q8_ACCEL_PEDAL_TQ_LIM: 127.2
   response: 7E80562105904F8
 - expected_values:
-    Q8_ACCEL_PEDAL_TQ_LIM: 318.6
-  response: 7E8056210590C72
+    Q8_ACCEL_PEDAL_TQ_LIM: 347.6
+  response: 7E8056210590D94

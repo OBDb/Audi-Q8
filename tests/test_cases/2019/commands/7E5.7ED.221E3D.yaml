@@ -2,13 +2,13 @@ command_id: 7E5.7ED.221E3D
 test_cases:
 - expected_values:
     Q8_HVBAT_CURRENT: -200
-  response: 7ED06621E3D024568
+  response: 7ED06621E3D022524
 - expected_values:
     Q8_HVBAT_CURRENT: -200
-  response: 7ED06621E3D0245CC
+  response: 7ED06621E3D024504
 - expected_values:
     Q8_HVBAT_CURRENT: -200
-  response: 7ED06621E3D024A0E
+  response: 7ED06621E3D0245FE
 - expected_values:
     Q8_HVBAT_CURRENT: -200
   response: 7ED06621E3D027218

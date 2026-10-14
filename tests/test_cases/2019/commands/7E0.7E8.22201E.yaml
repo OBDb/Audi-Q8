@@ -4,8 +4,8 @@ test_cases:
     Q8_CAM_ADJ_INT_ACT: 0.1
   response: 7E80562201E0001
 - expected_values:
-    Q8_CAM_ADJ_INT_ACT: -13.3
-  response: 7E80562201EFF7B
+    Q8_CAM_ADJ_INT_ACT: 75.9
+  response: 7E80562201E02F7
 - expected_values:
-    Q8_CAM_ADJ_INT_ACT: -1.6
-  response: 7E80562201EFFF0
+    Q8_CAM_ADJ_INT_ACT: -22.1
+  response: 7E80562201EFF23

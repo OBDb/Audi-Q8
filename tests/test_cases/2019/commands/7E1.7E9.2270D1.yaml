@@ -2,21 +2,9 @@ command_id: 7E1.7E9.2270D1
 test_cases:
 - expected_values:
     Q8_SHIFT_PROCCESS: 1
-    Q8_SHIFT_PROCCESS_TGT: 2
-  response: 7E9056270D10201
+    Q8_SHIFT_PROCCESS_TGT: 1
+  response: 7E9056270D10101
 - expected_values:
-    Q8_SHIFT_PROCCESS: 3
-    Q8_SHIFT_PROCCESS_TGT: 4
-  response: 7E9056270D10403
-- expected_values:
-    Q8_SHIFT_PROCCESS: 6
-    Q8_SHIFT_PROCCESS_TGT: 5
-  response: 7E9056270D10506
-- expected_values:
-    Q8_SHIFT_PROCCESS: 6
-    Q8_SHIFT_PROCCESS_TGT: 6
-  response: 7E9056270D10606
-- expected_values:
-    Q8_SHIFT_PROCCESS: 8
-    Q8_SHIFT_PROCCESS_TGT: 8
-  response: 7E9056270D10808
+    Q8_SHIFT_PROCCESS: 13
+    Q8_SHIFT_PROCCESS_TGT: 13
+  response: 7E9056270D10D0D

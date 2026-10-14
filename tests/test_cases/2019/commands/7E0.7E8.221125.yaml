@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     Q8_CAM_ADPT_INT_BANK_1: -1.45022
   response: 7E805621125FFBE
+- expected_values:
+    Q8_CAM_ADPT_INT_BANK_1: -1.42824
+  response: 7E805621125FFBF

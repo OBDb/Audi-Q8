@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.2211D7
 test_cases:
 - expected_values:
-    Q8_HIGH_FUEL_P_CMD: 12.02
-  response: 7E8056211D75DE8
+    Q8_HIGH_FUEL_P_CMD: 9
+  response: 7E8056211D74650
 - expected_values:
-    Q8_HIGH_FUEL_P_CMD: 17.658
-  response: 7E8056211D789F4
+    Q8_HIGH_FUEL_P_CMD: 13.182
+  response: 7E8056211D766FC
 - expected_values:
-    Q8_HIGH_FUEL_P_CMD: 19.978
-  response: 7E8056211D79C14
+    Q8_HIGH_FUEL_P_CMD: 21.764
+  response: 7E8056211D7AA08
 - expected_values:
     Q8_HIGH_FUEL_P_CMD: 24.974
   response: 7E8056211D7C31C

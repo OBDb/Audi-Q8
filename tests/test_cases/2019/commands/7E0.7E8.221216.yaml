@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.221216
 test_cases:
 - expected_values:
-    Q8_REL_LOAD: 11.27479
-  response: 7E80562121601E1
+    Q8_REL_LOAD: 10.68878
+  response: 7E80562121601C8
 - expected_values:
-    Q8_REL_LOAD: 12.30616
-  response: 7E805621216020D
+    Q8_REL_LOAD: 12.00144
+  response: '7E8056212160200'
 - expected_values:
     Q8_REL_LOAD: 29.95671
   response: 7E80562121604FE
 - expected_values:
-    Q8_REL_LOAD: 101.26213
-  response: 7E80562121610E0
+    Q8_REL_LOAD: 103.11392
+  response: 7E805621216112F

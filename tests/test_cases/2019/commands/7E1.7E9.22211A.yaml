@@ -1,5 +1,14 @@
 command_id: 7E1.7E9.22211A
 test_cases:
 - expected_values:
+    Q8_MAX_PERMISSIBLE_ENG: 433
+  response: 7E90562211A01B1
+- expected_values:
+    Q8_MAX_PERMISSIBLE_ENG: 438
+  response: 7E90562211A01B6
+- expected_values:
+    Q8_MAX_PERMISSIBLE_ENG: 493
+  response: 7E90562211A01ED
+- expected_values:
     Q8_MAX_PERMISSIBLE_ENG: 550
   response: 7E90562211A0226

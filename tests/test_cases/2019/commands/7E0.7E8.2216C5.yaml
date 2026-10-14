@@ -1,14 +1,11 @@
 command_id: 7E0.7E8.2216C5
 test_cases:
 - expected_values:
-    Q8_THROTTLE_REGULATOR: 5.61719
-  response: 7E8056216C502CF
+    Q8_THROTTLE_REGULATOR: 2
+  response: 7E8056216C50100
 - expected_values:
-    Q8_THROTTLE_REGULATOR: 23.8125
-  response: 7E8056216C50BE8
+    Q8_THROTTLE_REGULATOR: 5.96094
+  response: 7E8056216C502FB
 - expected_values:
-    Q8_THROTTLE_REGULATOR: 32.15625
-  response: 7E8056216C51014
-- expected_values:
-    Q8_THROTTLE_REGULATOR: 59
-  response: 7E8056216C51D80
+    Q8_THROTTLE_REGULATOR: 58.39844
+  response: 7E8056216C51D33

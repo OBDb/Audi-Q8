@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.2211EF
 test_cases:
 - expected_values:
-    Q8_P_BEFORE_THROTTLE: 924.45279
-  response: 7E8056211EF5C72
+    Q8_P_BEFORE_THROTTLE: 837.73407
+  response: 7E8056211EF53C6
 - expected_values:
-    Q8_P_BEFORE_THROTTLE: 929.84341
-  response: 7E8056211EF5CFC
+    Q8_P_BEFORE_THROTTLE: 889.84342
+  response: 7E8056211EF58FC
 - expected_values:
     Q8_P_BEFORE_THROTTLE: 980.23402
   response: 7E8056211EF6206
 - expected_values:
-    Q8_P_BEFORE_THROTTLE: 1098.90585
-  response: 7E8056211EF6DE4
+    Q8_P_BEFORE_THROTTLE: 1251.95267
+  response: 7E8056211EF7D32

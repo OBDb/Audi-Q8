@@ -6,12 +6,17 @@ test_cases:
     Q8_HVBAT_CELL_V_MAX_NO: 12
   response: 7ED07621E330E1F000C
 - expected_values:
-    Q8_BMS_CELL_V_MAX: 3.761
-    Q8_BMS_CELL_V_MAX_IDX: 0
-    Q8_HVBAT_CELL_V_MAX_NO: 12
-  response: 7ED07621E330EB1000C
-- expected_values:
-    Q8_BMS_CELL_V_MAX: 3.861
+    Q8_BMS_CELL_V_MAX: 3.701
     Q8_BMS_CELL_V_MAX_IDX: 0
     Q8_HVBAT_CELL_V_MAX_NO: 8
-  response: 7ED07621E330F150008
+  response: 7ED07621E330E750008
+- expected_values:
+    Q8_BMS_CELL_V_MAX: 3.823
+    Q8_BMS_CELL_V_MAX_IDX: 0
+    Q8_HVBAT_CELL_V_MAX_NO: 12
+  response: 7ED07621E330EEF000C
+- expected_values:
+    Q8_BMS_CELL_V_MAX: 3.851
+    Q8_BMS_CELL_V_MAX_IDX: 0
+    Q8_HVBAT_CELL_V_MAX_NO: 12
+  response: 7ED07621E330F0B000C

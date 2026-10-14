@@ -1,11 +1,26 @@
 command_id: 7E1.7E9.221028
 test_cases:
 - expected_values:
+    Q8_CURRENT_N217_P_CTRL_3: 0
+  response: '7E9056210280000'
+- expected_values:
     Q8_CURRENT_N217_P_CTRL_3: 50
   response: 7E90562102801F4
 - expected_values:
+    Q8_CURRENT_N217_P_CTRL_3: 598
+  response: 7E905621028175C
+- expected_values:
     Q8_CURRENT_N217_P_CTRL_3: 609.2
   response: 7E90562102817CC
+- expected_values:
+    Q8_CURRENT_N217_P_CTRL_3: 641.2
+  response: 7E905621028190C
+- expected_values:
+    Q8_CURRENT_N217_P_CTRL_3: 642.3
+  response: '7E9056210281917'
+- expected_values:
+    Q8_CURRENT_N217_P_CTRL_3: 648.4
+  response: '7E9056210281954'
 - expected_values:
     Q8_CURRENT_N217_P_CTRL_3: 850
   response: '7E9056210282134'

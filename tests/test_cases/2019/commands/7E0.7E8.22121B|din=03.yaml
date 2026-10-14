@@ -1,11 +1,14 @@
 command_id: 7E0.7E8.22121B|din=03
 test_cases:
 - expected_values:
+    Q8_POST_INJ_2: 1.7336
+  response: 7E80562121B10EE
+- expected_values:
+    Q8_POST_INJ_2: 2.1492
+  response: 7E80562121B14FD
+- expected_values:
     Q8_POST_INJ_2: 2.1512
   response: 7E80562121B1502
-- expected_values:
-    Q8_POST_INJ_2: 2.3512
-  response: 7E80562121B16F6
 - expected_values:
     Q8_POST_INJ_2: 3.1152
   response: 7E80562121B1E6C

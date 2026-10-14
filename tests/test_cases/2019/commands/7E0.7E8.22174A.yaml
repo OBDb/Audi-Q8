@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     Q8_EXH_CAM_ADPT_BIAS: 2.85649
   response: 7E80562174A0082
+- expected_values:
+    Q8_EXH_CAM_ADPT_BIAS: 2.92241
+  response: 7E80562174A0085
