@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.221340
+test_cases:
+- expected_values:
+    Q8_TQ_INCREASE_REQ_ESP: -98762.7
+  response: 7E807621340FFF0EE15
+- expected_values:
+    Q8_TQ_INCREASE_REQ_ESP: -88473.6
+  response: 7E807621340FFF28000
+- expected_values:
+    Q8_TQ_INCREASE_REQ_ESP: -24641.5
+  response: 7E807621340FFFC3D71
+- expected_values:
+    Q8_TQ_INCREASE_REQ_ESP: -11468.8
+  response: 7E807621340FFFE4000
+- expected_values:
+    Q8_TQ_INCREASE_REQ_ESP: -7340
+  response: 7E807621340FFFEE148

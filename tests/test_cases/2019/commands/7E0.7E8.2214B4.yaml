@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2214B4
+test_cases:
+- expected_values:
+    Q8_FUEL_LEVEL_INPUT_V1: 58
+  response: 7E8056214B416A8
+- expected_values:
+    Q8_FUEL_LEVEL_INPUT_V1: 59
+  response: 7E8056214B4170C
+- expected_values:
+    Q8_FUEL_LEVEL_INPUT_V1: 60
+  response: 7E8056214B41770

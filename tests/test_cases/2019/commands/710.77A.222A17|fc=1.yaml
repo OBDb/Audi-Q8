@@ -1,0 +1,23 @@
+command_id: 710.77A.222A17|fc=1
+test_cases:
+- expected_values:
+    Q8_OVERALL_ENERGY: 5330.85
+  response: 77A06622A170013D5
+- expected_values:
+    Q8_OVERALL_ENERGY: 5331.9
+  response: 77A06622A170013D6
+- expected_values:
+    Q8_OVERALL_ENERGY: 5332.95
+  response: 77A06622A170013D7
+- expected_values:
+    Q8_OVERALL_ENERGY: 5334
+  response: 77A06622A170013D8
+- expected_values:
+    Q8_OVERALL_ENERGY: 5335.05
+  response: 77A06622A170013D9
+- expected_values:
+    Q8_OVERALL_ENERGY: 5336.1
+  response: 77A06622A170013DA
+- expected_values:
+    Q8_OVERALL_ENERGY: 5337.15
+  response: 77A06622A170013DB

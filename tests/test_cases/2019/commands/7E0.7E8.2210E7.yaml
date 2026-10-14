@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2210E7
+test_cases:
+- expected_values:
+    Q8_KNOCK_RETARD_4: 0
+  response: 7E8046210E700
+- expected_values:
+    Q8_KNOCK_RETARD_4: -1.5
+  response: 7E8046210E7FE
+- expected_values:
+    Q8_KNOCK_RETARD_4: -0.75
+  response: 7E8046210E7FF

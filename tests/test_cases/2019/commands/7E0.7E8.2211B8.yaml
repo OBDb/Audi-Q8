@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2211B8
+test_cases:
+- expected_values:
+    Q8_AIR_LEAKAGE: 5.5
+  response: 7E8056211B80037
+- expected_values:
+    Q8_AIR_LEAKAGE: 5.6
+  response: 7E8056211B80038

@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22201E
+test_cases:
+- expected_values:
+    Q8_CAM_ADJ_INT_ACT: 0.1
+  response: 7E80562201E0001
+- expected_values:
+    Q8_CAM_ADJ_INT_ACT: -13.3
+  response: 7E80562201EFF7B
+- expected_values:
+    Q8_CAM_ADJ_INT_ACT: -1.6
+  response: 7E80562201EFFF0

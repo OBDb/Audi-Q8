@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22F407
+test_cases:
+- expected_values:
+    Q8_LONG_TERM_FUEL_TRIM_1: -10.9375
+  response: 7E80462F40772
+- expected_values:
+    Q8_LONG_TERM_FUEL_TRIM_1: -10.15625
+  response: 7E80462F40773
+- expected_values:
+    Q8_LONG_TERM_FUEL_TRIM_1: -9.375
+  response: 7E80462F40774
+- expected_values:
+    Q8_LONG_TERM_FUEL_TRIM_1: -8.59375
+  response: 7E80462F40775
+- expected_values:
+    Q8_LONG_TERM_FUEL_TRIM_1: -7.03125
+  response: 7E80462F40777
+- expected_values:
+    Q8_LONG_TERM_FUEL_TRIM_1: -6.25
+  response: 7E80462F40778
+- expected_values:
+    Q8_LONG_TERM_FUEL_TRIM_1: -5.46875
+  response: 7E80462F40779
+- expected_values:
+    Q8_LONG_TERM_FUEL_TRIM_1: -4.6875
+  response: 7E80462F4077A
+- expected_values:
+    Q8_LONG_TERM_FUEL_TRIM_1: -3.90625
+  response: 7E80462F4077B
+- expected_values:
+    Q8_LONG_TERM_FUEL_TRIM_1: -3.125
+  response: 7E80462F4077C

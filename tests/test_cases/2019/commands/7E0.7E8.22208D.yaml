@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22208D
+test_cases:
+- expected_values:
+    Q8_DPF_DIST_SINCE_REGEN: 0
+  response: 7E80762208D00000000

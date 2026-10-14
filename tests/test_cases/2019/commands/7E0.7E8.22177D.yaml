@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22177D
+test_cases:
+- expected_values:
+    Q8_OIL_P_ACT_7E0: 201.8
+  response: 7E80562177D07E2
+- expected_values:
+    Q8_OIL_P_ACT_7E0: 315.7
+  response: 7E80562177D0C55

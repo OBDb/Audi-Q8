@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221154
+test_cases:
+- expected_values:
+    Q8_EM_TORQ_2: 818.34375
+  response: 7E805621154664B

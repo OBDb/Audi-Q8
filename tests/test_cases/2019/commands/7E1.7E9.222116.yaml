@@ -1,0 +1,32 @@
+command_id: 7E1.7E9.222116
+test_cases:
+- expected_values:
+    Q8_ACCEL: 0
+  response: '7E9056221160000'
+- expected_values:
+    Q8_ACCEL: 0.1
+  response: '7E9056221160001'
+- expected_values:
+    Q8_ACCEL: 0.6
+  response: '7E9056221160006'
+- expected_values:
+    Q8_ACCEL: 2.2
+  response: '7E9056221160016'
+- expected_values:
+    Q8_ACCEL: 2.3
+  response: '7E9056221160017'
+- expected_values:
+    Q8_ACCEL: -1.8
+  response: 7E905622116FFEE
+- expected_values:
+    Q8_ACCEL: -0.6
+  response: 7E905622116FFFA
+- expected_values:
+    Q8_ACCEL: -0.4
+  response: 7E905622116FFFC
+- expected_values:
+    Q8_ACCEL: -0.2
+  response: 7E905622116FFFE
+- expected_values:
+    Q8_ACCEL: -0.1
+  response: 7E905622116FFFF

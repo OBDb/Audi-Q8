@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.221064
+test_cases:
+- expected_values:
+    Q8_DES_TQ_FILTERED: 10
+  response: 7E905621064000A
+- expected_values:
+    Q8_DES_TQ_FILTERED: 252
+  response: 7E90562106400FC
+- expected_values:
+    Q8_DES_TQ_FILTERED: -98
+  response: 7E905621064FF9E

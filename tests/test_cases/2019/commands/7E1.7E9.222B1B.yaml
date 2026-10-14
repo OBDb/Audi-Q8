@@ -1,0 +1,14 @@
+command_id: 7E1.7E9.222B1B
+test_cases:
+- expected_values:
+    Q8_TIRE_FL_SPD_V2: 1.3
+  response: 7E905622B1B000D
+- expected_values:
+    Q8_TIRE_FL_SPD_V2: 26.6
+  response: 7E905622B1B010A
+- expected_values:
+    Q8_TIRE_FL_SPD_V2: 101.9
+  response: 7E905622B1B03FB
+- expected_values:
+    Q8_TIRE_FL_SPD_V2: 106.9
+  response: 7E905622B1B042D

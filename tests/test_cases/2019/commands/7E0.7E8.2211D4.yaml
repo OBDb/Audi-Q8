@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2211D4
+test_cases:
+- expected_values:
+    Q8_TURBOCHARGER_INLET_P: 271.01562
+  response: 7E8056211D40D8D
+- expected_values:
+    Q8_TURBOCHARGER_INLET_P: 880.85938
+  response: 7E8056211D42C0B
+- expected_values:
+    Q8_TURBOCHARGER_INLET_P: 919.375
+  response: 7E8056211D42DF8
+- expected_values:
+    Q8_TURBOCHARGER_INLET_P: 1162.1875
+  response: 7E8056211D43A1C

@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2210E0|t=96
+test_cases:
+- expected_values:
+    Q8_ODO_V3: 152788
+  response: 7E8076210E0000254D4
+- expected_values:
+    Q8_ODO_V3: 152811
+  response: 7E8076210E0000254EB

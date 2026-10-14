@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221065
+test_cases:
+- expected_values:
+    Q8_CYL_HEAD_T_ACT: 98.5
+  response: 7E8056210650E84
+- expected_values:
+    Q8_CYL_HEAD_T_ACT: 106
+  response: 7E8056210650ECF

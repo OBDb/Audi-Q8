@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2216F3
+test_cases:
+- expected_values:
+    Q8_RPM_7E0: 609
+  response: 7E8056216F304C2
+- expected_values:
+    Q8_RPM_7E0: 1531
+  response: 7E8056216F30BF6
+- expected_values:
+    Q8_RPM_7E0: 1793.5
+  response: 7E8056216F30E03
+- expected_values:
+    Q8_RPM_7E0: 2321.5
+  response: 7E8056216F31223

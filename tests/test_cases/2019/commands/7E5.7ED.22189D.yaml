@@ -1,0 +1,18 @@
+command_id: 7E5.7ED.22189D
+test_cases:
+- expected_values:
+    Q8_HVBAT_INLET_T: 26
+    Q8_HVBAT_OUTLET_T: 29
+  response: 7ED0562189D817E
+- expected_values:
+    Q8_HVBAT_INLET_T: 27
+    Q8_HVBAT_OUTLET_T: 29
+  response: 7ED0562189D817F
+- expected_values:
+    Q8_HVBAT_INLET_T: 26
+    Q8_HVBAT_OUTLET_T: 30
+  response: 7ED0562189D827E
+- expected_values:
+    Q8_HVBAT_INLET_T: 26
+    Q8_HVBAT_OUTLET_T: 31
+  response: 7ED0562189D837E

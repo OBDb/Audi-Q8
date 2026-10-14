@@ -1,0 +1,14 @@
+command_id: 714.77E.2222B8|fc=1
+test_cases:
+- expected_values:
+    Q8_ODO_MILEAGE_HR: 152789.138
+  response: 77E076222B8091B6092
+- expected_values:
+    Q8_ODO_MILEAGE_HR: 152791.829
+  response: 77E076222B8091B6B15
+- expected_values:
+    Q8_ODO_MILEAGE_HR: 152797.182
+  response: 77E076222B8091B7FFE
+- expected_values:
+    Q8_ODO_MILEAGE_HR: 152812.171
+  response: 77E076222B8091BBA8B

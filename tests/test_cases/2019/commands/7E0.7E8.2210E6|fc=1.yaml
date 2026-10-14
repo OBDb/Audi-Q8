@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2210E6|fc=1
+test_cases:
+- expected_values:
+    Q8_EOT: -60
+  response: 7E8046210E600
+- expected_values:
+    Q8_EOT: null
+  response: 7E8046210E6FE

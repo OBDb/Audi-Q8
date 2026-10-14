@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22113F
+test_cases:
+- expected_values:
+    Q8_FUEL_CONS: 0
+  response: 7E80562113F0000
+- expected_values:
+    Q8_FUEL_CONS: 2.48
+  response: 7E80562113F00F8
+- expected_values:
+    Q8_FUEL_CONS: 24.59
+  response: 7E80562113F099B

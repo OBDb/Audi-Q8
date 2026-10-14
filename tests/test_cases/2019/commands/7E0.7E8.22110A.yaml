@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22110A
+test_cases:
+- expected_values:
+    Q8_MASS_FLOW_THROUGH: 0
+  response: 7E80562110A0000
+- expected_values:
+    Q8_MASS_FLOW_THROUGH: 24.9
+  response: 7E80562110A00F9
+- expected_values:
+    Q8_MASS_FLOW_THROUGH: 6535.7
+  response: 7E80562110AFF4D

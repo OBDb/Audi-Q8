@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221633
+test_cases:
+- expected_values:
+    Q8_LONGITUDINAL_ACCEL: 0.008
+  response: '7E8056216330008'
+- expected_values:
+    Q8_LONGITUDINAL_ACCEL: 0.261
+  response: '7E8056216330105'
+- expected_values:
+    Q8_LONGITUDINAL_ACCEL: -0.251
+  response: 7E805621633FF05
+- expected_values:
+    Q8_LONGITUDINAL_ACCEL: -0.016
+  response: 7E805621633FFF0

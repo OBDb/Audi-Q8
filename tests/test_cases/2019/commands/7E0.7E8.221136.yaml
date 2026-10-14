@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221136
+test_cases:
+- expected_values:
+    Q8_HEIGHT_CORR: 0.90759
+  response: 7E8056211363A16
+- expected_values:
+    Q8_HEIGHT_CORR: 0.92169
+  response: 7E8056211363AFD
+- expected_values:
+    Q8_HEIGHT_CORR: 0.92217
+  response: 7E8056211363B05

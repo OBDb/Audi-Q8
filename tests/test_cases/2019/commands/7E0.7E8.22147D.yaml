@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.22147D
+test_cases:
+- expected_values:
+    Q8_MOTOR_I: 0
+  response: 7E80562147D0000
+- expected_values:
+    Q8_MOTOR_I: 8
+  response: 7E80562147D0100
+- expected_values:
+    Q8_MOTOR_I: 40
+  response: 7E80562147D0500
+- expected_values:
+    Q8_MOTOR_I: -50
+  response: 7E80562147DF9C0
+- expected_values:
+    Q8_MOTOR_I: -49
+  response: 7E80562147DF9E0
+- expected_values:
+    Q8_MOTOR_I: -20
+  response: 7E80562147DFD80
+- expected_values:
+    Q8_MOTOR_I: -19
+  response: 7E80562147DFDA0
+- expected_values:
+    Q8_MOTOR_I: -17
+  response: 7E80562147DFDE0
+- expected_values:
+    Q8_MOTOR_I: -14
+  response: 7E80562147DFE40

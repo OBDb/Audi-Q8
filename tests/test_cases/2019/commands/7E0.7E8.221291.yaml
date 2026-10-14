@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221291
+test_cases:
+- expected_values:
+    Q8_CLT_ENG_START: 31.7
+  response: 7E8056212910BE8

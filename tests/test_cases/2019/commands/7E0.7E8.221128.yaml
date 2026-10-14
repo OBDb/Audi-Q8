@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221128
+test_cases:
+- expected_values:
+    Q8_CAM_ADPT_EXH_BANK_1: -2.92241
+  response: 7E805621128FF7B

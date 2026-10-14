@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22149E
+test_cases:
+- expected_values:
+    Q8_IAT_7E0: 18.75
+  response: 7E80462149E59
+- expected_values:
+    Q8_IAT_7E0: 19.5
+  response: 7E80462149E5A
+- expected_values:
+    Q8_IAT_7E0: 20.25
+  response: 7E80462149E5B
+- expected_values:
+    Q8_IAT_7E0: 21
+  response: 7E80462149E5C
+- expected_values:
+    Q8_IAT_7E0: 21.75
+  response: 7E80462149E5D

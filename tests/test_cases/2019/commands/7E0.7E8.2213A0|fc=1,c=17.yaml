@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.2213A0|fc=1,c=17
+test_cases:
+- expected_values:
+    Q8_COOLANT_T_MODELED_VALUE: 58.1
+  response: 7E8056213A00CF0
+- expected_values:
+    Q8_COOLANT_T_MODELED_VALUE: 60.6
+  response: 7E8056213A00D09
+- expected_values:
+    Q8_COOLANT_T_MODELED_VALUE: 61.5
+  response: 7E8056213A00D12
+- expected_values:
+    Q8_COOLANT_T_MODELED_VALUE: 61.6
+  response: 7E8056213A00D13
+- expected_values:
+    Q8_COOLANT_T_MODELED_VALUE: 63.2
+  response: 7E8056213A00D23
+- expected_values:
+    Q8_COOLANT_T_MODELED_VALUE: 63.5
+  response: 7E8056213A00D26
+- expected_values:
+    Q8_COOLANT_T_MODELED_VALUE: 63.7
+  response: 7E8056213A00D28
+- expected_values:
+    Q8_COOLANT_T_MODELED_VALUE: 64.6
+  response: 7E8056213A00D31
+- expected_values:
+    Q8_COOLANT_T_MODELED_VALUE: 65
+  response: 7E8056213A00D35

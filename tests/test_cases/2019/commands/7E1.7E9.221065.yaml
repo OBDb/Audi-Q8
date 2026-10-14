@@ -1,0 +1,29 @@
+command_id: 7E1.7E9.221065
+test_cases:
+- expected_values:
+    Q8_FRICTION_TQ: 38
+  response: '7E9056210650026'
+- expected_values:
+    Q8_FRICTION_TQ: 44
+  response: 7E905621065002C
+- expected_values:
+    Q8_FRICTION_TQ: 46
+  response: 7E905621065002E
+- expected_values:
+    Q8_FRICTION_TQ: 48
+  response: '7E9056210650030'
+- expected_values:
+    Q8_FRICTION_TQ: 50
+  response: '7E9056210650032'
+- expected_values:
+    Q8_FRICTION_TQ: 52
+  response: '7E9056210650034'
+- expected_values:
+    Q8_FRICTION_TQ: 56
+  response: '7E9056210650038'
+- expected_values:
+    Q8_FRICTION_TQ: 58
+  response: 7E905621065003A
+- expected_values:
+    Q8_FRICTION_TQ: 60
+  response: 7E905621065003C

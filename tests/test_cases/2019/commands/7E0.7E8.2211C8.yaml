@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2211C8
+test_cases:
+- expected_values:
+    Q8_FUEL_LOW_P_ACT: 551.4
+  response: 7E8056211C8158A
+- expected_values:
+    Q8_FUEL_LOW_P_ACT: 566.5
+  response: 7E8056211C81621
+- expected_values:
+    Q8_FUEL_LOW_P_ACT: 587.3
+  response: 7E8056211C816F1
+- expected_values:
+    Q8_FUEL_LOW_P_ACT: 648.3
+  response: 7E8056211C81953

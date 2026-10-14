@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F431
+test_cases:
+- expected_values:
+    Q8_CLR_DIST: 25480
+  response: 7E80562F4316388
+- expected_values:
+    Q8_CLR_DIST: 25505
+  response: 7E80562F43163A1

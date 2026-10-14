@@ -1,0 +1,11 @@
+command_id: 7E5.7ED.222A0B
+test_cases:
+- expected_values:
+    Q8_HVBAT_T: 29
+  response: 7ED04622A0B81
+- expected_values:
+    Q8_HVBAT_T: 30
+  response: 7ED04622A0B82
+- expected_values:
+    Q8_HVBAT_T: 31
+  response: 7ED04622A0B83

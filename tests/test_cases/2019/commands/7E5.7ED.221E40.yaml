@@ -1,0 +1,11 @@
+command_id: 7E5.7ED.221E40
+test_cases:
+- expected_values:
+    Q8_HVBAT_CELL_1_V: 3.613
+  response: 7ED05621E400E1D
+- expected_values:
+    Q8_HVBAT_CELL_1_V: 3.748
+  response: 7ED05621E400EA4
+- expected_values:
+    Q8_HVBAT_CELL_1_V: 3.879
+  response: 7ED05621E400F27

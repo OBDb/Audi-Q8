@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.227091
+test_cases:
+- expected_values:
+    Q8_ADPT_CNT_CLU_D: 26
+  response: 7E9046270911A

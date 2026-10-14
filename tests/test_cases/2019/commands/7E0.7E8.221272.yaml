@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221272
+test_cases:
+- expected_values:
+    Q8_EGT_AFTER_CAT: 439.5
+  response: 7E8056212721BD6
+- expected_values:
+    Q8_EGT_AFTER_CAT: 520.4
+  response: 7E8056212721EFF
+- expected_values:
+    Q8_EGT_AFTER_CAT: 650.2
+  response: '7E8056212722411'
+- expected_values:
+    Q8_EGT_AFTER_CAT: 705.2
+  response: '7E8056212722637'
