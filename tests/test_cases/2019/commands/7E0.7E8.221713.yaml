@@ -18,3 +18,9 @@ test_cases:
 - expected_values:
     Q8_TOT_MASS_GASOLINE: 0.14933
   response: '7E8056217130007'
+- expected_values:
+    Q8_TOT_MASS_GASOLINE: 0.192
+  response: '7E8056217130009'
+- expected_values:
+    Q8_TOT_MASS_GASOLINE: 0.21333
+  response: 7E805621713000A

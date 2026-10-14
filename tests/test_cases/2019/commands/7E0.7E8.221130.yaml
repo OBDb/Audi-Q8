@@ -4,20 +4,8 @@ test_cases:
     Q8_COOLING_FAN_1: 10.15
   response: 7E80562113003F7
 - expected_values:
-    Q8_COOLING_FAN_1: 11.33
-  response: 7E805621130046D
-- expected_values:
-    Q8_COOLING_FAN_1: 14.45
-  response: 7E80562113005A5
-- expected_values:
-    Q8_COOLING_FAN_1: 15.62
-  response: 7E805621130061A
-- expected_values:
     Q8_COOLING_FAN_1: 20.7
   response: '7E8056211300816'
 - expected_values:
-    Q8_COOLING_FAN_1: 30.07
-  response: 7E8056211300BBF
-- expected_values:
-    Q8_COOLING_FAN_1: 32.02
-  response: 7E8056211300C82
+    Q8_COOLING_FAN_1: 34.37
+  response: 7E8056211300D6D

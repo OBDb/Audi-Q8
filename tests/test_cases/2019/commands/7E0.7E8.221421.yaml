@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.221421
 test_cases:
 - expected_values:
-    Q8_EGT_PRE_CAT_MODELED: 487.1
-  response: 7E8056214211DB2
+    Q8_EGT_PRE_CAT_MODELED: 314.8
+  response: 7E80562142116F7
 - expected_values:
-    Q8_EGT_PRE_CAT_MODELED: 571
-  response: 7E80562142120F9
+    Q8_EGT_PRE_CAT_MODELED: 469.5
+  response: 7E8056214211D02
 - expected_values:
-    Q8_EGT_PRE_CAT_MODELED: 573.1
-  response: 7E805621421210E
+    Q8_EGT_PRE_CAT_MODELED: 596.7
+  response: 7E80562142121FA
 - expected_values:
     Q8_EGT_PRE_CAT_MODELED: 761.7
   response: 7E805621421286C

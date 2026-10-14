@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221515
 test_cases:
 - expected_values:
-    Q8_CAT_T_CALC: 440
-  response: '7E80462151562'
+    Q8_CAT_T_CALC: 245
+  response: 7E8046215153B
 - expected_values:
     Q8_CAT_T_CALC: 710
   response: '7E80462151598'

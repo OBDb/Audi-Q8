@@ -15,3 +15,9 @@ test_cases:
 - expected_values:
     Q8_IGA_IGC_3: -28.8795
   response: 7E80462138D12
+- expected_values:
+    Q8_IGA_IGC_3: -28.50475
+  response: 7E80462138D13
+- expected_values:
+    Q8_IGA_IGC_3: -22.8835
+  response: 7E80462138D22

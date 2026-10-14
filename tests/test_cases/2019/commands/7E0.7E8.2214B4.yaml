@@ -1,6 +1,15 @@
 command_id: 7E0.7E8.2214B4
 test_cases:
 - expected_values:
+    Q8_FUEL_LEVEL_INPUT_V1: 24
+  response: 7E8056214B40960
+- expected_values:
+    Q8_FUEL_LEVEL_INPUT_V1: 44
+  response: 7E8056214B41130
+- expected_values:
+    Q8_FUEL_LEVEL_INPUT_V1: 57
+  response: 7E8056214B41644
+- expected_values:
     Q8_FUEL_LEVEL_INPUT_V1: 58
   response: 7E8056214B416A8
 - expected_values:
@@ -9,3 +18,9 @@ test_cases:
 - expected_values:
     Q8_FUEL_LEVEL_INPUT_V1: 60
   response: 7E8056214B41770
+- expected_values:
+    Q8_FUEL_LEVEL_INPUT_V1: 76
+  response: 7E8056214B41DB0
+- expected_values:
+    Q8_FUEL_LEVEL_INPUT_V1: 85
+  response: 7E8056214B42134

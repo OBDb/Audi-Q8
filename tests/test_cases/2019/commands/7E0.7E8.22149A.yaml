@@ -1,14 +1,11 @@
 command_id: 7E0.7E8.22149A
 test_cases:
 - expected_values:
-    Q8_MOTOR_RPM_ECM: 307.25
-  response: 7E80562149A04CD
+    Q8_MOTOR_RPM_ECM: 0
+  response: 7E80562149A0000
 - expected_values:
-    Q8_MOTOR_RPM_ECM: 832.5
-  response: 7E80562149A0D02
+    Q8_MOTOR_RPM_ECM: 382.5
+  response: 7E80562149A05FA
 - expected_values:
-    Q8_MOTOR_RPM_ECM: 958
-  response: 7E80562149A0EF8
-- expected_values:
-    Q8_MOTOR_RPM_ECM: 961.75
-  response: 7E80562149A0F07
+    Q8_MOTOR_RPM_ECM: 1033
+  response: 7E80562149A1024

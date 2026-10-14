@@ -7,5 +7,5 @@ test_cases:
     Q8_ENG_TQ: 76.6
   response: 7E80562101002FE
 - expected_values:
-    Q8_ENG_TQ: 312.6
-  response: 7E8056210100C36
+    Q8_ENG_TQ: 371.8
+  response: 7E8056210100E86

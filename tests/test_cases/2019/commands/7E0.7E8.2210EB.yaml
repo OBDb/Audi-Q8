@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2210EB
 test_cases:
 - expected_values:
-    Q8_CRANK_ROT_ANG: 39.2
-  response: 7E8056210EB0188
+    Q8_CRANK_ROT_ANG: 0
+  response: 7E8056210EB0000
 - expected_values:
-    Q8_CRANK_ROT_ANG: 75.9
-  response: 7E8056210EB02F7
+    Q8_CRANK_ROT_ANG: 50.9
+  response: 7E8056210EB01FD
 - expected_values:
-    Q8_CRANK_ROT_ANG: 77.2
-  response: 7E8056210EB0304
+    Q8_CRANK_ROT_ANG: 76.8
+  response: 7E8056210EB0300

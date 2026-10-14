@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F43C
 test_cases:
 - expected_values:
-    Q8_EXH_GAS_T: 493.5
-  response: 7E80562F43C14D7
+    Q8_EXH_GAS_T: 309.6
+  response: 7E80562F43C0DA8
 - expected_values:
     Q8_EXH_GAS_T: 651.4
   response: 7E80562F43C1B02

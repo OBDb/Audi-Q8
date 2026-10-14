@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2211DC
 test_cases:
 - expected_values:
-    Q8_MAP_RAW: 246.09375
-  response: 7E8056211DC0C4E
+    Q8_MAP_RAW: 229.6875
+  response: 7E8056211DC0B7C
 - expected_values:
     Q8_MAP_RAW: 520
   response: 7E8056211DC1A00

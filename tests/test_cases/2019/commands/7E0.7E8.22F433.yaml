@@ -1,6 +1,12 @@
 command_id: 7E0.7E8.22F433
 test_cases:
 - expected_values:
+    Q8_BARO: 84
+  response: 7E80462F43354
+- expected_values:
+    Q8_BARO: 85
+  response: 7E80462F43355
+- expected_values:
     Q8_BARO: 91
   response: 7E80462F4335B
 - expected_values:

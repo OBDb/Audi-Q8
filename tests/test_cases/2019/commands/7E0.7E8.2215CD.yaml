@@ -1,8 +1,11 @@
 command_id: 7E0.7E8.2215CD
 test_cases:
 - expected_values:
-    Q8_ECT_RADIATOR_OUTLET_V_1: 19.2
-  response: 7E8056215CD0B6B
+    Q8_ECT_RADIATOR_OUTLET_V_1: 17.8
+  response: 7E8056215CD0B5D
 - expected_values:
-    Q8_ECT_RADIATOR_OUTLET_V_1: 29.3
-  response: 7E8056215CD0BD0
+    Q8_ECT_RADIATOR_OUTLET_V_1: 31.4
+  response: 7E8056215CD0BE5
+- expected_values:
+    Q8_ECT_RADIATOR_OUTLET_V_1: 34.8
+  response: 7E8056215CD0C07

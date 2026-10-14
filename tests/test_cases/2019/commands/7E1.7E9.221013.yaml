@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     Q8_CURRENT_TYPE_DRIVER: 2
   response: '7E9056210130002'
+- expected_values:
+    Q8_CURRENT_TYPE_DRIVER: 57
+  response: '7E9056210130039'

@@ -4,8 +4,8 @@ test_cases:
     Q8_FUEL_CONS: 0
   response: 7E80562113F0000
 - expected_values:
-    Q8_FUEL_CONS: 2.48
-  response: 7E80562113F00F8
+    Q8_FUEL_CONS: 7.66
+  response: 7E80562113F02FE
 - expected_values:
     Q8_FUEL_CONS: 24.59
   response: 7E80562113F099B

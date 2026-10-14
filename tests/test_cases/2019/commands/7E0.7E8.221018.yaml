@@ -7,11 +7,5 @@ test_cases:
     Q8_CLT_FAN_REQ_AC: 9.20408
   response: 7E80562101802F2
 - expected_values:
-    Q8_CLT_FAN_REQ_AC: 15.19772
-  response: 7E80562101804DD
-- expected_values:
-    Q8_CLT_FAN_REQ_AC: 39.19668
-  response: 7E8056210180C8B
-- expected_values:
-    Q8_CLT_FAN_REQ_AC: 39.59951
-  response: 7E8056210180CAC
+    Q8_CLT_FAN_REQ_AC: 47.59509
+  response: 7E8056210180F3B

@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2211CF
 test_cases:
 - expected_values:
-    Q8_BRAKE_BOOSTER_P: 67.96788
-  response: 7E8056211CF06CC
+    Q8_BRAKE_BOOSTER_P: 62.96794
+  response: 7E8056211CF064C
 - expected_values:
     Q8_BRAKE_BOOSTER_P: 68.98349
   response: 7E8056211CF06E6
@@ -10,5 +10,5 @@ test_cases:
     Q8_BRAKE_BOOSTER_P: 69.9991
   response: 7E8056211CF0700
 - expected_values:
-    Q8_BRAKE_BOOSTER_P: 101.99088
-  response: 7E8056211CF0A33
+    Q8_BRAKE_BOOSTER_P: 207.96609
+  response: 7E8056211CF14CC

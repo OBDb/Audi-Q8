@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     Q8_PQ35_COMPRESSION_TEST_CYL_1: 70
   response: 7E805621129008C
+- expected_values:
+    Q8_PQ35_COMPRESSION_TEST_CYL_1: 72
+  response: '7E8056211290090'

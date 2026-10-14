@@ -4,5 +4,14 @@ test_cases:
     Q8_TQ_CONV: 1
   response: '7E90462213064'
 - expected_values:
+    Q8_TQ_CONV: 1.06
+  response: 7E9046221306A
+- expected_values:
+    Q8_TQ_CONV: 1.09
+  response: 7E9046221306D
+- expected_values:
     Q8_TQ_CONV: 1.49
   response: '7E90462213095'
+- expected_values:
+    Q8_TQ_CONV: 1.72
+  response: 7E904622130AC

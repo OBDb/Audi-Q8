@@ -4,8 +4,8 @@ test_cases:
     Q8_LATERAL_ACCEL_RAW: 0
   response: 7E8056215D10000
 - expected_values:
-    Q8_LATERAL_ACCEL_RAW: -0.05
-  response: 7E8056215D1FFFB
+    Q8_LATERAL_ACCEL_RAW: -0.26
+  response: 7E8056215D1FFE6
 - expected_values:
     Q8_LATERAL_ACCEL_RAW: -0.01
   response: 7E8056215D1FFFF

@@ -1,14 +1,11 @@
 command_id: 7E1.7E9.221061
 test_cases:
 - expected_values:
-    Q8_DES_TQ_RAW: 16
-  response: '7E9056210610010'
+    Q8_DES_TQ_RAW: 0
+  response: '7E9056210610000'
 - expected_values:
-    Q8_DES_TQ_RAW: 262
-  response: '7E9056210610106'
+    Q8_DES_TQ_RAW: -110
+  response: 7E905621061FF92
 - expected_values:
-    Q8_DES_TQ_RAW: -98
-  response: 7E905621061FF9E
-- expected_values:
-    Q8_DES_TQ_RAW: -4
-  response: 7E905621061FFFC
+    Q8_DES_TQ_RAW: -2
+  response: 7E905621061FFFE

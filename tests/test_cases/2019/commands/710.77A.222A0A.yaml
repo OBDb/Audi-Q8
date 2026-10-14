@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     Q8_SSB_SENSOR_T: 30
   response: 77A04622A0A46
+- expected_values:
+    Q8_SSB_SENSOR_T: 31
+  response: 77A04622A0A47
+- expected_values:
+    Q8_SSB_SENSOR_T: 32
+  response: 77A04622A0A48

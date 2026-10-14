@@ -1,8 +1,11 @@
 command_id: 7E0.7E8.2215C0
 test_cases:
 - expected_values:
-    Q8_IAT_RAW: 22
-  response: 7E8056215C00B87
+    Q8_IAT_RAW: 21.6
+  response: 7E8056215C00B83
 - expected_values:
-    Q8_IAT_RAW: 30.4
-  response: 7E8056215C00BDB
+    Q8_IAT_RAW: 33.9
+  response: 7E8056215C00BFE
+- expected_values:
+    Q8_IAT_RAW: 34.7
+  response: 7E8056215C00C06

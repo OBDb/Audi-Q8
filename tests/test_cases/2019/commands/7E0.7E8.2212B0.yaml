@@ -4,8 +4,8 @@ test_cases:
     Q8_ACCEL_7E0: 0
   response: 7E8056212B00000
 - expected_values:
-    Q8_ACCEL_7E0: 0.25
-  response: 7E8056212B000FA
+    Q8_ACCEL_7E0: -0.2
+  response: 7E8056212B0FF38
 - expected_values:
-    Q8_ACCEL_7E0: -0.131
-  response: 7E8056212B0FF7D
+    Q8_ACCEL_7E0: -0.002
+  response: 7E8056212B0FFFE

@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2215AA
 test_cases:
 - expected_values:
-    Q8_PQ35_SELECTED_GEAR: 2
-  response: 7E8056215AA0274
+    Q8_PQ35_SELECTED_GEAR: 1
+  response: 7E8056215AA01FA
 - expected_values:
     Q8_PQ35_SELECTED_GEAR: 4
   response: 7E8056215AA04FC

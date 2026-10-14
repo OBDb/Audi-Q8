@@ -3,6 +3,21 @@ test_cases:
 - expected_values:
     Q8_HVBAT_E_CONTENT: 0
   response: |-
+    77A100B622AB800C800
+    77A210000000000AAAA
+- expected_values:
+    Q8_HVBAT_E_CONTENT: 0
+  response: |-
+    77A100B622AB800D200
+    77A210000000000AAAA
+- expected_values:
+    Q8_HVBAT_E_CONTENT: 0
+  response: |-
+    77A100B622AB801E000
+    77A210000000000AAAA
+- expected_values:
+    Q8_HVBAT_E_CONTENT: 0
+  response: |-
     77A100B622AB8021C00
     77A210000000000AAAA
 - expected_values:
@@ -14,4 +29,14 @@ test_cases:
     Q8_HVBAT_E_CONTENT: 0
   response: |-
     77A100B622AB8023000
+    77A210000000000AAAA
+- expected_values:
+    Q8_HVBAT_E_CONTENT: 0
+  response: |-
+    77A100B622AB8025800
+    77A210000000000AAAA
+- expected_values:
+    Q8_HVBAT_E_CONTENT: 0
+  response: |-
+    77A100B622AB8033400
     77A210000000000AAAA

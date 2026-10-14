@@ -5,4 +5,4 @@ test_cases:
   response: 7E8046210E600
 - expected_values:
     Q8_EOT: null
-  response: 7E8046210E6FE
+  response: 7E8046210E6FD

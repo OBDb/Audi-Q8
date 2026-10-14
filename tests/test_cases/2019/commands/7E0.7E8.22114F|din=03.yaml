@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     Q8_PQ35_SOOT_MASS_CALC: 58.43
   response: 7E80562114F16D3
+- expected_values:
+    Q8_PQ35_SOOT_MASS_CALC: 58.44
+  response: 7E80562114F16D4
+- expected_values:
+    Q8_PQ35_SOOT_MASS_CALC: 58.45
+  response: 7E80562114F16D5

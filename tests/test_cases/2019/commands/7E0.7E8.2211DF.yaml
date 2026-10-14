@@ -4,11 +4,11 @@ test_cases:
     Q8_POWERTRAIN_OVERALL: 2.24
   response: 7E8056211DF00E0
 - expected_values:
-    Q8_POWERTRAIN_OVERALL: 2.88
-  response: 7E8056211DF0120
-- expected_values:
     Q8_POWERTRAIN_OVERALL: 7.52
   response: 7E8056211DF02F0
+- expected_values:
+    Q8_POWERTRAIN_OVERALL: 15.65
+  response: 7E8056211DF061D
 - expected_values:
     Q8_POWERTRAIN_OVERALL: 30.14
   response: 7E8056211DF0BC6

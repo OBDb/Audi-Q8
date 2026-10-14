@@ -1,14 +1,17 @@
 command_id: 710.77A.222A09
 test_cases:
 - expected_values:
-    Q8_SSB_C: 1.742
-  response: 77A07622A09000006CE
+    Q8_SSB_C: 0.23
+  response: 77A07622A09000000E6
 - expected_values:
-    Q8_SSB_C: 2.314
-  response: 77A07622A090000090A
+    Q8_SSB_C: 5.12
+  response: 77A07622A0900001400
 - expected_values:
-    Q8_SSB_C: 2.556
-  response: 77A07622A09000009FC
+    Q8_SSB_C: 5.373
+  response: 77A07622A09000014FD
 - expected_values:
-    Q8_SSB_C: 2.981
-  response: 77A07622A0900000BA5
+    Q8_SSB_C: 0
+  response: 77A07622A09FFFFA650
+- expected_values:
+    Q8_SSB_C: 0
+  response: 77A07622A09FFFFFE57

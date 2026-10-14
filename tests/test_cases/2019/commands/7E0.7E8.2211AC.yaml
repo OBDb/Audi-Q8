@@ -1,14 +1,11 @@
 command_id: 7E0.7E8.2211AC
 test_cases:
 - expected_values:
-    Q8_MAF_THROUGH_THROTTLE: 21
-  response: 7E8056211AC00D2
+    Q8_MAF_THROUGH_THROTTLE: 0
+  response: 7E8056211AC0000
 - expected_values:
-    Q8_MAF_THROUGH_THROTTLE: 26.1
-  response: 7E8056211AC0105
+    Q8_MAF_THROUGH_THROTTLE: 76.6
+  response: 7E8056211AC02FE
 - expected_values:
-    Q8_MAF_THROUGH_THROTTLE: 76
-  response: 7E8056211AC02F8
-- expected_values:
-    Q8_MAF_THROUGH_THROTTLE: 182.6
-  response: 7E8056211AC0722
+    Q8_MAF_THROUGH_THROTTLE: 264.8
+  response: 7E8056211AC0A58

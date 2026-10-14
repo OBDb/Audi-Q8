@@ -7,8 +7,8 @@ test_cases:
     Q8_HVBAT_SOC_DISP: 53.75
   response: 7E80562116414FF
 - expected_values:
-    Q8_HVBAT_SOC_DISP: 61.51
-  response: '7E8056211641807'
+    Q8_HVBAT_SOC_DISP: 66.61
+  response: 7E8056211641A05
 - expected_values:
-    Q8_HVBAT_SOC_DISP: 64.85
-  response: '7E8056211641955'
+    Q8_HVBAT_SOC_DISP: 85.8
+  response: '7E8056211642184'

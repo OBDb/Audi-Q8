@@ -1,11 +1,11 @@
 command_id: 7E1.7E9.222002
 test_cases:
 - expected_values:
-    Q8_ENG_TQ_7E1: 18
-  response: '7E9056220020012'
+    Q8_ENG_TQ_7E1: 0
+  response: '7E9056220020000'
 - expected_values:
-    Q8_ENG_TQ_7E1: -102
-  response: 7E905622002FF9A
+    Q8_ENG_TQ_7E1: -106
+  response: 7E905622002FF96
 - expected_values:
-    Q8_ENG_TQ_7E1: -30
-  response: 7E905622002FFE2
+    Q8_ENG_TQ_7E1: -2
+  response: 7E905622002FFFE

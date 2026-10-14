@@ -4,23 +4,5 @@ test_cases:
     Q8_ATF_T: 61
   response: '7E90462210465'
 - expected_values:
-    Q8_ATF_T: 63
-  response: '7E90462210467'
-- expected_values:
-    Q8_ATF_T: 64
-  response: '7E90462210468'
-- expected_values:
-    Q8_ATF_T: 66
-  response: 7E9046221046A
-- expected_values:
-    Q8_ATF_T: 68
-  response: 7E9046221046C
-- expected_values:
-    Q8_ATF_T: 69
-  response: 7E9046221046D
-- expected_values:
-    Q8_ATF_T: 70
-  response: 7E9046221046E
-- expected_values:
-    Q8_ATF_T: 71
-  response: 7E9046221046F
+    Q8_ATF_T: 89
+  response: '7E90462210481'

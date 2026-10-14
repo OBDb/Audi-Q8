@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     Q8_DASH_OIL_THERMAL_WEAR: 163
   response: 77E0562224B00A3
+- expected_values:
+    Q8_DASH_OIL_THERMAL_WEAR: 167
+  response: 77E0562224B00A7

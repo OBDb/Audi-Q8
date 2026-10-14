@@ -7,5 +7,5 @@ test_cases:
     Q8_PRE_INJ_3_ACTIVATION: 0.8184
   response: 7E80562121A07FE
 - expected_values:
-    Q8_PRE_INJ_3_ACTIVATION: 1.346
-  response: 7E80562121A0D25
+    Q8_PRE_INJ_3_ACTIVATION: 1.7084
+  response: 7E80562121A10AF

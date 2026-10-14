@@ -1,11 +1,8 @@
 command_id: 7E0.7E8.221175
 test_cases:
 - expected_values:
-    Q8_INTEGRATED_MASS_AIR: 11488.49916
-  response: 7E8056211757E37
-- expected_values:
-    Q8_INTEGRATED_MASS_AIR: 18659.7888
-  response: 7E805621175CD00
+    Q8_INTEGRATED_MASS_AIR: 0
+  response: '7E8056211750000'
 - expected_values:
     Q8_INTEGRATED_MASS_AIR: 23301
   response: 7E805621175FFFF

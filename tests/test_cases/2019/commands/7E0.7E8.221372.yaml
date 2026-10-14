@@ -1,11 +1,14 @@
 command_id: 7E0.7E8.221372
 test_cases:
 - expected_values:
-    Q8_CAM_ADJ_EXH_BANK_2_SPEC: 1.976
-  response: 7E80562137200F7
+    Q8_CAM_ADJ_EXH_BANK_2_SPEC: 1.4
+  response: 7E80562137200AF
 - expected_values:
     Q8_CAM_ADJ_EXH_BANK_2_SPEC: 8.184
   response: 7E80562137203FF
 - expected_values:
-    Q8_CAM_ADJ_EXH_BANK_2_SPEC: -3.968
-  response: 7E805621372FE10
+    Q8_CAM_ADJ_EXH_BANK_2_SPEC: -4.088
+  response: 7E805621372FE01
+- expected_values:
+    Q8_CAM_ADJ_EXH_BANK_2_SPEC: -0.704
+  response: 7E805621372FFA8

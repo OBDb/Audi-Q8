@@ -10,5 +10,5 @@ test_cases:
     Q8_LONGITUDINAL_ACCEL: -0.251
   response: 7E805621633FF05
 - expected_values:
-    Q8_LONGITUDINAL_ACCEL: -0.016
-  response: 7E805621633FFF0
+    Q8_LONGITUDINAL_ACCEL: -0.006
+  response: 7E805621633FFFA

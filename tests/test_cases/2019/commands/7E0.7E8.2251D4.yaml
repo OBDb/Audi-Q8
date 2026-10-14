@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2251D4
 test_cases:
 - expected_values:
-    Q8_CYL_BLOCK_T_SENS: 101
-  response: 7E8056251D40E9D
+    Q8_CYL_BLOCK_T_SENS: 86.9
+  response: 7E8056251D40E10
 - expected_values:
     Q8_CYL_BLOCK_T_SENS: 107.6
   response: 7E8056251D40EDF

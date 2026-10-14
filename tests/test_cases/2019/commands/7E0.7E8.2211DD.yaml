@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2211DD
 test_cases:
 - expected_values:
-    Q8_INT_MANIFOLD_P_CMD: 277.73438
-  response: 7E8056211DD0DE3
+    Q8_INT_MANIFOLD_P_CMD: 237.96875
+  response: 7E8056211DD0BE6
 - expected_values:
     Q8_INT_MANIFOLD_P_CMD: 620.07812
   response: 7E8056211DD1F01

@@ -1,32 +1,8 @@
 command_id: 7E1.7E9.221066
 test_cases:
 - expected_values:
-    Q8_STATIC_TQ_LIM: 396
-  response: 7E905621066018C
-- expected_values:
-    Q8_STATIC_TQ_LIM: 412
-  response: 7E905621066019C
-- expected_values:
-    Q8_STATIC_TQ_LIM: 430
-  response: 7E90562106601AE
-- expected_values:
-    Q8_STATIC_TQ_LIM: 436
-  response: 7E90562106601B4
-- expected_values:
-    Q8_STATIC_TQ_LIM: 450
-  response: 7E90562106601C2
-- expected_values:
-    Q8_STATIC_TQ_LIM: 452
-  response: 7E90562106601C4
-- expected_values:
-    Q8_STATIC_TQ_LIM: 458
-  response: 7E90562106601CA
-- expected_values:
-    Q8_STATIC_TQ_LIM: 460
-  response: 7E90562106601CC
-- expected_values:
-    Q8_STATIC_TQ_LIM: 474
-  response: 7E90562106601DA
+    Q8_STATIC_TQ_LIM: 302
+  response: 7E905621066012E
 - expected_values:
     Q8_STATIC_TQ_LIM: 498
   response: 7E90562106601F2

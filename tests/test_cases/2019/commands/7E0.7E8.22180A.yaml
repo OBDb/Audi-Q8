@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22180A
 test_cases:
 - expected_values:
-    Q8_FUEL_RATE_DIFF_INJ: 0.00781
-  response: 7E80562180A0002
+    Q8_FUEL_RATE_DIFF_INJ: 0
+  response: 7E80562180A0000
+- expected_values:
+    Q8_FUEL_RATE_DIFF_INJ: 0.96874
+  response: 7E80562180A00F8
 - expected_values:
     Q8_FUEL_RATE_DIFF_INJ: -0.43359
   response: 7E80562180AFF91
-- expected_values:
-    Q8_FUEL_RATE_DIFF_INJ: -0.05078
-  response: 7E80562180AFFF3

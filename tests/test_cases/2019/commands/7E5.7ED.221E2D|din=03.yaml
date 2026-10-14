@@ -5,34 +5,6 @@ test_cases:
     Q8_BMS_CELL_SOC_MIN_IDX: 0
   response: 7ED06621E2D2C0003
 - expected_values:
-    Q8_BMS_CELL_SOC_MIN: 46
+    Q8_BMS_CELL_SOC_MIN: 70
     Q8_BMS_CELL_SOC_MIN_IDX: 0
-  response: 7ED06621E2D2E0003
-- expected_values:
-    Q8_BMS_CELL_SOC_MIN: 49
-    Q8_BMS_CELL_SOC_MIN_IDX: 0
-  response: 7ED06621E2D310003
-- expected_values:
-    Q8_BMS_CELL_SOC_MIN: 50
-    Q8_BMS_CELL_SOC_MIN_IDX: 0
-  response: 7ED06621E2D320003
-- expected_values:
-    Q8_BMS_CELL_SOC_MIN: 51
-    Q8_BMS_CELL_SOC_MIN_IDX: 0
-  response: 7ED06621E2D330003
-- expected_values:
-    Q8_BMS_CELL_SOC_MIN: 53
-    Q8_BMS_CELL_SOC_MIN_IDX: 0
-  response: 7ED06621E2D350003
-- expected_values:
-    Q8_BMS_CELL_SOC_MIN: 54
-    Q8_BMS_CELL_SOC_MIN_IDX: 0
-  response: 7ED06621E2D360003
-- expected_values:
-    Q8_BMS_CELL_SOC_MIN: 55
-    Q8_BMS_CELL_SOC_MIN_IDX: 0
-  response: 7ED06621E2D370003
-- expected_values:
-    Q8_BMS_CELL_SOC_MIN: 57
-    Q8_BMS_CELL_SOC_MIN_IDX: 0
-  response: 7ED06621E2D390003
+  response: 7ED06621E2D460003

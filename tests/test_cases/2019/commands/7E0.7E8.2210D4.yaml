@@ -4,8 +4,8 @@ test_cases:
     Q8_INJ_2_RAIL_P_1: 0
   response: 7E8056210D40000
 - expected_values:
-    Q8_INJ_2_RAIL_P_1: -0.01315
-  response: 7E8056210D4FEF9
+    Q8_INJ_2_RAIL_P_1: -0.01285
+  response: 7E8056210D4FEFF
 - expected_values:
-    Q8_INJ_2_RAIL_P_1: -0.0102
-  response: 7E8056210D4FF34
+    Q8_INJ_2_RAIL_P_1: -0.0109
+  response: 7E8056210D4FF26

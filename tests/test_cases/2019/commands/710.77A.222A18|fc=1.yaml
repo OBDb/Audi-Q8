@@ -3,3 +3,27 @@ test_cases:
 - expected_values:
     Q8_ENTIRE_ENERGY: 10179.5
   response: 77A06622A18018DA3
+- expected_values:
+    Q8_ENTIRE_ENERGY: 10184.7
+  response: 77A06622A18018DD7
+- expected_values:
+    Q8_ENTIRE_ENERGY: 10184.8
+  response: 77A06622A18018DD8
+- expected_values:
+    Q8_ENTIRE_ENERGY: 10185
+  response: 77A06622A18018DDA
+- expected_values:
+    Q8_ENTIRE_ENERGY: 10185.2
+  response: 77A06622A18018DDC
+- expected_values:
+    Q8_ENTIRE_ENERGY: 10185.4
+  response: 77A06622A18018DDE
+- expected_values:
+    Q8_ENTIRE_ENERGY: 10185.6
+  response: 77A06622A18018DE0
+- expected_values:
+    Q8_ENTIRE_ENERGY: 10185.8
+  response: 77A06622A18018DE2
+- expected_values:
+    Q8_ENTIRE_ENERGY: 10186
+  response: 77A06622A18018DE4

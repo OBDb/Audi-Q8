@@ -1,14 +1,11 @@
 command_id: 7E0.7E8.22127D
 test_cases:
 - expected_values:
-    Q8_VARIABLE_VLV_TIM_INT_1_ON: 6.83593
-  response: 7E80562127D08C0
+    Q8_VARIABLE_VLV_TIM_INT_1_ON: 0
+  response: 7E80562127D0000
 - expected_values:
     Q8_VARIABLE_VLV_TIM_INT_1_ON: 45.30941
   response: 7E80562127D39FF
 - expected_values:
-    Q8_VARIABLE_VLV_TIM_INT_1_ON: 45.32161
-  response: 7E80562127D3A03
-- expected_values:
-    Q8_VARIABLE_VLV_TIM_INT_1_ON: 47.3846
-  response: 7E80562127D3CA7
+    Q8_VARIABLE_VLV_TIM_INT_1_ON: 48.33064
+  response: 7E80562127D3DDD

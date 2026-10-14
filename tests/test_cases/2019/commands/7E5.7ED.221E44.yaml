@@ -4,8 +4,8 @@ test_cases:
     Q8_HVBAT_CELL_5_V: 3.612
   response: 7ED05621E440E1C
 - expected_values:
-    Q8_HVBAT_CELL_5_V: 3.777
-  response: 7ED05621E440EC1
+    Q8_HVBAT_CELL_5_V: 3.837
+  response: 7ED05621E440EFD
 - expected_values:
-    Q8_HVBAT_CELL_5_V: 3.892
-  response: 7ED05621E440F34
+    Q8_HVBAT_CELL_5_V: 3.849
+  response: 7ED05621E440F09

@@ -16,3 +16,27 @@ test_cases:
     Q8_HVBAT_INLET_T: 26
     Q8_HVBAT_OUTLET_T: 31
   response: 7ED0562189D837E
+- expected_values:
+    Q8_HVBAT_INLET_T: 27
+    Q8_HVBAT_OUTLET_T: 31
+  response: 7ED0562189D837F
+- expected_values:
+    Q8_HVBAT_INLET_T: 28
+    Q8_HVBAT_OUTLET_T: 31
+  response: 7ED0562189D8380
+- expected_values:
+    Q8_HVBAT_INLET_T: 27
+    Q8_HVBAT_OUTLET_T: 32
+  response: 7ED0562189D847F
+- expected_values:
+    Q8_HVBAT_INLET_T: 27
+    Q8_HVBAT_OUTLET_T: 33
+  response: 7ED0562189D857F
+- expected_values:
+    Q8_HVBAT_INLET_T: 27
+    Q8_HVBAT_OUTLET_T: 34
+  response: 7ED0562189D867F
+- expected_values:
+    Q8_HVBAT_INLET_T: 27
+    Q8_HVBAT_OUTLET_T: 35
+  response: 7ED0562189D877F

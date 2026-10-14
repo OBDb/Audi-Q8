@@ -5,3 +5,8 @@ test_cases:
   response: |-
     7E9100D6211251B4C07
     7E92180026511DE0D61
+- expected_values:
+    Q8_CLU_2_HI_ADPT_POINT: 7.072
+  response: |-
+    7E9100D6211251BA007
+    7E921B402DD11F30DE5

@@ -3,13 +3,18 @@ test_cases:
 - expected_values:
     Q8_RANGE_EST_CAN: 2047
   response: |-
-    77A100D622AB5024402
-    77A214407FF07FF07FF
+    77A100D622AB500BB00
+    77A21BB07FF07FF07FF
 - expected_values:
     Q8_RANGE_EST_CAN: 2047
   response: |-
-    77A100D622AB5024F02
-    77A214F07FF07FF07FF
+    77A100D622AB500BF00
+    77A21BF07FF07FF07FF
+- expected_values:
+    Q8_RANGE_EST_CAN: 2047
+  response: |-
+    77A100D622AB501D601
+    77A21D607FF07FF07FF
 - expected_values:
     Q8_RANGE_EST_CAN: 2047
   response: |-
@@ -18,5 +23,10 @@ test_cases:
 - expected_values:
     Q8_RANGE_EST_CAN: 2047
   response: |-
-    77A100D622AB5025702
-    77A215707FF07FF07FF
+    77A100D622AB5033303
+    77A213307FF07FF07FF
+- expected_values:
+    Q8_RANGE_EST_CAN: 0
+  response: |-
+    77A100D622AB5033603
+    77A2136000000000000

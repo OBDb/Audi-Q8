@@ -9,3 +9,12 @@ test_cases:
 - expected_values:
     Q8_EOT_V2: 65521
   response: 7E8056211BEFFF1
+- expected_values:
+    Q8_EOT_V2: 65522
+  response: 7E8056211BEFFF2
+- expected_values:
+    Q8_EOT_V2: 65523
+  response: 7E8056211BEFFF3
+- expected_values:
+    Q8_EOT_V2: 65524
+  response: 7E8056211BEFFF4

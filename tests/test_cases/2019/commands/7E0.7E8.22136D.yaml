@@ -10,5 +10,5 @@ test_cases:
     Q8_CAM_ADJ_EXH_BANK_2_ACT: 15.92188
   response: 7E80562136D03FB
 - expected_values:
-    Q8_CAM_ADJ_EXH_BANK_2_ACT: -0.625
-  response: 7E80562136DFFD8
+    Q8_CAM_ADJ_EXH_BANK_2_ACT: -0.70312
+  response: 7E80562136DFFD3

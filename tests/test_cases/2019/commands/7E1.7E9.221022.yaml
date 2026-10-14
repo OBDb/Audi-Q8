@@ -1,6 +1,12 @@
 command_id: 7E1.7E9.221022
 test_cases:
 - expected_values:
+    Q8_TCM_TQ_LOSSES: 1
+  response: '7E9056210220001'
+- expected_values:
+    Q8_TCM_TQ_LOSSES: 3
+  response: '7E9056210220003'
+- expected_values:
     Q8_TCM_TQ_LOSSES: 4
   response: '7E9056210220004'
 - expected_values:

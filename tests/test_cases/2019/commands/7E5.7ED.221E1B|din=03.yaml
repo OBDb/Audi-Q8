@@ -1,5 +1,11 @@
 command_id: 7E5.7ED.221E1B|din=03
 test_cases:
 - expected_values:
+    Q8_BMS_I_CHG_LIM_DYN: 185
+  response: 7ED05621E1B00B9
+- expected_values:
+    Q8_BMS_I_CHG_LIM_DYN: 190
+  response: 7ED05621E1B00BE
+- expected_values:
     Q8_BMS_I_CHG_LIM_DYN: 200
   response: 7ED05621E1B00C8

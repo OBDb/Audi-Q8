@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     Q8_PQ35_INJ_2_RAIL_P_1: 0
   response: 7E8056210D30000
+- expected_values:
+    Q8_PQ35_INJ_2_RAIL_P_1: -0.0002
+  response: 7E8056210D3FFFC

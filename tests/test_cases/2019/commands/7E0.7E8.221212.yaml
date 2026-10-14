@@ -1,17 +1,20 @@
 command_id: 7E0.7E8.221212
 test_cases:
 - expected_values:
-    Q8_KNOCK_SENS_CYL_2: 0.01372
-  response: '7E80762121200004652'
+    Q8_KNOCK_SENS_CYL_2: 0.00867
+  response: 7E80762121200002C75
 - expected_values:
-    Q8_KNOCK_SENS_CYL_2: 0.01794
-  response: 7E80762121200005BFB
+    Q8_KNOCK_SENS_CYL_2: 0.02166
+  response: 7E80762121200006F05
+- expected_values:
+    Q8_KNOCK_SENS_CYL_2: 0.04447
+  response: 7E8076212120000E3FC
 - expected_values:
     Q8_KNOCK_SENS_CYL_2: 0.04904
   response: 7E8076212120000FB64
 - expected_values:
-    Q8_KNOCK_SENS_CYL_2: 0.0528
-  response: 7E80762121200010EAA
+    Q8_KNOCK_SENS_CYL_2: 0.05164
+  response: 7E807621212000108B9
 - expected_values:
-    Q8_KNOCK_SENS_CYL_2: 0.05619
-  response: '7E80762121200012009'
+    Q8_KNOCK_SENS_CYL_2: 0.13633
+  response: 7E8076212120002BAE3

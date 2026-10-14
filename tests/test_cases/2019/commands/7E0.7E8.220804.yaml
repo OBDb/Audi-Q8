@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     Q8_GPF_OIL_ASH_LOAD: 58.82353
   response: '7E80462080496'
+- expected_values:
+    Q8_GPF_OIL_ASH_LOAD: 59.21569
+  response: '7E80462080497'

@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22128C
 test_cases:
 - expected_values:
-    Q8_MEDIAN_INJ_TIM: 1.018
-  response: 7E80762128C000003FA
+    Q8_MEDIAN_INJ_TIM: 0
+  response: 7E80762128C00000000
 - expected_values:
-    Q8_MEDIAN_INJ_TIM: 3.335
-  response: 7E80762128C00000D07
+    Q8_MEDIAN_INJ_TIM: 1.534
+  response: 7E80762128C000005FE
 - expected_values:
-    Q8_MEDIAN_INJ_TIM: 6.113
-  response: 7E80762128C000017E1
+    Q8_MEDIAN_INJ_TIM: 7.718
+  response: 7E80762128C00001E26

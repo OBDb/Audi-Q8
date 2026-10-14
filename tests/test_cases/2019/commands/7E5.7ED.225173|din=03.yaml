@@ -4,5 +4,5 @@ test_cases:
     Q8_BMS_V_DCHG_PRED_MIN: 44.7
   response: 7ED0562517301BF
 - expected_values:
-    Q8_BMS_V_DCHG_PRED_MIN: 46.2
-  response: 7ED0562517301CE
+    Q8_BMS_V_DCHG_PRED_MIN: 47.8
+  response: 7ED0562517301DE
