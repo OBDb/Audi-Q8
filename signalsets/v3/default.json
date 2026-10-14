@@ -1,22 +1,23 @@
 { "ecu": [
+    { "hdr": "710", "type": "gateway" },
     { "hdr": "7E0", "type": "engine" },
     { "hdr": "7E1", "type": "transmission" }
   ],
   "commands": [
-{ "hdr": "70E", "rax": "778", "fcm1": true, "din": "03", "cmd": {"22": "5036"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "70E", "rax": "778", "fcm1": true, "din": "03", "cmd": {"22": "5036"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023, 2024], "from": 2026 },
   "signals": [
     {"id": "Q8_HUMIDITY_SENS_REL", "path": "Engine", "fmt": {"bix": 16, "len": 16, "max": 32439, "mul": 99, "div": 200, "unit": "percent" }, "name": "Humidity sensor, relative humidity"}
   ]},
-{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "123A"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "123A"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023, 2024], "from": 2026 },
   "signals": [
     {"id": "Q8_BZE_Q_LAD",  "path": "Engine", "fmt": {           "len": 32, "max": 429496729, "div": 10, "unit": "ampereHours" }, "name": "Bze_q_lad"},
     {"id": "Q8_BZE_Q_ELAD", "path": "Engine", "fmt": {"bix": 32, "len": 32, "max": 429496729, "div": 10, "unit": "ampereHours" }, "name": "Bze_q_elad"}
   ]},
-{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "2A00"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2027 },
+{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "2A00"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023, 2024], "from": 2027 },
   "signals": [
     {"id": "Q8_SSB_VT", "path": "Battery", "fmt": { "len": 8, "max": 36.1, "div": 10, "add": 10.6, "unit": "volts" }, "name": "Start/stop battery target voltage"}
   ]},
-{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "2A06"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "2A06"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023, 2024], "from": 2026 },
   "signals": [
     {"id": "Q8_12V_BAT_CAP", "path": "Battery", "fmt": {"bix": 16, "len": 8, "max": 255, "unit": "ampereHours" }, "name": "12V battery capacity"}
   ]},
@@ -52,7 +53,7 @@
   "signals": [
     {"id": "Q8_SSB_V_REST", "path": "Battery", "fmt": { "len": 8, "max": 34.5, "min": 9, "div": 10, "add": 9, "unit": "volts" }, "name": "Start/stop battery voltage, at rest"}
   ]},
-{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "2A15"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "2A15"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023, 2024], "from": 2026 },
   "signals": [
     {"id": "Q8_ENERGY_BALANCE_LAST", "path": "Engine", "fmt": { "len": 16, "max": 327, "min": -327, "div": 100, "sign": true, "unit": "ampereHours" }, "name": "Energy balance of last driving cycle"}
   ]},
@@ -60,11 +61,11 @@
   "signals": [
     {"id": "Q8_OVERALL_ENERGY", "path": "Engine", "fmt": { "len": 24, "max": 8808037, "min": -8808038, "mul": 21, "div": 20, "sign": true, "unit": "ampereHours" }, "name": "Overall energy balance"}
   ]},
-{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "2A18"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "2A18"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023, 2024], "from": 2026 },
   "signals": [
     {"id": "Q8_ENTIRE_ENERGY", "path": "Tires", "fmt": { "len": 24, "max": 838860, "min": -838860, "div": 10, "sign": true, "unit": "ampereHours" }, "name": "Entire energy throughput"}
   ]},
-{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "2A1C"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "2A1C"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023, 2024], "from": 2026 },
   "signals": [
     {"id": "Q8_GEN_CURRENT", "path": "Engine", "fmt": { "len": 16, "max": 6553, "div": 10, "unit": "amps" }, "name": "Generator current"}
   ]},
@@ -81,7 +82,7 @@
     {"id": "Q8_RANGE_EST_INT",      "path": "Battery.Internal", "fmt": {"bix": 16, "len": 16, "max": 65535, "unit": "kilometers" }, "name": "Estimated electric power reserve"},
     {"id": "Q8_HVBAT_CSMP_AVG_INT", "path": "Battery.Internal", "fmt": {"bix": 72, "len": 8,  "max": 255,   "unit": "amps"       }, "name": "Average battery consumption"}
   ]},
-{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "2AB5"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2027 },
+{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "2AB5"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023, 2024], "from": 2027 },
   "signals": [
     {"id": "Q8_RANGE_EST_CAN", "path": "Battery", "fmt": {"bix": 32, "len": 16, "max": 65535, "unit": "kilometers" }, "name": "Estimated reserve range"}
   ]},
@@ -89,7 +90,7 @@
   "signals": [
     {"id": "Q8_RANGE_V2", "path": "Trips", "fmt": { "len": 16, "max": 65535, "unit": "miles" }, "name": "Range remaining", "suggestedMetric": "electricRange"}
   ]},
-{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "2AB7"}, "freq": 5, "dbgfilter": { "to": 2020, "years": [2022, 2023, 2024], "from": 2027 },
+{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "2AB7"}, "freq": 5, "dbgfilter": { "to": 2018, "years": [2020, 2022, 2023, 2024], "from": 2027 },
   "signals": [
     {"id": "Q8_AVG_CSMP_CAT0", "path": "Trips", "fmt": {           "len": 16, "max": 6553, "div": 10, "unit": "kilowattHours" }, "name": "Average consumption, category 0"},
     {"id": "Q8_AVG_CSMP_CAT1", "path": "Trips", "fmt": {"bix": 16, "len": 16, "max": 6553, "div": 10, "unit": "kilowattHours" }, "name": "Average consumption, category 1"},
@@ -103,11 +104,11 @@
   "signals": [
     {"id": "Q8_HVBAT_E_CONTENT", "path": "Battery", "fmt": {"bix": 16, "len": 16, "max": 1638.37, "mul": 25, "div": 1000, "unit": "kilowattHours" }, "name": "HV battery energy content", "description": "Energy stored in the high voltage battery"}
   ]},
-{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "4F00"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "4F00"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023, 2024], "from": 2026 },
   "signals": [
     {"id": "Q8_GEN_V_ACT", "path": "Battery", "fmt": { "len": 8, "max": 36.1, "div": 10, "add": 10.6, "unit": "volts" }, "name": "Generator voltage, actual"}
   ]},
-{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "5505"}, "freq": 5, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "5505"}, "freq": 5, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023, 2024], "from": 2026 },
   "signals": [
     {"id": "Q8_STEER_WHL_T", "path": "Tires", "fmt": { "len": 8, "max": 255, "unit": "celsius" }, "name": "Steering wheel temperature"}
   ]},
