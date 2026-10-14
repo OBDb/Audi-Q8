@@ -1,4 +1,8 @@
-{ "commands": [
+{ "ecu": [
+    { "hdr": "7E0", "type": "engine" },
+    { "hdr": "7E1", "type": "transmission" }
+  ],
+  "commands": [
 { "hdr": "70E", "rax": "778", "fcm1": true, "din": "03", "cmd": {"22": "5036"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "Q8_HUMIDITY_SENS_REL", "path": "Engine", "fmt": {"bix": 16, "len": 16, "max": 32439, "mul": 99, "div": 200, "unit": "percent" }, "name": "Humidity sensor, relative humidity"}
