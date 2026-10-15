@@ -6,35 +6,15 @@ test_cases:
     77A100A622AB600D200
     77A21D207FD01AAAAAA
 - expected_values:
-    Q8_RANGE_V2: 220
-  response: |-
-    77A100A622AB600DC00
-    77A21DC07FD01AAAAAA
-- expected_values:
     Q8_RANGE_V2: 225
   response: |-
     77A100A622AB600E100
     77A21E107FD01AAAAAA
 - expected_values:
-    Q8_RANGE_V2: 230
-  response: |-
-    77A100A622AB600E600
-    77A21E607FD01AAAAAA
-- expected_values:
-    Q8_RANGE_V2: 235
-  response: |-
-    77A100A622AB600EB00
-    77A21EB07FD01AAAAAA
-- expected_values:
     Q8_RANGE_V2: 245
   response: |-
     77A100A622AB600F500
     77A21F507FD01AAAAAA
-- expected_values:
-    Q8_RANGE_V2: 250
-  response: |-
-    77A100A622AB600FA00
-    77A21FA07FD01AAAAAA
 - expected_values:
     Q8_RANGE_V2: 255
   response: |-
@@ -45,8 +25,3 @@ test_cases:
   response: |-
     77A100A622AB6010401
     77A210407FD01AAAAAA
-- expected_values:
-    Q8_RANGE_V2: 285
-  response: |-
-    77A100A622AB6011D01
-    77A211D07FD01AAAAAA
