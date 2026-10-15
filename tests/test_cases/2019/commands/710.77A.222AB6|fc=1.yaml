@@ -26,6 +26,11 @@ test_cases:
     77A100A622AB6017701
     77A217707FD01AAAAAA
 - expected_values:
+    Q8_RANGE_V2: 495
+  response: |-
+    77A100A622AB601EF01
+    77A21EF07FD01AAAAAA
+- expected_values:
     Q8_RANGE_V2: 510
   response: |-
     77A100A622AB601FE01
