@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2211CD
 test_cases:
 - expected_values:
-    Q8_TCO_1_SYS: -40
+    Q8_TCO_1_SYS: 0
   response: 7E8056211CD0000
 - expected_values:
-    Q8_TCO_1_SYS: 215
+    Q8_TCO_1_SYS: -202
   response: 7E8056211CDFF36
 - expected_values:
-    Q8_TCO_1_SYS: 215
+    Q8_TCO_1_SYS: -3
   response: 7E8056211CDFFFD
