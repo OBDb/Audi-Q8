@@ -4,5 +4,5 @@ test_cases:
     Q8_FLI_INPUT: 49.80392
   response: 7E80462F42F7F
 - expected_values:
-    Q8_FLI_INPUT: 61.96078
-  response: 7E80462F42F9E
+    Q8_FLI_INPUT: 85.88235
+  response: 7E80462F42FDB
