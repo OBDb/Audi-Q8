@@ -4,5 +4,5 @@ test_cases:
     Q8_ODO_7E1_2: 1191
   response: 7E90662103D0004A7
 - expected_values:
-    Q8_ODO_7E1_2: 1265
-  response: 7E90662103D0004F1
+    Q8_ODO_7E1_2: 1525
+  response: 7E90662103D0005F5

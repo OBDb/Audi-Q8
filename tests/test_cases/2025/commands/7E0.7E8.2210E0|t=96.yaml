@@ -4,8 +4,5 @@ test_cases:
     Q8_ODO_V3: 149
   response: 7E8076210E000000095
 - expected_values:
-    Q8_ODO_V3: 1191
-  response: 7E8076210E0000004A7
-- expected_values:
-    Q8_ODO_V3: 1262
-  response: 7E8076210E0000004EE
+    Q8_ODO_V3: 1525
+  response: 7E8076210E0000005F5

@@ -16,5 +16,5 @@ test_cases:
     Q8_ODO_HD: 1242.659
   response: 7E8076211600012F623
 - expected_values:
-    Q8_ODO_HD: 1250.249
-  response: 7E807621160001313C9
+    Q8_ODO_HD: 1509.794
+  response: 7E807621160001709A2
