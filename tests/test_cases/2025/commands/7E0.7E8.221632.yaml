@@ -4,8 +4,8 @@ test_cases:
     Q8_EOT_MEAS: 7.8
   response: 7E8056216320AF9
 - expected_values:
-    Q8_EOT_MEAS: 33.9
-  response: 7E8056216320BFE
+    Q8_EOT_MEAS: 59.6
+  response: 7E8056216320CFF
 - expected_values:
     Q8_EOT_MEAS: 59.7
   response: 7E8056216320D00
