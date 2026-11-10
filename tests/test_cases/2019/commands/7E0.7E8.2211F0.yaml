@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.2211F0
 test_cases:
 - expected_values:
-    Q8_BOOST_P_ACT: 837.65625
+    Q8_BOOST_P_ACT: 83.76562
   response: 7E8056211F029E2
 - expected_values:
-    Q8_BOOST_P_ACT: 879.92188
+    Q8_BOOST_P_ACT: 87.99219
   response: 7E8056211F02BFF
 - expected_values:
-    Q8_BOOST_P_ACT: 900.3125
+    Q8_BOOST_P_ACT: 90.03125
   response: 7E8056211F02D04
 - expected_values:
-    Q8_BOOST_P_ACT: 1262.57812
+    Q8_BOOST_P_ACT: 126.25781
   response: 7E8056211F03F21
