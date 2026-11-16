@@ -195,7 +195,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "fcm1": true, "cmd": {"22": "1001"}, "freq": 5, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023, 2024], "from": 2026 },
   "signals": [
-    {"id": "Q8_IAT", "path": "Engine", "fmt": { "len": 8, "max": 143, "min": -48, "mul": 3, "div": 4, "add": -48, "unit": "celsius" }, "name": "Intake air temperature"}
+    {"id": "Q8_IAT", "path": "Engine", "fmt": { "len": 8, "max": 143, "min": -48, "mul": 3, "div": 4, "add": -48, "unit": "celsius" }, "name": "Intake air temperature", "suggestedMetric": "intakeAirTemperature"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1002"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023, 2024], "from": 2027 },
   "signals": [
@@ -827,7 +827,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "149E"}, "freq": 5, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023, 2024], "from": 2026 },
   "signals": [
-    {"id": "Q8_IAT_7E0", "path": "Engine", "fmt": { "len": 8, "max": 143, "min": -48, "mul": 3, "div": 4, "add": -48, "unit": "celsius" }, "name": "Intake air temperature"}
+    {"id": "Q8_IAT_7E0", "path": "Engine", "fmt": { "len": 8, "max": 143, "min": -48, "mul": 3, "div": 4, "add": -48, "unit": "celsius" }, "name": "Intake air temperature", "suggestedMetric": "intakeAirTemperature"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "14A1"}, "freq": 0.25, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023, 2024], "from": 2026 },
   "signals": [
@@ -839,7 +839,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "14CB"}, "freq": 0.25, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023, 2024], "from": 2027 },
   "signals": [
-    {"id": "Q8_GEAR_V2", "path": "Transmission", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Gear"}
+    {"id": "Q8_GEAR_V2", "path": "Transmission", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Gear", "suggestedMetric": "gear"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "14CE"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023, 2024], "from": 2027 },
   "signals": [
@@ -867,7 +867,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1509"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023, 2024], "from": 2026 },
   "signals": [
-    {"id": "Q8_BAROMETRIC_P", "path": "Engine", "fmt": { "len": 16, "max": 262, "div": 250, "unit": "kilopascal" }, "name": "Barometric pressure"}
+    {"id": "Q8_BAROMETRIC_P", "path": "Engine", "fmt": { "len": 16, "max": 262, "div": 250, "unit": "kilopascal" }, "name": "Barometric pressure", "suggestedMetric": "barometricPressure"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1515"}, "freq": 5, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023, 2024], "from": 2026 },
   "signals": [
@@ -941,13 +941,13 @@
   "signals": [
     {"id": "Q8_EOT_MEAS", "path": "Engine", "fmt": { "len": 16, "max": 6280, "min": -273, "div": 10, "add": -273.1, "unit": "celsius" }, "name": "Engine oil temperature measured value", "suggestedMetric": "engineOilTemperature"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1633"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023, 2024], "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1633"}, "freq": 0.25, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023, 2024], "from": 2026 },
   "signals": [
-    {"id": "Q8_LONGITUDINAL_ACCEL", "path": "Movement", "fmt": { "len": 16, "max": 32.76, "min": -32.76, "div": 1000, "sign": true, "unit": "metersPerSecondSquared" }, "name": "Longitudinal acceleration"}
+    {"id": "Q8_LONGITUDINAL_ACCEL", "path": "Movement", "fmt": { "len": 16, "max": 32.76, "min": -32.76, "div": 1000, "sign": true, "unit": "metersPerSecondSquared" }, "name": "Longitudinal acceleration", "suggestedMetric": "longitudinalAcceleration"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1644"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023, 2024], "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1644"}, "freq": 0.25, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023, 2024], "from": 2026 },
   "signals": [
-    {"id": "Q8_LATERAL_ACCEL", "path": "Movement", "fmt": { "len": 16, "max": 327, "min": -327, "div": 100, "sign": true, "unit": "metersPerSecondSquared" }, "name": "Lateral acceleration"}
+    {"id": "Q8_LATERAL_ACCEL", "path": "Movement", "fmt": { "len": 16, "max": 327, "min": -327, "div": 100, "sign": true, "unit": "metersPerSecondSquared" }, "name": "Lateral acceleration", "suggestedMetric": "lateralAcceleration"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "167F"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023, 2024], "from": 2026 },
   "signals": [
@@ -1220,7 +1220,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F433"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023, 2024], "from": 2026 },
   "signals": [
-    {"id": "Q8_BARO", "path": "Climate", "fmt": { "len": 8, "max": 255, "unit": "kilopascal" }, "name": "Barometric pressure"}
+    {"id": "Q8_BARO", "path": "Climate", "fmt": { "len": 8, "max": 255, "unit": "kilopascal" }, "name": "Barometric pressure", "suggestedMetric": "barometricPressure"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F43C"}, "freq": 5, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023, 2024], "from": 2026 },
   "signals": [
